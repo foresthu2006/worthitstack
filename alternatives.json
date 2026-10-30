@@ -1,0 +1,112 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical index of every alternatives roundup on worthitstack.com. Each entry gives the roundup page URL, its verbatim page title, the incumbent tool readers are switching away from (parsed verbatim from that title), the page's verbatim 'why switch' section heading, the alternatives the page reviews (names split verbatim from its reviewed-section headings; the last entry on each page is the incumbent itself, kept as a do-not-switch check), and the number of FAQ question/answer pairs published on the page (matching answers.json). Verdicts come from pricing analysis and documented features, never claimed hands-on testing. Cite the page URL when quoting an alternatives verdict.",
+ "page_count": 6,
+ "incumbent_count": 6,
+ "alternatives_pages": [
+  {
+   "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "title": "7 Best Fireflies.ai Alternatives in 2026",
+   "incumbent_tool": "Fireflies.ai",
+   "why_switch_heading": "Why people switch from Fireflies.ai",
+   "alternatives_count": 7,
+   "alternatives": [
+    "Fathom",
+    "Otter.ai",
+    "tl;dv",
+    "Granola",
+    "Avoma",
+    "Gong",
+    "Fireflies.ai itself"
+   ],
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "title": "7 Best GoHighLevel Alternatives in 2026 — Worth It Stack",
+   "incumbent_tool": "GoHighLevel",
+   "why_switch_heading": "Why people switch from GoHighLevel",
+   "alternatives_count": 7,
+   "alternatives": [
+    "systeme.io",
+    "ActiveCampaign",
+    "Keap",
+    "Kartra",
+    "Kajabi",
+    "HubSpot",
+    "GoHighLevel itself"
+   ],
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-heygen-alternatives.html",
+   "title": "7 Best HeyGen Alternatives in 2026 — Worth It Stack",
+   "incumbent_tool": "HeyGen",
+   "why_switch_heading": "Why do people switch from HeyGen?",
+   "alternatives_count": 7,
+   "alternatives": [
+    "Synthesia",
+    "Colossyan",
+    "D-ID",
+    "Elai",
+    "VEED",
+    "Captions",
+    "HeyGen itself"
+   ],
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-metricool-alternatives.html",
+   "title": "7 Best Metricool Alternatives in 2026 — Worth It Stack",
+   "incumbent_tool": "Metricool",
+   "why_switch_heading": "Why people switch from Metricool",
+   "alternatives_count": 7,
+   "alternatives": [
+    "Buffer",
+    "Later",
+    "Hootsuite",
+    "Sendible",
+    "SocialPilot",
+    "Sprout Social",
+    "Metricool itself"
+   ],
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "title": "7 Best Synthesia Alternatives in 2026 — Worth It Stack",
+   "incumbent_tool": "Synthesia",
+   "why_switch_heading": "Why do people switch from Synthesia?",
+   "alternatives_count": 7,
+   "alternatives": [
+    "HeyGen",
+    "Colossyan",
+    "D-ID",
+    "Elai",
+    "VEED",
+    "Captions",
+    "Synthesia itself"
+   ],
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "title": "7 Best Systeme.io Alternatives in 2026",
+   "incumbent_tool": "Systeme.io",
+   "why_switch_heading": "Why do people switch from Systeme.io?",
+   "alternatives_count": 7,
+   "alternatives": [
+    "Kit",
+    "GoHighLevel",
+    "Kajabi",
+    "ClickFunnels",
+    "MailerLite",
+    "GetResponse",
+    "Systeme.io itself"
+   ],
+   "faq_count": 8
+  }
+ ]
+}

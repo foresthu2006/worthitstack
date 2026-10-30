@@ -1,0 +1,331 @@
+{
+ "dataset": "Worth It Stack — AI Software Entry Pricing Dataset",
+ "dataset_id": "https://worthitstack.com/all-answers.html#pricing-dataset",
+ "source": "Extracted verbatim from the SoftwareApplication Offer structured data published on Worth It Stack review and comparison pages. No prices were inferred or averaged.",
+ "version": "2026-10-16",
+ "date_created": "2026-10-16",
+ "row_count": 31,
+ "tool_count": 19,
+ "columns": [
+  "tool",
+  "application_category",
+  "operating_system",
+  "entry_price_usd",
+  "price_currency",
+  "price_valid_until",
+  "vendor_pricing_url",
+  "source_page"
+ ],
+ "rows": [
+  {
+   "tool": "Copy.ai",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 29,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.copy.ai/pricing",
+   "source_page": "https://worthitstack.com/copy-ai-review.html"
+  },
+  {
+   "tool": "Fireflies.ai",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 10,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://fireflies.ai/pricing",
+   "source_page": "https://worthitstack.com/fireflies-review.html"
+  },
+  {
+   "tool": "Fireflies.ai",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 10,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://fireflies.ai/pricing",
+   "source_page": "https://worthitstack.com/fireflies-vs-otter-ai.html"
+  },
+  {
+   "tool": "Otter.ai",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 8.33,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://otter.ai/pricing",
+   "source_page": "https://worthitstack.com/fireflies-vs-otter-ai.html"
+  },
+  {
+   "tool": "GetResponse",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 19,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.getresponse.com/pricing",
+   "source_page": "https://worthitstack.com/getresponse-vs-mailchimp.html"
+  },
+  {
+   "tool": "Mailchimp",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 13,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://mailchimp.com/pricing",
+   "source_page": "https://worthitstack.com/getresponse-vs-mailchimp.html"
+  },
+  {
+   "tool": "GoHighLevel",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 97,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.gohighlevel.com/pricing",
+   "source_page": "https://worthitstack.com/gohighlevel-review.html"
+  },
+  {
+   "tool": "GoHighLevel",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 97,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.gohighlevel.com/pricing",
+   "source_page": "https://worthitstack.com/gohighlevel-vs-keap.html"
+  },
+  {
+   "tool": "Keap",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 129,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://keap.com/pricing",
+   "source_page": "https://worthitstack.com/gohighlevel-vs-keap.html"
+  },
+  {
+   "tool": "GoHighLevel",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 97,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.gohighlevel.com/pricing",
+   "source_page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html"
+  },
+  {
+   "tool": "Systeme.io",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 17,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://systeme.io/pricing",
+   "source_page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html"
+  },
+  {
+   "tool": "HeyGen",
+   "application_category": "MultimediaApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 29,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.heygen.com/pricing",
+   "source_page": "https://worthitstack.com/heygen-review.html"
+  },
+  {
+   "tool": "HeyGen",
+   "application_category": "MultimediaApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 29,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.heygen.com/pricing",
+   "source_page": "https://worthitstack.com/heygen-vs-synthesia.html"
+  },
+  {
+   "tool": "Synthesia",
+   "application_category": "MultimediaApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 29,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.synthesia.io/pricing",
+   "source_page": "https://worthitstack.com/heygen-vs-synthesia.html"
+  },
+  {
+   "tool": "Jasper",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 49,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.jasper.ai/pricing",
+   "source_page": "https://worthitstack.com/jasper-vs-copy-ai.html"
+  },
+  {
+   "tool": "Metricool",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 25,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://metricool.com/pricing",
+   "source_page": "https://worthitstack.com/metricool-review.html"
+  },
+  {
+   "tool": "Metricool",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 25,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://metricool.com/pricing",
+   "source_page": "https://worthitstack.com/metricool-vs-buffer.html"
+  },
+  {
+   "tool": "Buffer",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 6,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://buffer.com/pricing",
+   "source_page": "https://worthitstack.com/metricool-vs-buffer.html"
+  },
+  {
+   "tool": "Metricool",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 25,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://metricool.com/pricing",
+   "source_page": "https://worthitstack.com/metricool-vs-hootsuite.html"
+  },
+  {
+   "tool": "Hootsuite",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 99,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.hootsuite.com/plans",
+   "source_page": "https://worthitstack.com/metricool-vs-hootsuite.html"
+  },
+  {
+   "tool": "Metricool",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 25,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://metricool.com/pricing",
+   "source_page": "https://worthitstack.com/metricool-vs-later.html"
+  },
+  {
+   "tool": "Later",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 25,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://later.com/pricing",
+   "source_page": "https://worthitstack.com/metricool-vs-later.html"
+  },
+  {
+   "tool": "Metricool",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 25,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://metricool.com/pricing",
+   "source_page": "https://worthitstack.com/metricool-vs-sendible.html"
+  },
+  {
+   "tool": "Sendible",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 35,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.sendible.com/pricing",
+   "source_page": "https://worthitstack.com/metricool-vs-sendible.html"
+  },
+  {
+   "tool": "Surfer SEO",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 99,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.surferseo.com/pricing",
+   "source_page": "https://worthitstack.com/surfer-seo-review.html"
+  },
+  {
+   "tool": "Synthesia",
+   "application_category": "MultimediaApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 29,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.synthesia.io/pricing",
+   "source_page": "https://worthitstack.com/synthesia-review.html"
+  },
+  {
+   "tool": "Systeme.io",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 17,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://systeme.io/pricing",
+   "source_page": "https://worthitstack.com/systeme-io-review.html"
+  },
+  {
+   "tool": "Systeme.io",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 17,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://systeme.io/pricing",
+   "source_page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html"
+  },
+  {
+   "tool": "ClickFunnels",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 97,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://www.clickfunnels.com/pricing",
+   "source_page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html"
+  },
+  {
+   "tool": "Systeme.io",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 17,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://systeme.io/pricing",
+   "source_page": "https://worthitstack.com/systeme-io-vs-kit.html"
+  },
+  {
+   "tool": "Kit (ConvertKit)",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "entry_price_usd": 39,
+   "price_currency": "USD",
+   "price_valid_until": "2026-12-31",
+   "vendor_pricing_url": "https://kit.com/pricing",
+   "source_page": "https://worthitstack.com/systeme-io-vs-kit.html"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical guides-and-glossary index of worthitstack.com, in JSON: the site's one HowTo guide exactly as published in methodology.html's JSON-LD — its verbatim name and description and its five steps in position order, each with its verbatim name and text — plus the site's one DefinedTermSet glossary, its six terms with their verbatim definitions. Every prior index is keyed by question, price, page, tool, cited source, internal link, heading, table, verdict, structured-data offer, breadcrumb trail or ranked list; none exposed the site's instructional or definitional layer, so a machine reader can now answer a process question — how does this site compare software, step by step — or a definition question — what does per-seat pricing mean here — from this file instead of reconstructing the guide and glossary from methodology.html's JSON-LD. Cite content by its page, not by this index.",
+ "guide_count": 1,
+ "step_count": 5,
+ "glossary_count": 1,
+ "term_count": 6,
+ "record_count": 11,
+ "guides": [
+  {
+   "page": "https://worthitstack.com/methodology.html",
+   "guide_id": "https://worthitstack.com/methodology.html#howto",
+   "name": "How Worth It Stack compares software",
+   "description": "Every comparison follows the same documented five-part process — real pricing pulled from vendor pages and mapped at realistic usage, per-seat vs per-contact vs flat math, annual/monthly differences, feature matrices from official docs, and aggregated verified reviews.",
+   "url": "https://worthitstack.com/methodology.html",
+   "step_count": 5,
+   "steps": [
+    {
+     "position": 1,
+     "name": "Pricing transparency and real cost",
+     "step_id": "https://worthitstack.com/methodology.html#howto-1",
+     "url": "https://worthitstack.com/methodology.html#pricing-transparency-and-real-cost",
+     "text": "We pull current pricing directly from vendor pricing pages and map what each tier actually costs at realistic usage levels — not just the headline \"from\" price."
+    },
+    {
+     "position": 2,
+     "name": "Feature matrices from official documentation",
+     "step_id": "https://worthitstack.com/methodology.html#howto-2",
+     "url": "https://worthitstack.com/methodology.html#feature-matrices-from-official-documentation",
+     "text": "We build side-by-side feature comparisons from official docs, changelogs, and help centers — not from marketing landing pages."
+    },
+    {
+     "position": 3,
+     "name": "Aggregated verified user reviews",
+     "step_id": "https://worthitstack.com/methodology.html#howto-3",
+     "url": "https://worthitstack.com/methodology.html#aggregated-verified-user-reviews",
+     "text": "We read reviews on established platforms (such as G2, Capterra, and Trustpilot) looking for patterns, not individual opinions: the same complaint appearing across dozens of reviews is signal; one angry review is noise."
+    },
+    {
+     "position": 4,
+     "name": "Use-case fit",
+     "step_id": "https://worthitstack.com/methodology.html#howto-4",
+     "url": "https://worthitstack.com/methodology.html#use-case-fit",
+     "text": "There is no universally \"best\" tool — only the best tool for a specific situation."
+    },
+    {
+     "position": 5,
+     "name": "The honesty check",
+     "step_id": "https://worthitstack.com/methodology.html#howto-5",
+     "url": "https://worthitstack.com/methodology.html#the-honesty-check",
+     "text": "Before publishing, every article has to pass one question: did we claim anything we can't back up?"
+    }
+   ]
+  }
+ ],
+ "glossaries": [
+  {
+   "page": "https://worthitstack.com/methodology.html",
+   "set_id": "https://worthitstack.com/methodology.html#glossary-terms",
+   "name": "How we compare software — Glossary",
+   "description": "Definitions of the 6 pricing and comparison terms Worth It Stack uses across its comparisons, starting with: Per-seat pricing",
+   "url": "https://worthitstack.com/methodology.html",
+   "term_count": 6,
+   "terms": [
+    {
+     "name": "Per-seat pricing",
+     "term_id": "https://worthitstack.com/methodology.html#term-per-seat-pricing",
+     "url": "https://worthitstack.com/methodology.html#term-per-seat-pricing",
+     "definition": "Pricing that multiplies by the number of users on the account, so the total rises every time a team member is added, even if usage stays the same."
+    },
+    {
+     "name": "Per-contact pricing",
+     "term_id": "https://worthitstack.com/methodology.html#term-per-contact-pricing",
+     "url": "https://worthitstack.com/methodology.html#term-per-contact-pricing",
+     "definition": "Pricing that scales with the number of contacts or subscribers stored in the account, so the total rises as a list grows, even if sending volume stays the same."
+    },
+    {
+     "name": "Flat pricing",
+     "term_id": "https://worthitstack.com/methodology.html#term-flat-pricing",
+     "url": "https://worthitstack.com/methodology.html#term-flat-pricing",
+     "definition": "Pricing that charges one fixed amount for a tier regardless of seat or contact count, within that tier's stated limits, so the total does not rise as a team or list grows inside the tier."
+    },
+    {
+     "name": "Annual billing",
+     "term_id": "https://worthitstack.com/methodology.html#term-annual-billing",
+     "url": "https://worthitstack.com/methodology.html#term-annual-billing",
+     "definition": "Paying for a year upfront, usually at a lower effective monthly rate than paying month to month, in exchange for committing before knowing whether the tool still fits in a year."
+    },
+    {
+     "name": "Feature matrix",
+     "term_id": "https://worthitstack.com/methodology.html#term-feature-matrix",
+     "url": "https://worthitstack.com/methodology.html#term-feature-matrix",
+     "definition": "A side-by-side table that lists the same features for each tool and marks which plan includes each one, built from official documentation rather than marketing pages."
+    },
+    {
+     "name": "Verified review aggregation",
+     "term_id": "https://worthitstack.com/methodology.html#term-verified-review-aggregation",
+     "url": "https://worthitstack.com/methodology.html#term-verified-review-aggregation",
+     "definition": "Reading reviews on established platforms for patterns that repeat across many reviewers, rather than treating any single review as evidence, and describing sentiment in words rather than invented scores."
+    }
+   ]
+  }
+ ]
+}

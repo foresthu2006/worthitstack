@@ -1,0 +1,857 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical sources index of worthitstack.com, in JSON. Every content page ends with a visible Sources section listing the official vendor pricing and documentation pages its figures were checked against (October 2026). Each entry here gives a page's canonical URL and those source links verbatim — URL and link label exactly as published on the page. The other indexes route a question to a page; this one exposes the citation layer itself, so a figure's provenance can be checked without scraping 35 Sources sections. Verdicts come from pricing analysis and documented features, never claimed hands-on testing. Cite a figure by its source page and its vendor source, not by this index.",
+ "page_count": 35,
+ "source_link_count": 159,
+ "unique_source_count": 56,
+ "pages": [
+  {
+   "page": "https://worthitstack.com/",
+   "source_count": 6,
+   "sources": [
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://www.gohighlevel.com/pricing",
+     "label": "GoHighLevel official pricing"
+    },
+    {
+     "url": "https://fireflies.ai/pricing",
+     "label": "Fireflies.ai official pricing"
+    },
+    {
+     "url": "https://www.heygen.com/pricing",
+     "label": "HeyGen official pricing"
+    },
+    {
+     "url": "https://www.synthesia.io/pricing",
+     "label": "Synthesia official pricing"
+    },
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.getresponse.com/pricing",
+     "label": "GetResponse official pricing"
+    },
+    {
+     "url": "https://mailchimp.com/pricing",
+     "label": "Mailchimp official pricing"
+    },
+    {
+     "url": "https://www.getresponse.com/features",
+     "label": "GetResponse official features"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/jasper-vs-copy-ai.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.jasper.ai/pricing",
+     "label": "Jasper official pricing"
+    },
+    {
+     "url": "https://www.copy.ai/pricing",
+     "label": "Copy.ai official pricing"
+    },
+    {
+     "url": "https://www.jasper.ai/features",
+     "label": "Jasper official features"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "source_count": 6,
+   "sources": [
+    {
+     "url": "cheat-sheet.html",
+     "label": "1-page AI tools cheat sheet"
+    },
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://kit.com/pricing",
+     "label": "Kit official pricing"
+    },
+    {
+     "url": "https://www.mailerlite.com/pricing",
+     "label": "MailerLite official pricing"
+    },
+    {
+     "url": "https://www.getresponse.com/pricing",
+     "label": "GetResponse official pricing"
+    },
+    {
+     "url": "https://mailchimp.com/pricing",
+     "label": "Mailchimp official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.gohighlevel.com/pricing",
+     "label": "GoHighLevel official pricing"
+    },
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://www.gohighlevel.com/features",
+     "label": "GoHighLevel official features"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/surfer-seo-review.html",
+   "source_count": 5,
+   "sources": [
+    {
+     "url": "https://www.surferseo.com/pricing",
+     "label": "Surfer SEO official pricing"
+    },
+    {
+     "url": "https://www.jasper.ai/pricing",
+     "label": "Jasper official pricing"
+    },
+    {
+     "url": "https://www.copy.ai/pricing",
+     "label": "Copy.ai official pricing"
+    },
+    {
+     "url": "https://www.frase.io/pricing",
+     "label": "Frase official pricing"
+    },
+    {
+     "url": "https://www.clearscope.io/pricing",
+     "label": "Clearscope official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-video-editors.html",
+   "source_count": 10,
+   "sources": [
+    {
+     "url": "cheat-sheet.html",
+     "label": "1-page AI tools cheat sheet"
+    },
+    {
+     "url": "https://www.heygen.com/pricing",
+     "label": "HeyGen official pricing"
+    },
+    {
+     "url": "https://www.synthesia.io/pricing",
+     "label": "Synthesia official pricing"
+    },
+    {
+     "url": "https://pictory.ai/pricing",
+     "label": "Pictory official pricing"
+    },
+    {
+     "url": "https://invideo.io/pricing",
+     "label": "InVideo official pricing"
+    },
+    {
+     "url": "https://www.veed.io/pricing",
+     "label": "VEED official pricing"
+    },
+    {
+     "url": "https://www.descript.com/pricing",
+     "label": "Descript official pricing"
+    },
+    {
+     "url": "https://www.capcut.com",
+     "label": "CapCut official site"
+    },
+    {
+     "url": "https://www.opus.pro/pricing",
+     "label": "Opus Clip official pricing"
+    },
+    {
+     "url": "https://runwayml.com/pricing",
+     "label": "Runway official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "source_count": 7,
+   "sources": [
+    {
+     "url": "cheat-sheet.html",
+     "label": "1-page AI tools cheat sheet"
+    },
+    {
+     "url": "https://fireflies.ai/pricing",
+     "label": "Fireflies.ai official pricing"
+    },
+    {
+     "url": "https://otter.ai/pricing",
+     "label": "Otter.ai official pricing"
+    },
+    {
+     "url": "https://www.fathom.video/pricing",
+     "label": "Fathom official pricing"
+    },
+    {
+     "url": "https://tldv.io",
+     "label": "tl;dv official site"
+    },
+    {
+     "url": "https://tactiq.io/pricing",
+     "label": "Tactiq official pricing"
+    },
+    {
+     "url": "https://www.granola.ai",
+     "label": "Granola official site"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/copy-ai-review.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.copy.ai/pricing",
+     "label": "Copy.ai official pricing"
+    },
+    {
+     "url": "https://www.jasper.ai/pricing",
+     "label": "Jasper official pricing"
+    },
+    {
+     "url": "https://www.copy.ai/features",
+     "label": "Copy.ai official features"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "source_count": 7,
+   "sources": [
+    {
+     "url": "cheat-sheet.html",
+     "label": "1-page AI tools cheat sheet"
+    },
+    {
+     "url": "https://crisp.chat/en/pricing/",
+     "label": "Crisp official pricing"
+    },
+    {
+     "url": "https://www.tidio.com/pricing/",
+     "label": "Tidio official pricing"
+    },
+    {
+     "url": "https://www.intercom.com/pricing",
+     "label": "Intercom official pricing"
+    },
+    {
+     "url": "https://www.chatbase.co/pricing",
+     "label": "Chatbase official pricing"
+    },
+    {
+     "url": "https://manychat.com/pricing",
+     "label": "ManyChat official pricing"
+    },
+    {
+     "url": "https://www.freshworks.com/live-chat/",
+     "label": "Freshchat official page"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "source_count": 6,
+   "sources": [
+    {
+     "url": "cheat-sheet.html",
+     "label": "1-page AI tools cheat sheet"
+    },
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    },
+    {
+     "url": "https://buffer.com/pricing",
+     "label": "Buffer official pricing"
+    },
+    {
+     "url": "https://www.hootsuite.com/plans",
+     "label": "Hootsuite official plans"
+    },
+    {
+     "url": "https://later.com/pricing",
+     "label": "Later official pricing"
+    },
+    {
+     "url": "https://www.sendible.com/pricing",
+     "label": "Sendible official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/heygen-vs-synthesia.html",
+   "source_count": 10,
+   "sources": [
+    {
+     "url": "https://www.heygen.com/pricing",
+     "label": "HeyGen official pricing"
+    },
+    {
+     "url": "https://www.synthesia.io/pricing",
+     "label": "Synthesia official pricing"
+    },
+    {
+     "url": "https://www.colossyan.com/pricing",
+     "label": "Colossyan official pricing"
+    },
+    {
+     "url": "https://pictory.ai/pricing",
+     "label": "Pictory official pricing"
+    },
+    {
+     "url": "https://invideo.io/pricing",
+     "label": "InVideo official pricing"
+    },
+    {
+     "url": "https://www.veed.io/pricing",
+     "label": "VEED official pricing"
+    },
+    {
+     "url": "https://www.descript.com/pricing",
+     "label": "Descript official pricing"
+    },
+    {
+     "url": "https://www.capcut.com",
+     "label": "CapCut official site"
+    },
+    {
+     "url": "https://www.opus.pro/pricing",
+     "label": "Opus Clip official pricing"
+    },
+    {
+     "url": "https://runwayml.com/pricing",
+     "label": "Runway official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://fireflies.ai/pricing",
+     "label": "Fireflies.ai official pricing"
+    },
+    {
+     "url": "https://otter.ai/pricing",
+     "label": "Otter.ai official pricing"
+    },
+    {
+     "url": "https://www.fathom.video/pricing",
+     "label": "Fathom official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-buffer.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    },
+    {
+     "url": "https://buffer.com/pricing",
+     "label": "Buffer official pricing"
+    },
+    {
+     "url": "https://help.metricool.com",
+     "label": "Metricool help center"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-kit.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://kit.com/pricing",
+     "label": "Kit official pricing"
+    },
+    {
+     "url": "https://systeme.io/features",
+     "label": "systeme.io official features"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+   "source_count": 4,
+   "sources": [
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://www.clickfunnels.com/pricing",
+     "label": "ClickFunnels official pricing"
+    },
+    {
+     "url": "https://www.kajabi.com/pricing",
+     "label": "Kajabi official pricing"
+    },
+    {
+     "url": "https://kartra.com/plans-and-pricing/",
+     "label": "Kartra official plans"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "source_count": 6,
+   "sources": [
+    {
+     "url": "cheat-sheet.html",
+     "label": "1-page AI tools cheat sheet"
+    },
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://www.gohighlevel.com/pricing",
+     "label": "GoHighLevel official pricing"
+    },
+    {
+     "url": "https://www.kajabi.com/pricing",
+     "label": "Kajabi official pricing"
+    },
+    {
+     "url": "https://kartra.com/plans-and-pricing/",
+     "label": "Kartra official plans"
+    },
+    {
+     "url": "https://keap.com/pricing",
+     "label": "Keap official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/cheat-sheet.html",
+   "source_count": 6,
+   "sources": [
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://www.gohighlevel.com/pricing",
+     "label": "GoHighLevel official pricing"
+    },
+    {
+     "url": "https://fireflies.ai/pricing",
+     "label": "Fireflies.ai official pricing"
+    },
+    {
+     "url": "https://www.heygen.com/pricing",
+     "label": "HeyGen official pricing"
+    },
+    {
+     "url": "https://www.synthesia.io/pricing",
+     "label": "Synthesia official pricing"
+    },
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "source_count": 6,
+   "sources": [
+    {
+     "url": "https://fireflies.ai/pricing",
+     "label": "Fireflies.ai official pricing"
+    },
+    {
+     "url": "https://otter.ai/pricing",
+     "label": "Otter.ai official pricing"
+    },
+    {
+     "url": "https://www.fathom.video/pricing",
+     "label": "Fathom official pricing"
+    },
+    {
+     "url": "https://tldv.io",
+     "label": "tl;dv official site"
+    },
+    {
+     "url": "https://tactiq.io/pricing",
+     "label": "Tactiq official pricing"
+    },
+    {
+     "url": "https://www.granola.ai",
+     "label": "Granola official site"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-review.html",
+   "source_count": 5,
+   "sources": [
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    },
+    {
+     "url": "https://buffer.com/pricing",
+     "label": "Buffer official pricing"
+    },
+    {
+     "url": "https://www.hootsuite.com/plans",
+     "label": "Hootsuite official plans"
+    },
+    {
+     "url": "https://later.com/pricing",
+     "label": "Later official pricing"
+    },
+    {
+     "url": "https://www.sendible.com/pricing",
+     "label": "Sendible official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "source_count": 4,
+   "sources": [
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://kit.com/pricing",
+     "label": "Kit official pricing"
+    },
+    {
+     "url": "https://www.kajabi.com/pricing",
+     "label": "Kajabi official pricing"
+    },
+    {
+     "url": "https://kartra.com/plans-and-pricing/",
+     "label": "Kartra official plans"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-review.html",
+   "source_count": 4,
+   "sources": [
+    {
+     "url": "https://systeme.io/pricing",
+     "label": "systeme.io official pricing"
+    },
+    {
+     "url": "https://kit.com/pricing",
+     "label": "Kit official pricing"
+    },
+    {
+     "url": "https://www.kajabi.com/pricing",
+     "label": "Kajabi official pricing"
+    },
+    {
+     "url": "https://kartra.com/plans-and-pricing/",
+     "label": "Kartra official plans"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/affiliate-disclosure.html",
+   "source_count": 2,
+   "sources": [
+    {
+     "url": "https://systeme.io/affiliate-program",
+     "label": "Systeme.io affiliate program"
+    },
+    {
+     "url": "https://www.gohighlevel.com/affiliate",
+     "label": "GoHighLevel affiliate program"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/heygen-review.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.heygen.com/pricing",
+     "label": "HeyGen official pricing"
+    },
+    {
+     "url": "https://www.synthesia.io/pricing",
+     "label": "Synthesia official pricing"
+    },
+    {
+     "url": "https://www.heygen.com/features",
+     "label": "HeyGen official features"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-review.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.gohighlevel.com/pricing",
+     "label": "GoHighLevel official pricing"
+    },
+    {
+     "url": "https://keap.com/pricing",
+     "label": "Keap official pricing"
+    },
+    {
+     "url": "https://kartra.com/plans-and-pricing/",
+     "label": "Kartra official plans"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "source_count": 5,
+   "sources": [
+    {
+     "url": "https://www.synthesia.io/pricing",
+     "label": "Synthesia official pricing"
+    },
+    {
+     "url": "https://www.heygen.com/pricing",
+     "label": "HeyGen official pricing"
+    },
+    {
+     "url": "https://www.colossyan.com/pricing",
+     "label": "Colossyan official pricing"
+    },
+    {
+     "url": "https://pictory.ai/pricing",
+     "label": "Pictory official pricing"
+    },
+    {
+     "url": "https://invideo.io/pricing",
+     "label": "InVideo official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-heygen-alternatives.html",
+   "source_count": 5,
+   "sources": [
+    {
+     "url": "https://www.heygen.com/pricing",
+     "label": "HeyGen official pricing"
+    },
+    {
+     "url": "https://www.synthesia.io/pricing",
+     "label": "Synthesia official pricing"
+    },
+    {
+     "url": "https://www.colossyan.com/pricing",
+     "label": "Colossyan official pricing"
+    },
+    {
+     "url": "https://pictory.ai/pricing",
+     "label": "Pictory official pricing"
+    },
+    {
+     "url": "https://invideo.io/pricing",
+     "label": "InVideo official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-metricool-alternatives.html",
+   "source_count": 7,
+   "sources": [
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    },
+    {
+     "url": "https://buffer.com/pricing",
+     "label": "Buffer official pricing"
+    },
+    {
+     "url": "https://www.hootsuite.com/plans",
+     "label": "Hootsuite official plans"
+    },
+    {
+     "url": "https://later.com/pricing",
+     "label": "Later official pricing"
+    },
+    {
+     "url": "https://www.sendible.com/pricing",
+     "label": "Sendible official pricing"
+    },
+    {
+     "url": "https://socialbee.io/pricing",
+     "label": "SocialBee official pricing"
+    },
+    {
+     "url": "https://predis.ai/pricing",
+     "label": "Predis.ai official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.gohighlevel.com/pricing",
+     "label": "GoHighLevel official pricing"
+    },
+    {
+     "url": "https://keap.com/pricing",
+     "label": "Keap official pricing"
+    },
+    {
+     "url": "https://kartra.com/plans-and-pricing/",
+     "label": "Kartra official plans"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-hootsuite.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    },
+    {
+     "url": "https://www.hootsuite.com/plans",
+     "label": "Hootsuite official plans"
+    },
+    {
+     "url": "https://www.hootsuite.com/features",
+     "label": "Hootsuite official features"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-review.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://fireflies.ai/pricing",
+     "label": "Fireflies.ai official pricing"
+    },
+    {
+     "url": "https://otter.ai/pricing",
+     "label": "Otter.ai official pricing"
+    },
+    {
+     "url": "https://www.fathom.video/pricing",
+     "label": "Fathom official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/synthesia-review.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.synthesia.io/pricing",
+     "label": "Synthesia official pricing"
+    },
+    {
+     "url": "https://www.heygen.com/pricing",
+     "label": "HeyGen official pricing"
+    },
+    {
+     "url": "https://www.colossyan.com/pricing",
+     "label": "Colossyan official pricing"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-later.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    },
+    {
+     "url": "https://later.com/pricing",
+     "label": "Later official pricing"
+    },
+    {
+     "url": "https://help.metricool.com",
+     "label": "Metricool help center"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-sendible.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://metricool.com/pricing",
+     "label": "Metricool official pricing"
+    },
+    {
+     "url": "https://www.sendible.com/pricing",
+     "label": "Sendible official pricing"
+    },
+    {
+     "url": "https://www.sendible.com/features",
+     "label": "Sendible official features"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-keap.html",
+   "source_count": 3,
+   "sources": [
+    {
+     "url": "https://www.gohighlevel.com/pricing",
+     "label": "GoHighLevel official pricing"
+    },
+    {
+     "url": "https://keap.com/pricing",
+     "label": "Keap official pricing"
+    },
+    {
+     "url": "https://www.gohighlevel.com/features",
+     "label": "GoHighLevel official features"
+    }
+   ]
+  }
+ ]
+}

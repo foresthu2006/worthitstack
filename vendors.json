@@ -1,0 +1,617 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical vendors index of worthitstack.com, in JSON: the sources index inverted by the cited vendor source. Each entry gives one unique official vendor pricing or documentation URL cited anywhere on the site, the verbatim link label the site publishes for it, its host, how many Worth It Stack pages cite it, and those pages' canonical URLs. The sources index is keyed by the citing page; use this file to answer the reverse question — everywhere a given vendor source backs a figure on this site — without scanning 35 Sources sections. Verdicts come from pricing analysis and documented features, never claimed hands-on testing. Cite a figure by its Worth It Stack source page and its vendor source, not by this index.",
+ "vendor_count": 56,
+ "citation_count": 159,
+ "vendors": [
+  {
+   "url": "https://systeme.io/pricing",
+   "label": "systeme.io official pricing",
+   "host": "systeme.io",
+   "citation_count": 9,
+   "cited_by": [
+    "https://worthitstack.com/",
+    "https://worthitstack.com/best-ai-email-marketing-tools.html",
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/systeme-io-vs-kit.html",
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+    "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+    "https://worthitstack.com/cheat-sheet.html",
+    "https://worthitstack.com/best-systeme-io-alternatives.html",
+    "https://worthitstack.com/systeme-io-review.html"
+   ]
+  },
+  {
+   "url": "https://www.gohighlevel.com/pricing",
+   "label": "GoHighLevel official pricing",
+   "host": "www.gohighlevel.com",
+   "citation_count": 7,
+   "cited_by": [
+    "https://worthitstack.com/",
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+    "https://worthitstack.com/cheat-sheet.html",
+    "https://worthitstack.com/gohighlevel-review.html",
+    "https://worthitstack.com/best-gohighlevel-alternatives.html",
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ]
+  },
+  {
+   "url": "https://fireflies.ai/pricing",
+   "label": "Fireflies.ai official pricing",
+   "host": "fireflies.ai",
+   "citation_count": 6,
+   "cited_by": [
+    "https://worthitstack.com/",
+    "https://worthitstack.com/best-ai-meeting-assistants.html",
+    "https://worthitstack.com/fireflies-vs-otter-ai.html",
+    "https://worthitstack.com/cheat-sheet.html",
+    "https://worthitstack.com/best-fireflies-alternatives.html",
+    "https://worthitstack.com/fireflies-review.html"
+   ]
+  },
+  {
+   "url": "https://www.heygen.com/pricing",
+   "label": "HeyGen official pricing",
+   "host": "www.heygen.com",
+   "citation_count": 8,
+   "cited_by": [
+    "https://worthitstack.com/",
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/cheat-sheet.html",
+    "https://worthitstack.com/heygen-review.html",
+    "https://worthitstack.com/best-synthesia-alternatives.html",
+    "https://worthitstack.com/best-heygen-alternatives.html",
+    "https://worthitstack.com/synthesia-review.html"
+   ]
+  },
+  {
+   "url": "https://www.synthesia.io/pricing",
+   "label": "Synthesia official pricing",
+   "host": "www.synthesia.io",
+   "citation_count": 8,
+   "cited_by": [
+    "https://worthitstack.com/",
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/cheat-sheet.html",
+    "https://worthitstack.com/heygen-review.html",
+    "https://worthitstack.com/best-synthesia-alternatives.html",
+    "https://worthitstack.com/best-heygen-alternatives.html",
+    "https://worthitstack.com/synthesia-review.html"
+   ]
+  },
+  {
+   "url": "https://metricool.com/pricing",
+   "label": "Metricool official pricing",
+   "host": "metricool.com",
+   "citation_count": 9,
+   "cited_by": [
+    "https://worthitstack.com/",
+    "https://worthitstack.com/best-ai-social-media-tools.html",
+    "https://worthitstack.com/metricool-vs-buffer.html",
+    "https://worthitstack.com/cheat-sheet.html",
+    "https://worthitstack.com/metricool-review.html",
+    "https://worthitstack.com/best-metricool-alternatives.html",
+    "https://worthitstack.com/metricool-vs-hootsuite.html",
+    "https://worthitstack.com/metricool-vs-later.html",
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ]
+  },
+  {
+   "url": "https://www.getresponse.com/pricing",
+   "label": "GetResponse official pricing",
+   "host": "www.getresponse.com",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html",
+    "https://worthitstack.com/best-ai-email-marketing-tools.html"
+   ]
+  },
+  {
+   "url": "https://mailchimp.com/pricing",
+   "label": "Mailchimp official pricing",
+   "host": "mailchimp.com",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html",
+    "https://worthitstack.com/best-ai-email-marketing-tools.html"
+   ]
+  },
+  {
+   "url": "https://www.getresponse.com/features",
+   "label": "GetResponse official features",
+   "host": "www.getresponse.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ]
+  },
+  {
+   "url": "https://www.jasper.ai/pricing",
+   "label": "Jasper official pricing",
+   "host": "www.jasper.ai",
+   "citation_count": 3,
+   "cited_by": [
+    "https://worthitstack.com/jasper-vs-copy-ai.html",
+    "https://worthitstack.com/surfer-seo-review.html",
+    "https://worthitstack.com/copy-ai-review.html"
+   ]
+  },
+  {
+   "url": "https://www.copy.ai/pricing",
+   "label": "Copy.ai official pricing",
+   "host": "www.copy.ai",
+   "citation_count": 3,
+   "cited_by": [
+    "https://worthitstack.com/jasper-vs-copy-ai.html",
+    "https://worthitstack.com/surfer-seo-review.html",
+    "https://worthitstack.com/copy-ai-review.html"
+   ]
+  },
+  {
+   "url": "https://www.jasper.ai/features",
+   "label": "Jasper official features",
+   "host": "www.jasper.ai",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/jasper-vs-copy-ai.html"
+   ]
+  },
+  {
+   "url": "cheat-sheet.html",
+   "label": "1-page AI tools cheat sheet",
+   "host": "",
+   "citation_count": 6,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-email-marketing-tools.html",
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/best-ai-meeting-assistants.html",
+    "https://worthitstack.com/best-ai-chatbots-small-business.html",
+    "https://worthitstack.com/best-ai-social-media-tools.html",
+    "https://worthitstack.com/best-all-in-one-marketing-platforms.html"
+   ]
+  },
+  {
+   "url": "https://kit.com/pricing",
+   "label": "Kit official pricing",
+   "host": "kit.com",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-email-marketing-tools.html",
+    "https://worthitstack.com/systeme-io-vs-kit.html",
+    "https://worthitstack.com/best-systeme-io-alternatives.html",
+    "https://worthitstack.com/systeme-io-review.html"
+   ]
+  },
+  {
+   "url": "https://www.mailerlite.com/pricing",
+   "label": "MailerLite official pricing",
+   "host": "www.mailerlite.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-email-marketing-tools.html"
+   ]
+  },
+  {
+   "url": "https://www.gohighlevel.com/features",
+   "label": "GoHighLevel official features",
+   "host": "www.gohighlevel.com",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ]
+  },
+  {
+   "url": "https://www.surferseo.com/pricing",
+   "label": "Surfer SEO official pricing",
+   "host": "www.surferseo.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/surfer-seo-review.html"
+   ]
+  },
+  {
+   "url": "https://www.frase.io/pricing",
+   "label": "Frase official pricing",
+   "host": "www.frase.io",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/surfer-seo-review.html"
+   ]
+  },
+  {
+   "url": "https://www.clearscope.io/pricing",
+   "label": "Clearscope official pricing",
+   "host": "www.clearscope.io",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/surfer-seo-review.html"
+   ]
+  },
+  {
+   "url": "https://pictory.ai/pricing",
+   "label": "Pictory official pricing",
+   "host": "pictory.ai",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/best-synthesia-alternatives.html",
+    "https://worthitstack.com/best-heygen-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://invideo.io/pricing",
+   "label": "InVideo official pricing",
+   "host": "invideo.io",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/best-synthesia-alternatives.html",
+    "https://worthitstack.com/best-heygen-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://www.veed.io/pricing",
+   "label": "VEED official pricing",
+   "host": "www.veed.io",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html"
+   ]
+  },
+  {
+   "url": "https://www.descript.com/pricing",
+   "label": "Descript official pricing",
+   "host": "www.descript.com",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html"
+   ]
+  },
+  {
+   "url": "https://www.capcut.com",
+   "label": "CapCut official site",
+   "host": "www.capcut.com",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html"
+   ]
+  },
+  {
+   "url": "https://www.opus.pro/pricing",
+   "label": "Opus Clip official pricing",
+   "host": "www.opus.pro",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html"
+   ]
+  },
+  {
+   "url": "https://runwayml.com/pricing",
+   "label": "Runway official pricing",
+   "host": "runwayml.com",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-video-editors.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html"
+   ]
+  },
+  {
+   "url": "https://otter.ai/pricing",
+   "label": "Otter.ai official pricing",
+   "host": "otter.ai",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-meeting-assistants.html",
+    "https://worthitstack.com/fireflies-vs-otter-ai.html",
+    "https://worthitstack.com/best-fireflies-alternatives.html",
+    "https://worthitstack.com/fireflies-review.html"
+   ]
+  },
+  {
+   "url": "https://www.fathom.video/pricing",
+   "label": "Fathom official pricing",
+   "host": "www.fathom.video",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-meeting-assistants.html",
+    "https://worthitstack.com/fireflies-vs-otter-ai.html",
+    "https://worthitstack.com/best-fireflies-alternatives.html",
+    "https://worthitstack.com/fireflies-review.html"
+   ]
+  },
+  {
+   "url": "https://tldv.io",
+   "label": "tl;dv official site",
+   "host": "tldv.io",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-meeting-assistants.html",
+    "https://worthitstack.com/best-fireflies-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://tactiq.io/pricing",
+   "label": "Tactiq official pricing",
+   "host": "tactiq.io",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-meeting-assistants.html",
+    "https://worthitstack.com/best-fireflies-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://www.granola.ai",
+   "label": "Granola official site",
+   "host": "www.granola.ai",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-meeting-assistants.html",
+    "https://worthitstack.com/best-fireflies-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://www.copy.ai/features",
+   "label": "Copy.ai official features",
+   "host": "www.copy.ai",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/copy-ai-review.html"
+   ]
+  },
+  {
+   "url": "https://crisp.chat/en/pricing/",
+   "label": "Crisp official pricing",
+   "host": "crisp.chat",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-chatbots-small-business.html"
+   ]
+  },
+  {
+   "url": "https://www.tidio.com/pricing/",
+   "label": "Tidio official pricing",
+   "host": "www.tidio.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-chatbots-small-business.html"
+   ]
+  },
+  {
+   "url": "https://www.intercom.com/pricing",
+   "label": "Intercom official pricing",
+   "host": "www.intercom.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-chatbots-small-business.html"
+   ]
+  },
+  {
+   "url": "https://www.chatbase.co/pricing",
+   "label": "Chatbase official pricing",
+   "host": "www.chatbase.co",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-chatbots-small-business.html"
+   ]
+  },
+  {
+   "url": "https://manychat.com/pricing",
+   "label": "ManyChat official pricing",
+   "host": "manychat.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-chatbots-small-business.html"
+   ]
+  },
+  {
+   "url": "https://www.freshworks.com/live-chat/",
+   "label": "Freshchat official page",
+   "host": "www.freshworks.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-chatbots-small-business.html"
+   ]
+  },
+  {
+   "url": "https://buffer.com/pricing",
+   "label": "Buffer official pricing",
+   "host": "buffer.com",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-social-media-tools.html",
+    "https://worthitstack.com/metricool-vs-buffer.html",
+    "https://worthitstack.com/metricool-review.html",
+    "https://worthitstack.com/best-metricool-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://www.hootsuite.com/plans",
+   "label": "Hootsuite official plans",
+   "host": "www.hootsuite.com",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-social-media-tools.html",
+    "https://worthitstack.com/metricool-review.html",
+    "https://worthitstack.com/best-metricool-alternatives.html",
+    "https://worthitstack.com/metricool-vs-hootsuite.html"
+   ]
+  },
+  {
+   "url": "https://later.com/pricing",
+   "label": "Later official pricing",
+   "host": "later.com",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-social-media-tools.html",
+    "https://worthitstack.com/metricool-review.html",
+    "https://worthitstack.com/best-metricool-alternatives.html",
+    "https://worthitstack.com/metricool-vs-later.html"
+   ]
+  },
+  {
+   "url": "https://www.sendible.com/pricing",
+   "label": "Sendible official pricing",
+   "host": "www.sendible.com",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-ai-social-media-tools.html",
+    "https://worthitstack.com/metricool-review.html",
+    "https://worthitstack.com/best-metricool-alternatives.html",
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ]
+  },
+  {
+   "url": "https://www.colossyan.com/pricing",
+   "label": "Colossyan official pricing",
+   "host": "www.colossyan.com",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/best-synthesia-alternatives.html",
+    "https://worthitstack.com/best-heygen-alternatives.html",
+    "https://worthitstack.com/synthesia-review.html"
+   ]
+  },
+  {
+   "url": "https://help.metricool.com",
+   "label": "Metricool help center",
+   "host": "help.metricool.com",
+   "citation_count": 2,
+   "cited_by": [
+    "https://worthitstack.com/metricool-vs-buffer.html",
+    "https://worthitstack.com/metricool-vs-later.html"
+   ]
+  },
+  {
+   "url": "https://systeme.io/features",
+   "label": "systeme.io official features",
+   "host": "systeme.io",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/systeme-io-vs-kit.html"
+   ]
+  },
+  {
+   "url": "https://www.clickfunnels.com/pricing",
+   "label": "ClickFunnels official pricing",
+   "host": "www.clickfunnels.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html"
+   ]
+  },
+  {
+   "url": "https://www.kajabi.com/pricing",
+   "label": "Kajabi official pricing",
+   "host": "www.kajabi.com",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+    "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+    "https://worthitstack.com/best-systeme-io-alternatives.html",
+    "https://worthitstack.com/systeme-io-review.html"
+   ]
+  },
+  {
+   "url": "https://kartra.com/plans-and-pricing/",
+   "label": "Kartra official plans",
+   "host": "kartra.com",
+   "citation_count": 6,
+   "cited_by": [
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+    "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+    "https://worthitstack.com/best-systeme-io-alternatives.html",
+    "https://worthitstack.com/systeme-io-review.html",
+    "https://worthitstack.com/gohighlevel-review.html",
+    "https://worthitstack.com/best-gohighlevel-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://keap.com/pricing",
+   "label": "Keap official pricing",
+   "host": "keap.com",
+   "citation_count": 4,
+   "cited_by": [
+    "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+    "https://worthitstack.com/gohighlevel-review.html",
+    "https://worthitstack.com/best-gohighlevel-alternatives.html",
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ]
+  },
+  {
+   "url": "https://systeme.io/affiliate-program",
+   "label": "Systeme.io affiliate program",
+   "host": "systeme.io",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/affiliate-disclosure.html"
+   ]
+  },
+  {
+   "url": "https://www.gohighlevel.com/affiliate",
+   "label": "GoHighLevel affiliate program",
+   "host": "www.gohighlevel.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/affiliate-disclosure.html"
+   ]
+  },
+  {
+   "url": "https://www.heygen.com/features",
+   "label": "HeyGen official features",
+   "host": "www.heygen.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/heygen-review.html"
+   ]
+  },
+  {
+   "url": "https://socialbee.io/pricing",
+   "label": "SocialBee official pricing",
+   "host": "socialbee.io",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-metricool-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://predis.ai/pricing",
+   "label": "Predis.ai official pricing",
+   "host": "predis.ai",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/best-metricool-alternatives.html"
+   ]
+  },
+  {
+   "url": "https://www.hootsuite.com/features",
+   "label": "Hootsuite official features",
+   "host": "www.hootsuite.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/metricool-vs-hootsuite.html"
+   ]
+  },
+  {
+   "url": "https://www.sendible.com/features",
+   "label": "Sendible official features",
+   "host": "www.sendible.com",
+   "citation_count": 1,
+   "cited_by": [
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ]
+  }
+ ]
+}

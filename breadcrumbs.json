@@ -1,0 +1,929 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical breadcrumb index of worthitstack.com, in JSON: every sitemap page's BreadcrumbList trail exactly as published in its JSON-LD — each page's canonical URL, its section (the trail's second-level name), and its trail in position order with each item's verbatim name and item URL where the node carries one (middle category items carry no URL by design). Every prior index is keyed by question, price, page content, tool, cited source, internal link, heading, table, verdict or structured-data offer; none exposed where each page sits in the site's hierarchy, so a machine reader can now route a category question — which comparisons, reviews or roundups the site groups together — from this file instead of reconstructing trails from 38 pages of JSON-LD. Cite content by its page, not by this index.",
+ "page_count": 38,
+ "trail_item_count": 107,
+ "section_count": 8,
+ "sections": {
+  "Home": 1,
+  "Comparisons": 30,
+  "AI Tools Cheat Sheet": 1,
+  "Methodology": 1,
+  "About": 1,
+  "Affiliate Disclosure": 1,
+  "Reviews": 2,
+  "Quick answers": 1
+ },
+ "pages": [
+  {
+   "page": "https://worthitstack.com/",
+   "section": "Home",
+   "trail_length": 1,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/getresponse-vs-mailchimp.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/getresponse-vs-mailchimp.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "GetResponse vs Mailchimp",
+     "item_id": "https://worthitstack.com/getresponse-vs-mailchimp.html#breadcrumb-3",
+     "item": "https://worthitstack.com/getresponse-vs-mailchimp.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/jasper-vs-copy-ai.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/jasper-vs-copy-ai.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/jasper-vs-copy-ai.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Jasper vs Copy.ai",
+     "item_id": "https://worthitstack.com/jasper-vs-copy-ai.html#breadcrumb-3",
+     "item": "https://worthitstack.com/jasper-vs-copy-ai.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best AI Email Marketing Tools",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-ai-email-marketing-tools.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "GoHighLevel vs Systeme.io",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#breadcrumb-3",
+     "item": "https://worthitstack.com/gohighlevel-vs-systeme-io.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/surfer-seo-review.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/surfer-seo-review.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/surfer-seo-review.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Surfer SEO Review",
+     "item_id": "https://worthitstack.com/surfer-seo-review.html#breadcrumb-3",
+     "item": "https://worthitstack.com/surfer-seo-review.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-video-editors.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best AI Video Editors",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-ai-video-editors.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best AI Meeting Assistants",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-ai-meeting-assistants.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/copy-ai-review.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/copy-ai-review.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/copy-ai-review.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Copy.ai Review",
+     "item_id": "https://worthitstack.com/copy-ai-review.html#breadcrumb-3",
+     "item": "https://worthitstack.com/copy-ai-review.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best AI Chatbots",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-ai-chatbots-small-business.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best AI Social Media Tools",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-ai-social-media-tools.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/heygen-vs-synthesia.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/heygen-vs-synthesia.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/heygen-vs-synthesia.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "HeyGen vs Synthesia",
+     "item_id": "https://worthitstack.com/heygen-vs-synthesia.html#breadcrumb-3",
+     "item": "https://worthitstack.com/heygen-vs-synthesia.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/fireflies-vs-otter-ai.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/fireflies-vs-otter-ai.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Fireflies.ai vs Otter.ai",
+     "item_id": "https://worthitstack.com/fireflies-vs-otter-ai.html#breadcrumb-3",
+     "item": "https://worthitstack.com/fireflies-vs-otter-ai.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-buffer.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/metricool-vs-buffer.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/metricool-vs-buffer.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Metricool vs Buffer",
+     "item_id": "https://worthitstack.com/metricool-vs-buffer.html#breadcrumb-3",
+     "item": "https://worthitstack.com/metricool-vs-buffer.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-kit.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/systeme-io-vs-kit.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/systeme-io-vs-kit.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Systeme.io vs Kit",
+     "item_id": "https://worthitstack.com/systeme-io-vs-kit.html#breadcrumb-3",
+     "item": "https://worthitstack.com/systeme-io-vs-kit.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Systeme.io vs ClickFunnels",
+     "item_id": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#breadcrumb-3",
+     "item": "https://worthitstack.com/systeme-io-vs-clickfunnels.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best All-in-One Marketing Platforms",
+     "item_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-all-in-one-marketing-platforms.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/cheat-sheet.html",
+   "section": "AI Tools Cheat Sheet",
+   "trail_length": 2,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/cheat-sheet.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "AI Tools Cheat Sheet",
+     "item_id": "https://worthitstack.com/cheat-sheet.html#breadcrumb-2",
+     "item": "https://worthitstack.com/cheat-sheet.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best Fireflies.ai Alternatives",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-fireflies-alternatives.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-review.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/metricool-review.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/metricool-review.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Metricool Review",
+     "item_id": "https://worthitstack.com/metricool-review.html#breadcrumb-3",
+     "item": "https://worthitstack.com/metricool-review.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best Systeme.io Alternatives",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-systeme-io-alternatives.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-review.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/systeme-io-review.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/systeme-io-review.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Systeme.io Review",
+     "item_id": "https://worthitstack.com/systeme-io-review.html#breadcrumb-3",
+     "item": "https://worthitstack.com/systeme-io-review.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/methodology.html",
+   "section": "Methodology",
+   "trail_length": 2,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/methodology.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Methodology",
+     "item_id": "https://worthitstack.com/methodology.html#breadcrumb-2",
+     "item": "https://worthitstack.com/methodology.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/about.html",
+   "section": "About",
+   "trail_length": 2,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/about.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "About",
+     "item_id": "https://worthitstack.com/about.html#breadcrumb-2",
+     "item": "https://worthitstack.com/about.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/affiliate-disclosure.html",
+   "section": "Affiliate Disclosure",
+   "trail_length": 2,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/affiliate-disclosure.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Affiliate Disclosure",
+     "item_id": "https://worthitstack.com/affiliate-disclosure.html#breadcrumb-2",
+     "item": "https://worthitstack.com/affiliate-disclosure.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/heygen-review.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/heygen-review.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/heygen-review.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "HeyGen Review",
+     "item_id": "https://worthitstack.com/heygen-review.html#breadcrumb-3",
+     "item": "https://worthitstack.com/heygen-review.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-review.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/gohighlevel-review.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/gohighlevel-review.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "GoHighLevel Review",
+     "item_id": "https://worthitstack.com/gohighlevel-review.html#breadcrumb-3",
+     "item": "https://worthitstack.com/gohighlevel-review.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best Synthesia Alternatives",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-synthesia-alternatives.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-heygen-alternatives.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best HeyGen Alternatives",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-heygen-alternatives.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-metricool-alternatives.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Best Metricool Alternatives",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-metricool-alternatives.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "GoHighLevel Alternatives",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#breadcrumb-3",
+     "item": "https://worthitstack.com/best-gohighlevel-alternatives.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-hootsuite.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/metricool-vs-hootsuite.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/metricool-vs-hootsuite.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Metricool vs Hootsuite",
+     "item_id": "https://worthitstack.com/metricool-vs-hootsuite.html#breadcrumb-3",
+     "item": "https://worthitstack.com/metricool-vs-hootsuite.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-review.html",
+   "section": "Reviews",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/fireflies-review.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Reviews",
+     "item_id": "https://worthitstack.com/fireflies-review.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Fireflies.ai Review",
+     "item_id": "https://worthitstack.com/fireflies-review.html#breadcrumb-3",
+     "item": "https://worthitstack.com/fireflies-review.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/synthesia-review.html",
+   "section": "Reviews",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/synthesia-review.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Reviews",
+     "item_id": "https://worthitstack.com/synthesia-review.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Synthesia Review",
+     "item_id": "https://worthitstack.com/synthesia-review.html#breadcrumb-3",
+     "item": "https://worthitstack.com/synthesia-review.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-later.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/metricool-vs-later.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/metricool-vs-later.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Metricool vs Later",
+     "item_id": "https://worthitstack.com/metricool-vs-later.html#breadcrumb-3",
+     "item": "https://worthitstack.com/metricool-vs-later.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-sendible.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/metricool-vs-sendible.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/metricool-vs-sendible.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Metricool vs Sendible",
+     "item_id": "https://worthitstack.com/metricool-vs-sendible.html#breadcrumb-3",
+     "item": "https://worthitstack.com/metricool-vs-sendible.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-keap.html",
+   "section": "Comparisons",
+   "trail_length": 3,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-keap.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Comparisons",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-keap.html#breadcrumb-2",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "GoHighLevel vs Keap",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-keap.html#breadcrumb-3",
+     "item": "https://worthitstack.com/gohighlevel-vs-keap.html"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/all-answers.html",
+   "section": "Quick answers",
+   "trail_length": 2,
+   "trail": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item_id": "https://worthitstack.com/all-answers.html#breadcrumb-1",
+     "item": "https://worthitstack.com/"
+    },
+    {
+     "position": 2,
+     "name": "Quick answers",
+     "item_id": "https://worthitstack.com/all-answers.html#breadcrumb-2",
+     "item": "https://worthitstack.com/all-answers.html"
+    }
+   ]
+  }
+ ]
+}

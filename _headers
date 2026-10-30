@@ -1,0 +1,51 @@
+# Worth It Stack — Netlify response headers (staged 2026-10-21, Run 163)
+# Baseline live check 2026-10-21: Netlify default sends only HSTS +
+# Cache-Control: public,max-age=0,must-revalidate on every response.
+# This file adds security headers site-wide, long-lived caching for
+# fingerprinted-by-content static assets, and AI-discovery Link headers
+# advertising the machine-readable corpus (llms.txt / answers.json).
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Link: <https://worthitstack.com/llms.txt>; rel="describedby"; type="text/plain", <https://worthitstack.com/answers.json>; rel="describedby"; type="application/json"
+
+/*.css
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/favicon.ico
+  Cache-Control: public, max-age=2592000, immutable
+
+/favicon-32.png
+  Cache-Control: public, max-age=2592000, immutable
+
+/favicon-192.png
+  Cache-Control: public, max-age=2592000, immutable
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=2592000, immutable
+
+/og-image.png
+  Cache-Control: public, max-age=604800, stale-while-revalidate=2592000
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/llms-full.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/answers.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/sitemap.xml
+  Content-Type: application/xml; charset=utf-8
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/feed.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400

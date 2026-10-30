@@ -1,0 +1,290 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical tool-keyed index of every priced tool covered on worthitstack.com. Each entry gives the tool name, its entry price in USD, its official vendor pricing URL, and its application category (all verbatim from pricing-data.csv, asserted consistent across that tool's rows), plus every Worth It Stack page that states that entry price, the single-tool review page among them where one exists, and the head-to-head comparison pages among them. Use this file to route a question about one named tool to every page that prices it, instead of guessing from page titles. Verdicts come from pricing analysis and documented features, never claimed hands-on testing. Cite a price by its source page.",
+ "tool_count": 19,
+ "source_page_links": 31,
+ "tools": [
+  {
+   "tool": "Buffer",
+   "entry_price_usd": 6.0,
+   "vendor_pricing_url": "https://buffer.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/metricool-vs-buffer.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/metricool-vs-buffer.html"
+   ]
+  },
+  {
+   "tool": "ClickFunnels",
+   "entry_price_usd": 97.0,
+   "vendor_pricing_url": "https://www.clickfunnels.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html"
+   ]
+  },
+  {
+   "tool": "Copy.ai",
+   "entry_price_usd": 29.0,
+   "vendor_pricing_url": "https://www.copy.ai/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/copy-ai-review.html"
+   ],
+   "source_page_count": 1,
+   "review_page": "https://worthitstack.com/copy-ai-review.html",
+   "comparison_pages": []
+  },
+  {
+   "tool": "Fireflies.ai",
+   "entry_price_usd": 10.0,
+   "vendor_pricing_url": "https://fireflies.ai/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/fireflies-review.html",
+    "https://worthitstack.com/fireflies-vs-otter-ai.html"
+   ],
+   "source_page_count": 2,
+   "review_page": "https://worthitstack.com/fireflies-review.html",
+   "comparison_pages": [
+    "https://worthitstack.com/fireflies-vs-otter-ai.html"
+   ]
+  },
+  {
+   "tool": "GetResponse",
+   "entry_price_usd": 19.0,
+   "vendor_pricing_url": "https://www.getresponse.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ]
+  },
+  {
+   "tool": "GoHighLevel",
+   "entry_price_usd": 97.0,
+   "vendor_pricing_url": "https://www.gohighlevel.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/gohighlevel-review.html",
+    "https://worthitstack.com/gohighlevel-vs-keap.html",
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html"
+   ],
+   "source_page_count": 3,
+   "review_page": "https://worthitstack.com/gohighlevel-review.html",
+   "comparison_pages": [
+    "https://worthitstack.com/gohighlevel-vs-keap.html",
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html"
+   ]
+  },
+  {
+   "tool": "HeyGen",
+   "entry_price_usd": 29.0,
+   "vendor_pricing_url": "https://www.heygen.com/pricing",
+   "application_category": "MultimediaApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/heygen-review.html",
+    "https://worthitstack.com/heygen-vs-synthesia.html"
+   ],
+   "source_page_count": 2,
+   "review_page": "https://worthitstack.com/heygen-review.html",
+   "comparison_pages": [
+    "https://worthitstack.com/heygen-vs-synthesia.html"
+   ]
+  },
+  {
+   "tool": "Hootsuite",
+   "entry_price_usd": 99.0,
+   "vendor_pricing_url": "https://www.hootsuite.com/plans",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/metricool-vs-hootsuite.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/metricool-vs-hootsuite.html"
+   ]
+  },
+  {
+   "tool": "Jasper",
+   "entry_price_usd": 49.0,
+   "vendor_pricing_url": "https://www.jasper.ai/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/jasper-vs-copy-ai.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/jasper-vs-copy-ai.html"
+   ]
+  },
+  {
+   "tool": "Keap",
+   "entry_price_usd": 129.0,
+   "vendor_pricing_url": "https://keap.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ]
+  },
+  {
+   "tool": "Kit (ConvertKit)",
+   "entry_price_usd": 39.0,
+   "vendor_pricing_url": "https://kit.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/systeme-io-vs-kit.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/systeme-io-vs-kit.html"
+   ]
+  },
+  {
+   "tool": "Later",
+   "entry_price_usd": 25.0,
+   "vendor_pricing_url": "https://later.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/metricool-vs-later.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/metricool-vs-later.html"
+   ]
+  },
+  {
+   "tool": "Mailchimp",
+   "entry_price_usd": 13.0,
+   "vendor_pricing_url": "https://mailchimp.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ]
+  },
+  {
+   "tool": "Metricool",
+   "entry_price_usd": 25.0,
+   "vendor_pricing_url": "https://metricool.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/metricool-review.html",
+    "https://worthitstack.com/metricool-vs-buffer.html",
+    "https://worthitstack.com/metricool-vs-hootsuite.html",
+    "https://worthitstack.com/metricool-vs-later.html",
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ],
+   "source_page_count": 5,
+   "review_page": "https://worthitstack.com/metricool-review.html",
+   "comparison_pages": [
+    "https://worthitstack.com/metricool-vs-buffer.html",
+    "https://worthitstack.com/metricool-vs-hootsuite.html",
+    "https://worthitstack.com/metricool-vs-later.html",
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ]
+  },
+  {
+   "tool": "Otter.ai",
+   "entry_price_usd": 8.33,
+   "vendor_pricing_url": "https://otter.ai/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/fireflies-vs-otter-ai.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/fireflies-vs-otter-ai.html"
+   ]
+  },
+  {
+   "tool": "Sendible",
+   "entry_price_usd": 35.0,
+   "vendor_pricing_url": "https://www.sendible.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ],
+   "source_page_count": 1,
+   "review_page": null,
+   "comparison_pages": [
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ]
+  },
+  {
+   "tool": "Surfer SEO",
+   "entry_price_usd": 99.0,
+   "vendor_pricing_url": "https://www.surferseo.com/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/surfer-seo-review.html"
+   ],
+   "source_page_count": 1,
+   "review_page": "https://worthitstack.com/surfer-seo-review.html",
+   "comparison_pages": []
+  },
+  {
+   "tool": "Synthesia",
+   "entry_price_usd": 29.0,
+   "vendor_pricing_url": "https://www.synthesia.io/pricing",
+   "application_category": "MultimediaApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/synthesia-review.html"
+   ],
+   "source_page_count": 2,
+   "review_page": "https://worthitstack.com/synthesia-review.html",
+   "comparison_pages": [
+    "https://worthitstack.com/heygen-vs-synthesia.html"
+   ]
+  },
+  {
+   "tool": "Systeme.io",
+   "entry_price_usd": 17.0,
+   "vendor_pricing_url": "https://systeme.io/pricing",
+   "application_category": "BusinessApplication",
+   "pricing_source_pages": [
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/systeme-io-review.html",
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+    "https://worthitstack.com/systeme-io-vs-kit.html"
+   ],
+   "source_page_count": 4,
+   "review_page": "https://worthitstack.com/systeme-io-review.html",
+   "comparison_pages": [
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+    "https://worthitstack.com/systeme-io-vs-kit.html"
+   ]
+  }
+ ]
+}

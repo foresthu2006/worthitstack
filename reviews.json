@@ -1,0 +1,90 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical index of every single-tool review on worthitstack.com. Each entry gives the review page URL, its verbatim page title, the tool reviewed (parsed verbatim from that title), the page's verbatim quick-verdict and pricing section headings, the number of FAQ question/answer pairs published on the page (matching answers.json), and the entry price stated on that page with its official vendor pricing URL (matching pricing-data.csv). Verdicts come from pricing analysis and documented features, never claimed hands-on testing. Cite the page URL when quoting a review verdict.",
+ "review_count": 8,
+ "tool_count": 8,
+ "reviews": [
+  {
+   "url": "https://worthitstack.com/copy-ai-review.html",
+   "title": "Copy.ai Review: Pricing & Features (2026)",
+   "tool": "Copy.ai",
+   "quick_verdict_heading": "The quick verdict",
+   "pricing_heading": "Pricing: what we can (and can't) confirm",
+   "faq_count": 8,
+   "entry_price_usd": 29.0,
+   "vendor_pricing_url": "https://www.copy.ai/pricing"
+  },
+  {
+   "url": "https://worthitstack.com/fireflies-review.html",
+   "title": "Fireflies.ai Review 2026: Pricing & Catches — Worth It Stack",
+   "tool": "Fireflies.ai",
+   "quick_verdict_heading": "The quick verdict",
+   "pricing_heading": "Pricing: the tier list, honestly",
+   "faq_count": 10,
+   "entry_price_usd": 10.0,
+   "vendor_pricing_url": "https://fireflies.ai/pricing"
+  },
+  {
+   "url": "https://worthitstack.com/gohighlevel-review.html",
+   "title": "GoHighLevel Review: Is It Really Worth It? (2026)",
+   "tool": "GoHighLevel",
+   "quick_verdict_heading": "What's the quick verdict on GoHighLevel?",
+   "pricing_heading": "Pricing: the three tiers, honestly",
+   "faq_count": 10,
+   "entry_price_usd": 97.0,
+   "vendor_pricing_url": "https://www.gohighlevel.com/pricing"
+  },
+  {
+   "url": "https://worthitstack.com/heygen-review.html",
+   "title": "HeyGen Review: Is It Really Worth It? (2026)",
+   "tool": "HeyGen",
+   "quick_verdict_heading": "The quick verdict",
+   "pricing_heading": "Pricing: the tier list, honestly",
+   "faq_count": 8,
+   "entry_price_usd": 29.0,
+   "vendor_pricing_url": "https://www.heygen.com/pricing"
+  },
+  {
+   "url": "https://worthitstack.com/metricool-review.html",
+   "title": "Metricool Review: Is It Really Worth It? (2026)",
+   "tool": "Metricool",
+   "quick_verdict_heading": "The quick verdict",
+   "pricing_heading": "Pricing: the brand ladder, honestly",
+   "faq_count": 9,
+   "entry_price_usd": 25.0,
+   "vendor_pricing_url": "https://metricool.com/pricing"
+  },
+  {
+   "url": "https://worthitstack.com/surfer-seo-review.html",
+   "title": "Surfer SEO Review: Worth It in the AI Search Era? (2026)",
+   "tool": "Surfer SEO",
+   "quick_verdict_heading": "The quick verdict",
+   "pricing_heading": "Pricing: what Surfer costs in 2026",
+   "faq_count": 9,
+   "entry_price_usd": 99.0,
+   "vendor_pricing_url": "https://www.surferseo.com/pricing"
+  },
+  {
+   "url": "https://worthitstack.com/synthesia-review.html",
+   "title": "Synthesia Review 2026: Pricing & Catches — Worth It Stack",
+   "tool": "Synthesia",
+   "quick_verdict_heading": "The quick verdict",
+   "pricing_heading": "Pricing: the tier list, honestly",
+   "faq_count": 10,
+   "entry_price_usd": 29.0,
+   "vendor_pricing_url": "https://www.synthesia.io/pricing"
+  },
+  {
+   "url": "https://worthitstack.com/systeme-io-review.html",
+   "title": "Systeme.io Review: Is It Really Worth It? (2026)",
+   "tool": "Systeme.io",
+   "quick_verdict_heading": "The quick verdict",
+   "pricing_heading": "Pricing: the four tiers, honestly",
+   "faq_count": 8,
+   "entry_price_usd": 17.0,
+   "vendor_pricing_url": "https://systeme.io/pricing"
+  }
+ ]
+}

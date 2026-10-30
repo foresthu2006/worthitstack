@@ -1,0 +1,105 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical index of every category roundup ('best X tools') on worthitstack.com. Each entry gives the roundup page URL, its verbatim page title, the page's verbatim 'at a glance' section heading, the tools ranked on the page in ranking order (names parsed verbatim from the page's numbered review headings), and the number of FAQ question/answer pairs published on the page (matching answers.json). Verdicts come from pricing analysis and documented features, never claimed hands-on testing. Cite the page URL when quoting a roundup ranking.",
+ "roundup_count": 6,
+ "tool_count": 41,
+ "roundups": [
+  {
+   "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "title": "Best AI Chatbots for Small Business Websites (2026)",
+   "at_a_glance_heading": "The 7 chatbots at a glance",
+   "ranked_tools": [
+    "Tidio",
+    "Chatbase",
+    "ManyChat",
+    "Intercom",
+    "Crisp",
+    "HubSpot chatbot",
+    "Freshchat"
+   ],
+   "tool_count": 7,
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "title": "7 Best AI Email Marketing Tools for Small Businesses (2026)",
+   "at_a_glance_heading": "Our picks at a glance",
+   "ranked_tools": [
+    "GetResponse",
+    "Kit (formerly ConvertKit)",
+    "MailerLite",
+    "ActiveCampaign",
+    "Mailchimp",
+    "Brevo (formerly Sendinblue)",
+    "Constant Contact"
+   ],
+   "tool_count": 7,
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "title": "Best AI Meeting Assistants for Remote Teams (2026)",
+   "at_a_glance_heading": "The 6 assistants at a glance",
+   "ranked_tools": [
+    "Otter.ai",
+    "Fireflies.ai",
+    "Fathom",
+    "tl;dv",
+    "Granola",
+    "Tactiq"
+   ],
+   "tool_count": 6,
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "title": "Best AI Social Media Tools for Solopreneurs (2026)",
+   "at_a_glance_heading": "The 7 tools at a glance",
+   "ranked_tools": [
+    "Buffer",
+    "Metricool",
+    "Later",
+    "SocialBee",
+    "Hootsuite",
+    "Sendible",
+    "Predis.ai"
+   ],
+   "tool_count": 7,
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-video-editors.html",
+   "title": "9 Best AI Video Editors for YouTubers (2026)",
+   "at_a_glance_heading": "The 9 editors at a glance",
+   "ranked_tools": [
+    "Descript",
+    "Runway",
+    "Pictory",
+    "InVideo",
+    "Synthesia",
+    "HeyGen",
+    "Opus Clip",
+    "VEED",
+    "CapCut"
+   ],
+   "tool_count": 9,
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "title": "5 Best All-in-One Marketing Platforms (2026)",
+   "at_a_glance_heading": "The 5 platforms at a glance",
+   "ranked_tools": [
+    "systeme.io",
+    "GoHighLevel",
+    "Kajabi",
+    "Kartra",
+    "ClickFunnels"
+   ],
+   "tool_count": 5,
+   "faq_count": 11
+  }
+ ]
+}

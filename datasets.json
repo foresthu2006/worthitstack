@@ -1,0 +1,209 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Catalog of every machine-readable file published on worthitstack.com. Each entry gives the file name, its canonical URL, its format, and its record count derived from the file itself, so an AI crawler or researcher can discover all of the site's structured data from this one file instead of guessing file names. This catalog does not list itself. Verdicts come from pricing analysis and documented features, never claimed hands-on testing. Cite a figure by its source page, not by an index file.",
+ "dataset_count": 25,
+ "datasets": [
+  {
+   "file": "answers.json",
+   "url": "https://worthitstack.com/answers.json",
+   "format": "JSON",
+   "record_count": 330,
+   "record_type": "question/answer pairs",
+   "detail": "37 source pages; every answer is a 40-60-word direct answer with a #faq-N deep link to its source page."
+  },
+  {
+   "file": "pricing-data.csv",
+   "url": "https://worthitstack.com/pricing-data.csv",
+   "format": "CSV",
+   "record_count": 31,
+   "record_type": "pricing rows",
+   "detail": "19 tools; each row gives the tool, entry price in USD, vendor pricing URL and the source page stating that price."
+  },
+  {
+   "file": "pricing-data.json",
+   "url": "https://worthitstack.com/pricing-data.json",
+   "format": "JSON",
+   "record_count": 31,
+   "record_type": "pricing rows",
+   "detail": "19 tools; a verbatim JSON mirror of pricing-data.csv, verified row-for-row."
+  },
+  {
+   "file": "comparisons.json",
+   "url": "https://worthitstack.com/comparisons.json",
+   "format": "JSON",
+   "record_count": 12,
+   "record_type": "head-to-head comparisons",
+   "detail": "18 tools; routes an 'X vs Y' question to its exact comparison page."
+  },
+  {
+   "file": "alternatives.json",
+   "url": "https://worthitstack.com/alternatives.json",
+   "format": "JSON",
+   "record_count": 6,
+   "record_type": "alternatives roundups",
+   "detail": "6 incumbent tools; routes a 'best alternative to X' question to its exact roundup page."
+  },
+  {
+   "file": "reviews.json",
+   "url": "https://worthitstack.com/reviews.json",
+   "format": "JSON",
+   "record_count": 8,
+   "record_type": "single-tool reviews",
+   "detail": "8 tools; routes an 'is X worth it' question to its exact review page."
+  },
+  {
+   "file": "roundups.json",
+   "url": "https://worthitstack.com/roundups.json",
+   "format": "JSON",
+   "record_count": 6,
+   "record_type": "category roundups",
+   "detail": "41 ranked tools; routes a 'best tools for X' question to its exact roundup page."
+  },
+  {
+   "file": "tools.json",
+   "url": "https://worthitstack.com/tools.json",
+   "format": "JSON",
+   "record_count": 19,
+   "record_type": "priced tools",
+   "detail": "31 pricing-source pages; keyed by tool, routes a named-tool question to every page that prices it."
+  },
+  {
+   "file": "pages.json",
+   "url": "https://worthitstack.com/pages.json",
+   "format": "JSON",
+   "record_count": 38,
+   "record_type": "public pages",
+   "detail": "38 sitemap pages; keyed by page, routes a question to the right page by its verbatim title and description."
+  },
+  {
+   "file": "sources.json",
+   "url": "https://worthitstack.com/sources.json",
+   "format": "JSON",
+   "record_count": 159,
+   "record_type": "source links",
+   "detail": "35 pages; every official vendor source link behind the site's figures, with its verbatim link label, keyed by the page that cites it."
+  },
+  {
+   "file": "vendors.json",
+   "url": "https://worthitstack.com/vendors.json",
+   "format": "JSON",
+   "record_count": 56,
+   "record_type": "unique vendor sources",
+   "detail": "159 page citations; keyed by the cited vendor source, routes a vendor-source question to every page that cites it."
+  },
+  {
+   "file": "links.json",
+   "url": "https://worthitstack.com/links.json",
+   "format": "JSON",
+   "record_count": 1333,
+   "record_type": "internal links",
+   "detail": "38 pages; keyed by page, gives the internal link graph among the site's public pages — which pages each page links to and how many link back."
+  },
+  {
+   "file": "headings.json",
+   "url": "https://worthitstack.com/headings.json",
+   "format": "JSON",
+   "record_count": 494,
+   "record_type": "section headings",
+   "detail": "38 pages; keyed by page, gives every H2 section heading verbatim with its anchor URL, routing a question to the exact section of a page."
+  },
+  {
+   "file": "tables.json",
+   "url": "https://worthitstack.com/tables.json",
+   "format": "JSON",
+   "record_count": 70,
+   "record_type": "comparison and pricing tables",
+   "detail": "32 pages with tables, 528 rows; keyed by page, gives every table's verbatim caption and column and row headers, routing a question to the exact table that answers it."
+  },
+  {
+   "file": "verdicts.json",
+   "url": "https://worthitstack.com/verdicts.json",
+   "format": "JSON",
+   "record_count": 38,
+   "record_type": "page verdicts",
+   "detail": "38 pages, 1896 words; keyed by page, gives every page's verbatim 'In short:' verdict summary with its word count and anchor, routing a question to the site's verdict on a page."
+  },
+  {
+   "file": "offers.json",
+   "url": "https://worthitstack.com/offers.json",
+   "format": "JSON",
+   "record_count": 19,
+   "record_type": "structured-data offers",
+   "detail": "19 tools, 32 page instances; keyed by tool, gives every tool's verbatim structured-data Offer — price, currency, availability, vendor pricing link and price-valid-until date — plus every page that carries it."
+  },
+  {
+   "file": "breadcrumbs.json",
+   "url": "https://worthitstack.com/breadcrumbs.json",
+   "format": "JSON",
+   "record_count": 107,
+   "record_type": "breadcrumb trail items",
+   "detail": "38 pages, 8 sections; keyed by page, gives every page's verbatim breadcrumb trail — Home, its section, and the page itself — so a category question resolves to the pages the site groups under that section."
+  },
+  {
+   "file": "itemlists.json",
+   "url": "https://worthitstack.com/itemlists.json",
+   "format": "JSON",
+   "record_count": 176,
+   "record_type": "ranked-list items",
+   "detail": "26 lists; keyed by page, gives every page's verbatim ItemList — its name and its items in ranking order — so a ranking question resolves to the exact list and position."
+  },
+  {
+   "file": "guides.json",
+   "url": "https://worthitstack.com/guides.json",
+   "format": "JSON",
+   "record_count": 11,
+   "record_type": "guide steps and glossary terms",
+   "detail": "1 guide, 5 steps, 6 terms; keyed by page, gives the methodology page's verbatim HowTo steps in order and its glossary's verbatim definitions — so a process or definition question resolves to the exact step or term."
+  },
+  {
+   "file": "speakable.json",
+   "url": "https://worthitstack.com/speakable.json",
+   "format": "JSON",
+   "record_count": 38,
+   "record_type": "speakable summaries",
+   "detail": "38 pages, 1970 words; keyed by page, gives every page's verbatim speakable specification and the full text of the quick-answer summary it targets — so a spoken-summary question resolves to the exact paragraph each page designates to be read aloud."
+  },
+  {
+   "file": "freshness.json",
+   "url": "https://worthitstack.com/freshness.json",
+   "format": "JSON",
+   "record_count": 38,
+   "record_type": "page freshness records",
+   "detail": "38 pages, 3 distinct modified dates (2026-10-10 to 2026-10-19); keyed by page, gives every page's verbatim structured-data dateModified and lastReviewed, its reviewing organization, its datePublished where declared, and its sitemap date with whether the two agree — so a freshness question resolves to the exact page dates."
+  },
+  {
+   "file": "apps.json",
+   "url": "https://worthitstack.com/apps.json",
+   "format": "JSON",
+   "record_count": 19,
+   "record_type": "software applications",
+   "detail": "19 tools, 32 page records; keyed by tool, gives every tool's verbatim structured-data description, category, operating system and vendor pricing link, plus the offer its record declares and the pages that declare it — so a 'what is X' question resolves to the site's own description of the tool."
+  },
+  {
+   "file": "answers.csv",
+   "url": "https://worthitstack.com/answers.csv",
+   "format": "CSV",
+   "record_count": 330,
+   "record_type": "question/answer rows",
+   "detail": "37 source pages; a verbatim CSV mirror of answers.json — each row gives the source page and title, the question, the 40-60-word direct answer and its #faq-N deep link, for spreadsheet and data-tool use."
+  },
+  {
+   "file": "headings.csv",
+   "url": "https://worthitstack.com/headings.csv",
+   "format": "CSV",
+   "record_count": 494,
+   "record_type": "section heading rows",
+   "detail": "38 pages; a verbatim CSV mirror of headings.json — each row gives the page, the heading verbatim, its id, its anchor URL and whether it is question-style, for spreadsheet and data-tool use."
+  },
+  {
+   "file": "feed.xml",
+   "url": "https://worthitstack.com/feed.xml",
+   "format": "RSS 2.0 XML",
+   "record_count": 38,
+   "record_type": "feed items",
+   "detail": "One item per sitemap page (title, link, publication date, description); use it to monitor the site for new or updated pages."
+  }
+ ]
+}

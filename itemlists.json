@@ -1,0 +1,1477 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical ranked-list index of worthitstack.com, in JSON: every sitemap page's ItemList exactly as published in its JSON-LD — each list's page, verbatim name and description, and its items in position order with each item's verbatim name and URL where the node carries one. Every prior index is keyed by question, price, page, tool, cited source, internal link, heading, table, verdict, structured-data offer or breadcrumb trail; none exposed the site's rankings as lists, so a machine reader can now answer a ranking question — what a roundup ranks first, in what order a comparison or alternatives page enumerates its tools — from this file instead of reconstructing lists from 26 pages of JSON-LD. Cite content by its page, not by this index.",
+ "list_count": 26,
+ "item_count": 176,
+ "pages_with_lists": 26,
+ "lists": [
+  {
+   "page": "https://worthitstack.com/",
+   "list_id": "https://worthitstack.com/#itemlist",
+   "name": "Featured comparisons — Worth It Stack",
+   "description": "List of 32 entries for Featured comparisons — Worth It Stack, in listed order, starting with: GetResponse vs Mailchimp: The Honest 2026 Breakdown",
+   "item_count": 32,
+   "items": [
+    {
+     "position": 1,
+     "name": "GetResponse vs Mailchimp: The Honest 2026 Breakdown",
+     "item_id": "https://worthitstack.com/#itemlist-1",
+     "url": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+     "item": "https://worthitstack.com/getresponse-vs-mailchimp.html#webpage"
+    },
+    {
+     "position": 2,
+     "name": "Jasper vs Copy.ai: Which AI Writer Is Worth Paying For in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-2",
+     "url": "https://worthitstack.com/jasper-vs-copy-ai.html",
+     "item": "https://worthitstack.com/jasper-vs-copy-ai.html#webpage"
+    },
+    {
+     "position": 3,
+     "name": "7 Best AI Email Marketing Tools for Small Businesses",
+     "item_id": "https://worthitstack.com/#itemlist-3",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": "https://worthitstack.com/best-ai-email-marketing-tools.html#webpage"
+    },
+    {
+     "position": 4,
+     "name": "GoHighLevel vs Systeme.io: The Honest 2026 Breakdown",
+     "item_id": "https://worthitstack.com/#itemlist-4",
+     "url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+     "item": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#webpage"
+    },
+    {
+     "position": 5,
+     "name": "GoHighLevel vs Keap: Which CRM Wins in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-5",
+     "url": "https://worthitstack.com/gohighlevel-vs-keap.html",
+     "item": "https://worthitstack.com/gohighlevel-vs-keap.html#webpage"
+    },
+    {
+     "position": 6,
+     "name": "Surfer SEO Review: Still Worth It in the AI Search Era?",
+     "item_id": "https://worthitstack.com/#itemlist-6",
+     "url": "https://worthitstack.com/surfer-seo-review.html",
+     "item": "https://worthitstack.com/surfer-seo-review.html#webpage"
+    },
+    {
+     "position": 7,
+     "name": "9 Best AI Video Editors for YouTubers and Course Creators",
+     "item_id": "https://worthitstack.com/#itemlist-7",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": "https://worthitstack.com/best-ai-video-editors.html#webpage"
+    },
+    {
+     "position": 8,
+     "name": "Best AI Meeting Assistants for Remote Teams (2026)",
+     "item_id": "https://worthitstack.com/#itemlist-8",
+     "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+     "item": "https://worthitstack.com/best-ai-meeting-assistants.html#webpage"
+    },
+    {
+     "position": 9,
+     "name": "Copy.ai Review: Pricing, Features, and Who It's Actually For",
+     "item_id": "https://worthitstack.com/#itemlist-9",
+     "url": "https://worthitstack.com/copy-ai-review.html",
+     "item": "https://worthitstack.com/copy-ai-review.html#webpage"
+    },
+    {
+     "position": 10,
+     "name": "Best AI Chatbots for Small Business Websites",
+     "item_id": "https://worthitstack.com/#itemlist-10",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": "https://worthitstack.com/best-ai-chatbots-small-business.html#webpage"
+    },
+    {
+     "position": 11,
+     "name": "Best AI Social Media Tools for Solopreneurs",
+     "item_id": "https://worthitstack.com/#itemlist-11",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": "https://worthitstack.com/best-ai-social-media-tools.html#webpage"
+    },
+    {
+     "position": 12,
+     "name": "HeyGen vs Synthesia: Which AI Avatar Tool Is Worth It in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-12",
+     "url": "https://worthitstack.com/heygen-vs-synthesia.html",
+     "item": "https://worthitstack.com/heygen-vs-synthesia.html#webpage"
+    },
+    {
+     "position": 13,
+     "name": "Fireflies.ai vs Otter.ai: Which Is Worth It in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-13",
+     "url": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+     "item": "https://worthitstack.com/fireflies-vs-otter-ai.html#webpage"
+    },
+    {
+     "position": 14,
+     "name": "Metricool vs Buffer: Best Scheduler for Small Teams (2026)",
+     "item_id": "https://worthitstack.com/#itemlist-14",
+     "url": "https://worthitstack.com/metricool-vs-buffer.html",
+     "item": "https://worthitstack.com/metricool-vs-buffer.html#webpage"
+    },
+    {
+     "position": 15,
+     "name": "Metricool vs Hootsuite: Is the Incumbent Worth 5× in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-15",
+     "url": "https://worthitstack.com/metricool-vs-hootsuite.html",
+     "item": "https://worthitstack.com/metricool-vs-hootsuite.html#webpage"
+    },
+    {
+     "position": 16,
+     "name": "Metricool vs Later: Why the Cheaper Tool Costs More in 2026",
+     "item_id": "https://worthitstack.com/#itemlist-16",
+     "url": "https://worthitstack.com/metricool-vs-later.html",
+     "item": "https://worthitstack.com/metricool-vs-later.html#webpage"
+    },
+    {
+     "position": 17,
+     "name": "Metricool vs Sendible: The $35 Workspace Trap (2026)",
+     "item_id": "https://worthitstack.com/#itemlist-17",
+     "url": "https://worthitstack.com/metricool-vs-sendible.html",
+     "item": "https://worthitstack.com/metricool-vs-sendible.html#webpage"
+    },
+    {
+     "position": 18,
+     "name": "Systeme.io vs Kit: Email + Funnels for Creators (2026)",
+     "item_id": "https://worthitstack.com/#itemlist-18",
+     "url": "https://worthitstack.com/systeme-io-vs-kit.html",
+     "item": "https://worthitstack.com/systeme-io-vs-kit.html#webpage"
+    },
+    {
+     "position": 19,
+     "name": "Systeme.io vs ClickFunnels: Funnel Builders Compared for 2026",
+     "item_id": "https://worthitstack.com/#itemlist-19",
+     "url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+     "item": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#webpage"
+    },
+    {
+     "position": 20,
+     "name": "5 Best All-in-One Marketing Platforms (2026)",
+     "item_id": "https://worthitstack.com/#itemlist-20",
+     "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+     "item": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#webpage"
+    },
+    {
+     "position": 21,
+     "name": "Systeme.io Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-21",
+     "url": "https://worthitstack.com/systeme-io-review.html",
+     "item": "https://worthitstack.com/systeme-io-review.html#webpage"
+    },
+    {
+     "position": 22,
+     "name": "7 Best Fireflies.ai Alternatives in 2026",
+     "item_id": "https://worthitstack.com/#itemlist-22",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": "https://worthitstack.com/best-fireflies-alternatives.html#webpage"
+    },
+    {
+     "position": 23,
+     "name": "7 Best Systeme.io Alternatives in 2026",
+     "item_id": "https://worthitstack.com/#itemlist-23",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": "https://worthitstack.com/best-systeme-io-alternatives.html#webpage"
+    },
+    {
+     "position": 24,
+     "name": "Metricool Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-24",
+     "url": "https://worthitstack.com/metricool-review.html",
+     "item": "https://worthitstack.com/metricool-review.html#webpage"
+    },
+    {
+     "position": 25,
+     "name": "Fireflies.ai Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-25",
+     "url": "https://worthitstack.com/fireflies-review.html",
+     "item": "https://worthitstack.com/fireflies-review.html#webpage"
+    },
+    {
+     "position": 26,
+     "name": "HeyGen Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-26",
+     "url": "https://worthitstack.com/heygen-review.html",
+     "item": "https://worthitstack.com/heygen-review.html#webpage"
+    },
+    {
+     "position": 27,
+     "name": "Synthesia Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-27",
+     "url": "https://worthitstack.com/synthesia-review.html",
+     "item": "https://worthitstack.com/synthesia-review.html#webpage"
+    },
+    {
+     "position": 28,
+     "name": "GoHighLevel Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/#itemlist-28",
+     "url": "https://worthitstack.com/gohighlevel-review.html",
+     "item": "https://worthitstack.com/gohighlevel-review.html#webpage"
+    },
+    {
+     "position": 29,
+     "name": "7 Best Synthesia Alternatives in 2026",
+     "item_id": "https://worthitstack.com/#itemlist-29",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": "https://worthitstack.com/best-synthesia-alternatives.html#webpage"
+    },
+    {
+     "position": 30,
+     "name": "7 Best HeyGen Alternatives in 2026",
+     "item_id": "https://worthitstack.com/#itemlist-30",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": "https://worthitstack.com/best-heygen-alternatives.html#webpage"
+    },
+    {
+     "position": 31,
+     "name": "7 Best Metricool Alternatives in 2026",
+     "item_id": "https://worthitstack.com/#itemlist-31",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": "https://worthitstack.com/best-metricool-alternatives.html#webpage"
+    },
+    {
+     "position": 32,
+     "name": "7 Best GoHighLevel Alternatives in 2026",
+     "item_id": "https://worthitstack.com/#itemlist-32",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": "https://worthitstack.com/best-gohighlevel-alternatives.html#webpage"
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+   "list_id": "https://worthitstack.com/getresponse-vs-mailchimp.html#itemlist",
+   "name": "GetResponse vs Mailchimp: The Honest 2026 Breakdown",
+   "description": "List of 2 entries for GetResponse vs Mailchimp: The Honest 2026 Breakdown, in listed order, starting with: GetResponse",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "GetResponse",
+     "item_id": "https://worthitstack.com/getresponse-vs-mailchimp.html#itemlist-1",
+     "url": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Mailchimp",
+     "item_id": "https://worthitstack.com/getresponse-vs-mailchimp.html#itemlist-2",
+     "url": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/jasper-vs-copy-ai.html",
+   "list_id": "https://worthitstack.com/jasper-vs-copy-ai.html#itemlist",
+   "name": "Jasper vs Copy.ai: Which AI Writer Is Worth It? (2026)",
+   "description": "List of 2 entries for Jasper vs Copy.ai: Which AI Writer Is Worth It? (2026), in listed order, starting with: Jasper",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "Jasper",
+     "item_id": "https://worthitstack.com/jasper-vs-copy-ai.html#itemlist-1",
+     "url": "https://worthitstack.com/jasper-vs-copy-ai.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Copy.ai",
+     "item_id": "https://worthitstack.com/jasper-vs-copy-ai.html#itemlist-2",
+     "url": "https://worthitstack.com/jasper-vs-copy-ai.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "list_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#itemlist",
+   "name": "7 Best AI Email Marketing Tools for Small Businesses",
+   "description": "List of 7 entries for 7 Best AI Email Marketing Tools for Small Businesses, in listed order, starting with: GetResponse — Best overall",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "GetResponse — Best overall",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#itemlist-1",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Kit (formerly ConvertKit) — Best for creators",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#itemlist-2",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "MailerLite — Best free plan",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#itemlist-3",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "ActiveCampaign — Best automation",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#itemlist-4",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "Mailchimp — Easiest to start",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#itemlist-5",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "Brevo (formerly Sendinblue) — Best budget all-rounder",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#itemlist-6",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "Constant Contact — Best for events & nonprofits",
+     "item_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#itemlist-7",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+   "list_id": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#itemlist",
+   "name": "GoHighLevel vs Systeme.io: The Honest 2026 Breakdown",
+   "description": "List of 2 entries for GoHighLevel vs Systeme.io: The Honest 2026 Breakdown, in listed order, starting with: GoHighLevel",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "GoHighLevel",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#itemlist-1",
+     "url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Systeme.io",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#itemlist-2",
+     "url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-video-editors.html",
+   "list_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist",
+   "name": "9 Best AI Video Editors for YouTubers and Course Creators",
+   "description": "List of 9 entries for 9 Best AI Video Editors for YouTubers and Course Creators, in listed order, starting with: Descript — best for editing recorded footage",
+   "item_count": 9,
+   "items": [
+    {
+     "position": 1,
+     "name": "Descript — best for editing recorded footage",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-1",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Runway — best for generative AI video",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-2",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Pictory — best for turning scripts into videos",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-3",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "InVideo — best template-driven script-to-video",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-4",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "Synthesia — best for corporate training and explainers",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-5",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "HeyGen — best realistic avatars for marketing",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-6",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "Opus Clip — best for repurposing long-form into Shorts",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-7",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    },
+    {
+     "position": 8,
+     "name": "VEED — best browser-based editor for captions",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-8",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    },
+    {
+     "position": 9,
+     "name": "CapCut — best free option",
+     "item_id": "https://worthitstack.com/best-ai-video-editors.html#itemlist-9",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "list_id": "https://worthitstack.com/best-ai-meeting-assistants.html#itemlist",
+   "name": "Best AI Meeting Assistants for Remote Teams (2026)",
+   "description": "List of 6 entries for Best AI Meeting Assistants for Remote Teams (2026), in listed order, starting with: Otter.ai — best all-rounder",
+   "item_count": 6,
+   "items": [
+    {
+     "position": 1,
+     "name": "Otter.ai — best all-rounder",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#itemlist-1",
+     "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Fireflies.ai — best for sales and CRM workflows",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#itemlist-2",
+     "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Fathom — best free tier",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#itemlist-3",
+     "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "tl;dv — best for clips and compliance",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#itemlist-4",
+     "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "Granola — best if you hate meeting bots",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#itemlist-5",
+     "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "Tactiq — best lightweight option",
+     "item_id": "https://worthitstack.com/best-ai-meeting-assistants.html#itemlist-6",
+     "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "list_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#itemlist",
+   "name": "Best AI Chatbots for Small Business Websites (2026)",
+   "description": "List of 7 entries for Best AI Chatbots for Small Business Websites (2026), in listed order, starting with: Tidio — best for most small businesses",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "Tidio — best for most small businesses",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#itemlist-1",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Chatbase — best budget custom Q&A bot",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#itemlist-2",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "ManyChat — best for Instagram and Facebook DMs",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#itemlist-3",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "Intercom — best when accuracy justifies the cost",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#itemlist-4",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "Crisp — best all-in-one value",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#itemlist-5",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "HubSpot chatbot — best if you already use HubSpot",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#itemlist-6",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "Freshchat — best affordable omnichannel support",
+     "item_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#itemlist-7",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "list_id": "https://worthitstack.com/best-ai-social-media-tools.html#itemlist",
+   "name": "Best AI Social Media Tools for Solopreneurs",
+   "description": "List of 7 entries for Best AI Social Media Tools for Solopreneurs, in listed order, starting with: Buffer — best for most solopreneurs",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "Buffer — best for most solopreneurs",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#itemlist-1",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Metricool — best value with analytics",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#itemlist-2",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Later — best for Instagram-first creators",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#itemlist-3",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "SocialBee — best for content recycling",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#itemlist-4",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "Hootsuite — the full-featured incumbent",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#itemlist-5",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "Sendible — best if you manage clients",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#itemlist-6",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "Predis.ai — best for AI-generated creatives",
+     "item_id": "https://worthitstack.com/best-ai-social-media-tools.html#itemlist-7",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/heygen-vs-synthesia.html",
+   "list_id": "https://worthitstack.com/heygen-vs-synthesia.html#itemlist",
+   "name": "HeyGen vs Synthesia: Which Is Worth It? (2026)",
+   "description": "List of 2 entries for HeyGen vs Synthesia: Which Is Worth It? (2026), in listed order, starting with: HeyGen",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "HeyGen",
+     "item_id": "https://worthitstack.com/heygen-vs-synthesia.html#itemlist-1",
+     "url": "https://worthitstack.com/heygen-vs-synthesia.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Synthesia",
+     "item_id": "https://worthitstack.com/heygen-vs-synthesia.html#itemlist-2",
+     "url": "https://worthitstack.com/heygen-vs-synthesia.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+   "list_id": "https://worthitstack.com/fireflies-vs-otter-ai.html#itemlist",
+   "name": "Fireflies.ai vs Otter.ai: Which Is Worth It? (2026)",
+   "description": "List of 2 entries for Fireflies.ai vs Otter.ai: Which Is Worth It? (2026), in listed order, starting with: Fireflies.ai",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "Fireflies.ai",
+     "item_id": "https://worthitstack.com/fireflies-vs-otter-ai.html#itemlist-1",
+     "url": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Otter.ai",
+     "item_id": "https://worthitstack.com/fireflies-vs-otter-ai.html#itemlist-2",
+     "url": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-buffer.html",
+   "list_id": "https://worthitstack.com/metricool-vs-buffer.html#itemlist",
+   "name": "Metricool vs Buffer: Best Scheduler for Small Teams (2026)",
+   "description": "List of 2 entries for Metricool vs Buffer: Best Scheduler for Small Teams (2026), in listed order, starting with: Metricool",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "Metricool",
+     "item_id": "https://worthitstack.com/metricool-vs-buffer.html#itemlist-1",
+     "url": "https://worthitstack.com/metricool-vs-buffer.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Buffer",
+     "item_id": "https://worthitstack.com/metricool-vs-buffer.html#itemlist-2",
+     "url": "https://worthitstack.com/metricool-vs-buffer.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-kit.html",
+   "list_id": "https://worthitstack.com/systeme-io-vs-kit.html#itemlist",
+   "name": "Systeme.io vs Kit (ConvertKit) Compared (2026)",
+   "description": "List of 2 entries for Systeme.io vs Kit (ConvertKit) Compared (2026), in listed order, starting with: Systeme.io",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "Systeme.io",
+     "item_id": "https://worthitstack.com/systeme-io-vs-kit.html#itemlist-1",
+     "url": "https://worthitstack.com/systeme-io-vs-kit.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Kit (ConvertKit)",
+     "item_id": "https://worthitstack.com/systeme-io-vs-kit.html#itemlist-2",
+     "url": "https://worthitstack.com/systeme-io-vs-kit.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+   "list_id": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#itemlist",
+   "name": "Systeme.io vs ClickFunnels Compared (2026)",
+   "description": "List of 2 entries for Systeme.io vs ClickFunnels Compared (2026), in listed order, starting with: Systeme.io",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "Systeme.io",
+     "item_id": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#itemlist-1",
+     "url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "ClickFunnels",
+     "item_id": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#itemlist-2",
+     "url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "list_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#itemlist",
+   "name": "5 Best All-in-One Marketing Platforms (2026)",
+   "description": "List of 5 entries for 5 Best All-in-One Marketing Platforms (2026), in listed order, starting with: systeme.io — best for solo creators on a budget",
+   "item_count": 5,
+   "items": [
+    {
+     "position": 1,
+     "name": "systeme.io — best for solo creators on a budget",
+     "item_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#itemlist-1",
+     "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "GoHighLevel — best for agencies",
+     "item_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#itemlist-2",
+     "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Kajabi — best for premium course brands",
+     "item_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#itemlist-3",
+     "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "Kartra — best for automation-heavy marketers",
+     "item_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#itemlist-4",
+     "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "ClickFunnels — best for funnel-obsessed sellers",
+     "item_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#itemlist-5",
+     "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "list_id": "https://worthitstack.com/best-fireflies-alternatives.html#itemlist",
+   "name": "7 Best Fireflies.ai Alternatives in 2026: Cheaper, Free, or Built for Sales",
+   "description": "List of 7 entries for 7 Best Fireflies.ai Alternatives in 2026: Cheaper, Free, or Built for Sales, in listed order, starting with: Fathom — the best free alternative",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "Fathom — the best free alternative",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#itemlist-1",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Otter.ai — the all-rounder",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#itemlist-2",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "tl;dv — the European pick",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#itemlist-3",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "Granola — no bot in your calls",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#itemlist-4",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "Avoma — Fireflies with pipeline brains",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#itemlist-5",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "Gong — the enterprise standard",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#itemlist-6",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "Fireflies.ai itself — don't switch without reading this",
+     "item_id": "https://worthitstack.com/best-fireflies-alternatives.html#itemlist-7",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "list_id": "https://worthitstack.com/best-systeme-io-alternatives.html#itemlist",
+   "name": "7 Best Systeme.io Alternatives in 2026: Free Email Tools to All-in-One Giants",
+   "description": "List of 7 entries for 7 Best Systeme.io Alternatives in 2026: Free Email Tools to All-in-One Giants, in listed order, starting with: Kit — the creator pick",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "Kit — the creator pick",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#itemlist-1",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "GoHighLevel — the agency pick",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#itemlist-2",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Kajabi — the premium course platform",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#itemlist-3",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "ClickFunnels — the original funnel builder",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#itemlist-4",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "MailerLite — the cheapest serious email",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#itemlist-5",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "GetResponse — email plus webinars",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#itemlist-6",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "Systeme.io itself — don't switch without reading this",
+     "item_id": "https://worthitstack.com/best-systeme-io-alternatives.html#itemlist-7",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "list_id": "https://worthitstack.com/best-synthesia-alternatives.html#itemlist",
+   "name": "7 Best Synthesia Alternatives in 2026: Cheaper Avatars, Better Realism, or Built for Training",
+   "description": "List of 7 entries for 7 Best Synthesia Alternatives in 2026: Cheaper Avatars, Better Realism, or Built for Training, in listed order, starting with: HeyGen — the best overall alternative",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "HeyGen — the best overall alternative",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#itemlist-1",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Colossyan — the L&D pick",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#itemlist-2",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "D-ID — the cheapest entry point",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#itemlist-3",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "Elai — the budget converter",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#itemlist-4",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "VEED — the editor that also does avatars",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#itemlist-5",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "Captions — the short-form ad pick",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#itemlist-6",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "Synthesia itself — don't switch without reading this",
+     "item_id": "https://worthitstack.com/best-synthesia-alternatives.html#itemlist-7",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-heygen-alternatives.html",
+   "list_id": "https://worthitstack.com/best-heygen-alternatives.html#itemlist",
+   "name": "7 Best HeyGen Alternatives in 2026: Cheaper Avatars, Simpler Billing, or Built for Training",
+   "description": "List of 7 entries for 7 Best HeyGen Alternatives in 2026: Cheaper Avatars, Simpler Billing, or Built for Training, in listed order, starting with: Synthesia — the calmest alternative",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "Synthesia — the calmest alternative",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#itemlist-1",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Colossyan — the L&D pick",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#itemlist-2",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "D-ID — the cheapest entry point",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#itemlist-3",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "Elai — the budget converter",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#itemlist-4",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "VEED — the editor that also does avatars",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#itemlist-5",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "Captions — the short-form ad pick",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#itemlist-6",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "HeyGen itself — don't switch without reading this",
+     "item_id": "https://worthitstack.com/best-heygen-alternatives.html#itemlist-7",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-metricool-alternatives.html",
+   "list_id": "https://worthitstack.com/best-metricool-alternatives.html#itemlist",
+   "name": "7 Best Metricool Alternatives in 2026: Cheaper Schedulers, Better Inboxes, or Built for Agencies",
+   "description": "List of 7 entries for 7 Best Metricool Alternatives in 2026: Cheaper Schedulers, Better Inboxes, or Built for Agencies, in listed order, starting with: Buffer — the simplest alternative",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "Buffer — the simplest alternative",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#itemlist-1",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Later — the visual-creator pick",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#itemlist-2",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Hootsuite — the engagement pick",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#itemlist-3",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "Sendible — the agency pick",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#itemlist-4",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "SocialPilot — the budget per-plan pick",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#itemlist-5",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "Sprout Social — the enterprise pick",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#itemlist-6",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "Metricool itself — don't switch without reading this",
+     "item_id": "https://worthitstack.com/best-metricool-alternatives.html#itemlist-7",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "list_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#itemlist",
+   "name": "7 Best GoHighLevel Alternatives in 2026: Cheaper CRMs, Simpler Platforms, or Built for Agencies",
+   "description": "List of 7 entries for 7 Best GoHighLevel Alternatives in 2026: Cheaper CRMs, Simpler Platforms, or Built for Agencies, in listed order, starting with: systeme.io — the honest downgrade for solos",
+   "item_count": 7,
+   "items": [
+    {
+     "position": 1,
+     "name": "systeme.io — the honest downgrade for solos",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#itemlist-1",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "ActiveCampaign — the automation pick",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#itemlist-2",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 3,
+     "name": "Keap — the small-business classic",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#itemlist-3",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 4,
+     "name": "Kartra — the behavioral-automation pick",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#itemlist-4",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 5,
+     "name": "Kajabi — the high-ticket pick",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#itemlist-5",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 6,
+     "name": "HubSpot — the scale-up pick (read the fine print)",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#itemlist-6",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": null
+    },
+    {
+     "position": 7,
+     "name": "GoHighLevel itself — don't switch without reading this",
+     "item_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#itemlist-7",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-hootsuite.html",
+   "list_id": "https://worthitstack.com/metricool-vs-hootsuite.html#itemlist",
+   "name": "Metricool vs Hootsuite: $20 vs $99 (2026)",
+   "description": "List of 2 entries for Metricool vs Hootsuite: $20 vs $99 (2026), in listed order, starting with: Metricool",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "Metricool",
+     "item_id": "https://worthitstack.com/metricool-vs-hootsuite.html#itemlist-1",
+     "url": "https://worthitstack.com/metricool-vs-hootsuite.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Hootsuite",
+     "item_id": "https://worthitstack.com/metricool-vs-hootsuite.html#itemlist-2",
+     "url": "https://worthitstack.com/metricool-vs-hootsuite.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-later.html",
+   "list_id": "https://worthitstack.com/metricool-vs-later.html#itemlist",
+   "name": "Metricool vs Later: Why the Cheaper Tool Costs More in 2026",
+   "description": "List of 2 entries for Metricool vs Later: Why the Cheaper Tool Costs More in 2026, in listed order, starting with: Metricool",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "Metricool",
+     "item_id": "https://worthitstack.com/metricool-vs-later.html#itemlist-1",
+     "url": "https://worthitstack.com/metricool-vs-later.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Later",
+     "item_id": "https://worthitstack.com/metricool-vs-later.html#itemlist-2",
+     "url": "https://worthitstack.com/metricool-vs-later.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-sendible.html",
+   "list_id": "https://worthitstack.com/metricool-vs-sendible.html#itemlist",
+   "name": "Metricool vs Sendible: The $35 Workspace Trap (2026)",
+   "description": "List of 2 entries for Metricool vs Sendible: The $35 Workspace Trap (2026), in listed order, starting with: Metricool",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "Metricool",
+     "item_id": "https://worthitstack.com/metricool-vs-sendible.html#itemlist-1",
+     "url": "https://worthitstack.com/metricool-vs-sendible.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Sendible",
+     "item_id": "https://worthitstack.com/metricool-vs-sendible.html#itemlist-2",
+     "url": "https://worthitstack.com/metricool-vs-sendible.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-keap.html",
+   "list_id": "https://worthitstack.com/gohighlevel-vs-keap.html#itemlist",
+   "name": "GoHighLevel vs Keap: Which CRM Wins in 2026?",
+   "description": "List of 2 entries for GoHighLevel vs Keap: Which CRM Wins in 2026?, in listed order, starting with: GoHighLevel",
+   "item_count": 2,
+   "items": [
+    {
+     "position": 1,
+     "name": "GoHighLevel",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-keap.html#itemlist-1",
+     "url": "https://worthitstack.com/gohighlevel-vs-keap.html",
+     "item": null
+    },
+    {
+     "position": 2,
+     "name": "Keap",
+     "item_id": "https://worthitstack.com/gohighlevel-vs-keap.html#itemlist-2",
+     "url": "https://worthitstack.com/gohighlevel-vs-keap.html",
+     "item": null
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/all-answers.html",
+   "list_id": "https://worthitstack.com/all-answers.html#itemlist",
+   "name": "Worth It Stack — pages indexed by question",
+   "description": "List of 37 entries for Worth It Stack — pages indexed by question, in listed order, starting with: About — Worth It Stack",
+   "item_count": 37,
+   "items": [
+    {
+     "position": 1,
+     "name": "About Worth It Stack",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-1",
+     "url": "https://worthitstack.com/about.html",
+     "item": "https://worthitstack.com/about.html#webpage"
+    },
+    {
+     "position": 2,
+     "name": "Affiliate Disclosure",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-2",
+     "url": "https://worthitstack.com/affiliate-disclosure.html",
+     "item": "https://worthitstack.com/affiliate-disclosure.html#webpage"
+    },
+    {
+     "position": 3,
+     "name": "Best AI Chatbots for Small Business Websites",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-3",
+     "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+     "item": "https://worthitstack.com/best-ai-chatbots-small-business.html#webpage"
+    },
+    {
+     "position": 4,
+     "name": "7 Best AI Email Marketing Tools for Small Businesses",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-4",
+     "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+     "item": "https://worthitstack.com/best-ai-email-marketing-tools.html#webpage"
+    },
+    {
+     "position": 5,
+     "name": "Best AI Meeting Assistants for Remote Teams (2026)",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-5",
+     "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+     "item": "https://worthitstack.com/best-ai-meeting-assistants.html#webpage"
+    },
+    {
+     "position": 6,
+     "name": "Best AI Social Media Tools for Solopreneurs",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-6",
+     "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+     "item": "https://worthitstack.com/best-ai-social-media-tools.html#webpage"
+    },
+    {
+     "position": 7,
+     "name": "9 Best AI Video Editors for YouTubers and Course Creators",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-7",
+     "url": "https://worthitstack.com/best-ai-video-editors.html",
+     "item": "https://worthitstack.com/best-ai-video-editors.html#webpage"
+    },
+    {
+     "position": 8,
+     "name": "5 Best All-in-One Marketing Platforms (2026)",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-8",
+     "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+     "item": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#webpage"
+    },
+    {
+     "position": 9,
+     "name": "7 Best Fireflies.ai Alternatives in 2026",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-9",
+     "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+     "item": "https://worthitstack.com/best-fireflies-alternatives.html#webpage"
+    },
+    {
+     "position": 10,
+     "name": "7 Best GoHighLevel Alternatives in 2026",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-10",
+     "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+     "item": "https://worthitstack.com/best-gohighlevel-alternatives.html#webpage"
+    },
+    {
+     "position": 11,
+     "name": "7 Best HeyGen Alternatives in 2026",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-11",
+     "url": "https://worthitstack.com/best-heygen-alternatives.html",
+     "item": "https://worthitstack.com/best-heygen-alternatives.html#webpage"
+    },
+    {
+     "position": 12,
+     "name": "7 Best Metricool Alternatives in 2026",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-12",
+     "url": "https://worthitstack.com/best-metricool-alternatives.html",
+     "item": "https://worthitstack.com/best-metricool-alternatives.html#webpage"
+    },
+    {
+     "position": 13,
+     "name": "7 Best Synthesia Alternatives in 2026",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-13",
+     "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+     "item": "https://worthitstack.com/best-synthesia-alternatives.html#webpage"
+    },
+    {
+     "position": 14,
+     "name": "7 Best Systeme.io Alternatives in 2026",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-14",
+     "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+     "item": "https://worthitstack.com/best-systeme-io-alternatives.html#webpage"
+    },
+    {
+     "position": 15,
+     "name": "Free AI Tools Cheat Sheet for Small Businesses",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-15",
+     "url": "https://worthitstack.com/cheat-sheet.html",
+     "item": "https://worthitstack.com/cheat-sheet.html#webpage"
+    },
+    {
+     "position": 16,
+     "name": "Copy.ai Review: Pricing, Features, and Who It's Actually For",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-16",
+     "url": "https://worthitstack.com/copy-ai-review.html",
+     "item": "https://worthitstack.com/copy-ai-review.html#webpage"
+    },
+    {
+     "position": 17,
+     "name": "Fireflies.ai Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-17",
+     "url": "https://worthitstack.com/fireflies-review.html",
+     "item": "https://worthitstack.com/fireflies-review.html#webpage"
+    },
+    {
+     "position": 18,
+     "name": "Fireflies.ai vs Otter.ai: Which Is Worth It in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-18",
+     "url": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+     "item": "https://worthitstack.com/fireflies-vs-otter-ai.html#webpage"
+    },
+    {
+     "position": 19,
+     "name": "GetResponse vs Mailchimp: The Honest 2026 Breakdown",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-19",
+     "url": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+     "item": "https://worthitstack.com/getresponse-vs-mailchimp.html#webpage"
+    },
+    {
+     "position": 20,
+     "name": "GoHighLevel Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-20",
+     "url": "https://worthitstack.com/gohighlevel-review.html",
+     "item": "https://worthitstack.com/gohighlevel-review.html#webpage"
+    },
+    {
+     "position": 21,
+     "name": "GoHighLevel vs Keap: Which CRM Wins in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-21",
+     "url": "https://worthitstack.com/gohighlevel-vs-keap.html",
+     "item": "https://worthitstack.com/gohighlevel-vs-keap.html#webpage"
+    },
+    {
+     "position": 22,
+     "name": "GoHighLevel vs Systeme.io: The Honest 2026 Breakdown",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-22",
+     "url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+     "item": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#webpage"
+    },
+    {
+     "position": 23,
+     "name": "HeyGen Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-23",
+     "url": "https://worthitstack.com/heygen-review.html",
+     "item": "https://worthitstack.com/heygen-review.html#webpage"
+    },
+    {
+     "position": 24,
+     "name": "HeyGen vs Synthesia: Which AI Avatar Tool Is Worth It in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-24",
+     "url": "https://worthitstack.com/heygen-vs-synthesia.html",
+     "item": "https://worthitstack.com/heygen-vs-synthesia.html#webpage"
+    },
+    {
+     "position": 25,
+     "name": "Worth It Stack: Honest AI Software Comparisons (2026)",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-25",
+     "url": "https://worthitstack.com/",
+     "item": "https://worthitstack.com/#webpage"
+    },
+    {
+     "position": 26,
+     "name": "Jasper vs Copy.ai: Which AI Writer Is Worth Paying For in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-26",
+     "url": "https://worthitstack.com/jasper-vs-copy-ai.html",
+     "item": "https://worthitstack.com/jasper-vs-copy-ai.html#webpage"
+    },
+    {
+     "position": 27,
+     "name": "How we compare software",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-27",
+     "url": "https://worthitstack.com/methodology.html",
+     "item": "https://worthitstack.com/methodology.html#webpage"
+    },
+    {
+     "position": 28,
+     "name": "Metricool Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-28",
+     "url": "https://worthitstack.com/metricool-review.html",
+     "item": "https://worthitstack.com/metricool-review.html#webpage"
+    },
+    {
+     "position": 29,
+     "name": "Metricool vs Buffer: Best Scheduler for Small Teams (2026)",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-29",
+     "url": "https://worthitstack.com/metricool-vs-buffer.html",
+     "item": "https://worthitstack.com/metricool-vs-buffer.html#webpage"
+    },
+    {
+     "position": 30,
+     "name": "Metricool vs Hootsuite: Is the Incumbent Worth 5× in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-30",
+     "url": "https://worthitstack.com/metricool-vs-hootsuite.html",
+     "item": "https://worthitstack.com/metricool-vs-hootsuite.html#webpage"
+    },
+    {
+     "position": 31,
+     "name": "Metricool vs Later: Why the Cheaper Tool Costs More in 2026",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-31",
+     "url": "https://worthitstack.com/metricool-vs-later.html",
+     "item": "https://worthitstack.com/metricool-vs-later.html#webpage"
+    },
+    {
+     "position": 32,
+     "name": "Metricool vs Sendible: The $35 Workspace Trap (2026)",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-32",
+     "url": "https://worthitstack.com/metricool-vs-sendible.html",
+     "item": "https://worthitstack.com/metricool-vs-sendible.html#webpage"
+    },
+    {
+     "position": 33,
+     "name": "Surfer SEO Review: Still Worth It in the AI Search Era?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-33",
+     "url": "https://worthitstack.com/surfer-seo-review.html",
+     "item": "https://worthitstack.com/surfer-seo-review.html#webpage"
+    },
+    {
+     "position": 34,
+     "name": "Synthesia Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-34",
+     "url": "https://worthitstack.com/synthesia-review.html",
+     "item": "https://worthitstack.com/synthesia-review.html#webpage"
+    },
+    {
+     "position": 35,
+     "name": "Systeme.io Review: Is It Really Worth It in 2026?",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-35",
+     "url": "https://worthitstack.com/systeme-io-review.html",
+     "item": "https://worthitstack.com/systeme-io-review.html#webpage"
+    },
+    {
+     "position": 36,
+     "name": "Systeme.io vs ClickFunnels: Funnel Builders Compared for 2026",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-36",
+     "url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+     "item": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#webpage"
+    },
+    {
+     "position": 37,
+     "name": "Systeme.io vs Kit: Email + Funnels for Creators (2026)",
+     "item_id": "https://worthitstack.com/all-answers.html#itemlist-37",
+     "url": "https://worthitstack.com/systeme-io-vs-kit.html",
+     "item": "https://worthitstack.com/systeme-io-vs-kit.html#webpage"
+    }
+   ]
+  }
+ ]
+}

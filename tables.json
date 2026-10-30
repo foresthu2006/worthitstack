@@ -1,0 +1,1134 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical tables index of worthitstack.com, in JSON: every visible comparison, pricing and at-a-glance table on the site's 38 public sitemap pages, in document order, with its verbatim caption, its column headers, its row headers, and its row and column counts. Every prior index is keyed by question/answer pair, price, page, tool, cited source, internal link or section heading; use this file to route a question to the exact TABLE that answers it — a pricing comparison, a feature matrix, an at-a-glance verdict — without parsing 38 pages of HTML. Cite a figure by its source page and table caption, not by this index.",
+ "page_count": 38,
+ "pages_with_tables": 32,
+ "table_count": 70,
+ "row_count": 528,
+ "pages": [
+  {
+   "page": "https://worthitstack.com/",
+   "table_count": 0,
+   "tables": []
+  },
+  {
+   "page": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "GetResponse vs Mailchimp at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "GetResponse",
+      "Mailchimp"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Automation per dollar",
+      "Best for",
+      "Pick it if",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "GetResponse",
+      "Mailchimp"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Feature",
+      "GetResponse",
+      "Mailchimp"
+     ],
+     "row_headers": [],
+     "row_count": 11,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/jasper-vs-copy-ai.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "Jasper vs Copy.ai at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "Jasper",
+      "Copy.ai"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Affiliate note",
+      "Pick it if",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "Jasper",
+      "Copy.ai"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Feature comparison based on official vendor documentation, checked October 2026.",
+     "column_headers": [
+      "Capability",
+      "Jasper",
+      "Copy.ai"
+     ],
+     "row_headers": [],
+     "row_count": 11,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Free plan",
+      "Paid from",
+      "Standout AI feature",
+      "Best for"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 5
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "GoHighLevel vs systeme.io at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "systeme.io",
+      "GoHighLevel"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Contact model",
+      "Ceiling",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "systeme.io",
+      "GoHighLevel"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Feature",
+      "systeme.io",
+      "GoHighLevel"
+     ],
+     "row_headers": [],
+     "row_count": 15,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/surfer-seo-review.html",
+   "table_count": 4,
+   "tables": [
+    {
+     "caption": "Surfer SEO at a glance — figures as stated on this site (pricing verified September 2026).",
+     "column_headers": [],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Skip if",
+      "Top alternative",
+      "Our one-line verdict"
+     ],
+     "row_count": 6,
+     "column_count": 2
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Plan",
+      "Monthly",
+      "Annual (per month)",
+      "Who it's for"
+     ],
+     "row_headers": [],
+     "row_count": 4,
+     "column_count": 4
+    },
+    {
+     "caption": "Feature comparison based on official vendor documentation, checked October 2026.",
+     "column_headers": [
+      "Feature",
+      "What it does",
+      "How good it is"
+     ],
+     "row_headers": [],
+     "row_count": 9,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Starting price (reported)",
+      "Positioning"
+     ],
+     "row_headers": [],
+     "row_count": 6,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-video-editors.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Best for",
+      "Starts at (reported 2026)",
+      "Free plan?"
+     ],
+     "row_headers": [],
+     "row_count": 10,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Best for",
+      "Pricing (reported 2026)",
+      "Standout trait"
+     ],
+     "row_headers": [],
+     "row_count": 7,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/copy-ai-review.html",
+   "table_count": 4,
+   "tables": [
+    {
+     "caption": "Copy.ai at a glance — pricing volatile through 2026; verify live on the vendor pricing page.",
+     "column_headers": [],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Skip if",
+      "Top alternative",
+      "Our one-line verdict"
+     ],
+     "row_count": 6,
+     "column_count": 2
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "What sources report",
+      "Figure",
+      "Status"
+     ],
+     "row_headers": [],
+     "row_count": 6,
+     "column_count": 3
+    },
+    {
+     "caption": "Feature comparison based on official vendor documentation, checked October 2026.",
+     "column_headers": [
+      "Feature",
+      "What it does",
+      "Assessment"
+     ],
+     "row_headers": [],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "If you want…",
+      "Consider instead",
+      "Why"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Best for",
+      "Pricing (reported 2026)",
+      "Free plan?"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Best for",
+      "Pricing (reported 2026)",
+      "Free plan?"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/heygen-vs-synthesia.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "HeyGen vs Synthesia at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "HeyGen",
+      "Synthesia"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Entry-paid yield",
+      "Best for",
+      "Pick it if",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "HeyGen",
+      "Synthesia"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Feature",
+      "HeyGen",
+      "Synthesia"
+     ],
+     "row_headers": [],
+     "row_count": 13,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "Fireflies vs Otter at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "Fireflies.ai",
+      "Otter.ai"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Watch out",
+      "Pick it if",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "Fireflies.ai",
+      "Otter.ai"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Feature comparison based on official vendor documentation, checked October 2026.",
+     "column_headers": [
+      "Feature",
+      "Fireflies.ai",
+      "Otter.ai"
+     ],
+     "row_headers": [],
+     "row_count": 14,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-buffer.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "Metricool vs Buffer at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "Metricool",
+      "Buffer"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Pricing logic",
+      "Best for",
+      "Agency fit",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "Metricool",
+      "Buffer"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Feature comparison based on official vendor documentation, checked October 2026.",
+     "column_headers": [
+      "Feature",
+      "Metricool",
+      "Buffer"
+     ],
+     "row_headers": [],
+     "row_count": 13,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-kit.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "systeme.io vs Kit at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "systeme.io",
+      "Kit (ConvertKit)"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Scope",
+      "Scaling",
+      "Pick it if",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "systeme.io",
+      "Kit (ConvertKit)"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Feature",
+      "systeme.io",
+      "Kit (ConvertKit)"
+     ],
+     "row_headers": [],
+     "row_count": 12,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "systeme.io vs ClickFunnels at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "systeme.io",
+      "ClickFunnels"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Funnel builder",
+      "Best for",
+      "Pick it if",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Plan",
+      "Monthly",
+      "Annual (effective/mo)",
+      "Headline limits"
+     ],
+     "row_headers": [],
+     "row_count": 7,
+     "column_count": 4
+    },
+    {
+     "caption": "Feature comparison based on official vendor documentation, checked October 2026.",
+     "column_headers": [
+      "Feature",
+      "systeme.io",
+      "ClickFunnels"
+     ],
+     "row_headers": [],
+     "row_count": 12,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Platform",
+      "Best for",
+      "Pricing (verified Sept 2026)",
+      "Standout trait"
+     ],
+     "row_headers": [],
+     "row_count": 6,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/cheat-sheet.html",
+   "table_count": 0,
+   "tables": []
+  },
+  {
+   "page": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Free plan",
+      "Paid starts at",
+      "Standout trait"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-review.html",
+   "table_count": 2,
+   "tables": [
+    {
+     "caption": "Metricool at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Skip if",
+      "Top alternative",
+      "Our one-line verdict"
+     ],
+     "row_count": 6,
+     "column_count": 2
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Plan",
+      "Brands",
+      "Monthly billing",
+      "Annual billing (per month)"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Free plan",
+      "Paid starts at",
+      "Standout trait"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-review.html",
+   "table_count": 2,
+   "tables": [
+    {
+     "caption": "systeme.io at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Skip if",
+      "Top alternative",
+      "Our one-line verdict"
+     ],
+     "row_count": 6,
+     "column_count": 2
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Plan",
+      "Monthly",
+      "Annual (per month)",
+      "Key limits"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/methodology.html",
+   "table_count": 0,
+   "tables": []
+  },
+  {
+   "page": "https://worthitstack.com/about.html",
+   "table_count": 0,
+   "tables": []
+  },
+  {
+   "page": "https://worthitstack.com/affiliate-disclosure.html",
+   "table_count": 0,
+   "tables": []
+  },
+  {
+   "page": "https://worthitstack.com/heygen-review.html",
+   "table_count": 2,
+   "tables": [
+    {
+     "caption": "HeyGen at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Skip if",
+      "Top alternative",
+      "Our one-line verdict"
+     ],
+     "row_count": 6,
+     "column_count": 2
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Plan",
+      "Monthly billing",
+      "Credits/month",
+      "Key limits"
+     ],
+     "row_headers": [],
+     "row_count": 6,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-review.html",
+   "table_count": 2,
+   "tables": [
+    {
+     "caption": "GoHighLevel at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Skip if",
+      "Top alternative",
+      "Our one-line verdict"
+     ],
+     "row_count": 6,
+     "column_count": 2
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "Monthly",
+      "Annual (effective)",
+      "Sub-accounts",
+      "What it adds"
+     ],
+     "row_headers": [],
+     "row_count": 4,
+     "column_count": 5
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Free plan",
+      "Paid starts at",
+      "Standout trait"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-heygen-alternatives.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Free plan",
+      "Paid starts at",
+      "Standout trait"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-metricool-alternatives.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Free plan",
+      "Paid starts at",
+      "Standout trait"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 4
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "table_count": 1,
+   "tables": [
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Entry price",
+      "Who it's for"
+     ],
+     "row_headers": [],
+     "row_count": 8,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-hootsuite.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "Metricool vs Hootsuite at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "Metricool",
+      "Hootsuite"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan / trial",
+      "Pricing logic",
+      "Best for",
+      "Pick it if",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "Metricool",
+      "Hootsuite"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Feature comparison based on official vendor documentation, checked October 2026.",
+     "column_headers": [
+      "Feature",
+      "Metricool",
+      "Hootsuite"
+     ],
+     "row_headers": [],
+     "row_count": 13,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-review.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "Fireflies.ai at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Skip if",
+      "Top alternative",
+      "Our one-line verdict"
+     ],
+     "row_count": 6,
+     "column_count": 2
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Plan",
+      "Monthly billing",
+      "Annual billing",
+      "The honest read"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 4
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Starting price",
+      "Best for"
+     ],
+     "row_headers": [],
+     "row_count": 6,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/synthesia-review.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "Synthesia at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Skip if",
+      "Top alternative",
+      "Our one-line verdict"
+     ],
+     "row_count": 6,
+     "column_count": 2
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Plan",
+      "Monthly billing",
+      "Annual billing",
+      "The honest read"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 4
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tool",
+      "Starting price",
+      "Best for"
+     ],
+     "row_headers": [],
+     "row_count": 7,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-later.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "Metricool vs Later at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "Metricool",
+      "Later"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan / trial",
+      "Pricing logic",
+      "Best for",
+      "Scaling",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "Metricool",
+      "Later"
+     ],
+     "row_headers": [],
+     "row_count": 5,
+     "column_count": 3
+    },
+    {
+     "caption": "Feature comparison based on official vendor documentation, checked October 2026.",
+     "column_headers": [
+      "Feature",
+      "Metricool",
+      "Later"
+     ],
+     "row_headers": [],
+     "row_count": 13,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-sendible.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "Metricool vs Sendible at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "Metricool",
+      "Sendible"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Plan structure",
+      "Best for",
+      "Teams",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "Monthly",
+      "Annual (per mo)",
+      "What you get"
+     ],
+     "row_headers": [],
+     "row_count": 7,
+     "column_count": 4
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Capability",
+      "Metricool",
+      "Sendible"
+     ],
+     "row_headers": [],
+     "row_count": 13,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-keap.html",
+   "table_count": 3,
+   "tables": [
+    {
+     "caption": "GoHighLevel vs Keap at a glance — figures as stated on this site, verified October 2026.",
+     "column_headers": [
+      "",
+      "GoHighLevel",
+      "Keap"
+     ],
+     "row_headers": [
+      "Starting price",
+      "Free plan",
+      "Best for",
+      "Agency model",
+      "Billing quirk",
+      "Our one-line bottom line"
+     ],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Tier",
+      "GoHighLevel",
+      "Keap (published 2026 rates)"
+     ],
+     "row_headers": [],
+     "row_count": 7,
+     "column_count": 3
+    },
+    {
+     "caption": "Pricing comparison — figures verified October 2026 against official vendor pricing pages.",
+     "column_headers": [
+      "Capability",
+      "GoHighLevel",
+      "Keap"
+     ],
+     "row_headers": [],
+     "row_count": 12,
+     "column_count": 3
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/all-answers.html",
+   "table_count": 0,
+   "tables": []
+  }
+ ]
+}

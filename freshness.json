@@ -1,0 +1,395 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical page-freshness index of worthitstack.com, in JSON: every sitemap page's WebPage freshness fields exactly as published in its JSON-LD — its verbatim dateModified and lastReviewed, the @id of the organization that reviewed it, and its datePublished where the page declares one (only the all-answers hub does) — together with the page's sitemap lastmod and whether the two dates agree. Every prior index is keyed by question, price row, page, tool, cited source, internal link, section heading, table, verdict, structured-data offer, breadcrumb trail, ranked list, guide step, glossary term or speakable summary; none exposed when each page was last modified or reviewed, so an AI reader deciding how current a page is can now take every page's freshness from this file instead of parsing each page's structured data. No date in this file is inferred: a page with no datePublished in its structured data records null here. Cite content by its page, not by this index.",
+ "page_count": 38,
+ "distinct_modified_dates": 3,
+ "earliest_modified": "2026-10-10",
+ "latest_modified": "2026-10-19",
+ "pages_with_date_published": 1,
+ "sitemap_match_count": 38,
+ "record_count": 38,
+ "pages": [
+  {
+   "page": "https://worthitstack.com/",
+   "webpage_id": "https://worthitstack.com/#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+   "webpage_id": "https://worthitstack.com/getresponse-vs-mailchimp.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/jasper-vs-copy-ai.html",
+   "webpage_id": "https://worthitstack.com/jasper-vs-copy-ai.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "webpage_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+   "webpage_id": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/surfer-seo-review.html",
+   "webpage_id": "https://worthitstack.com/surfer-seo-review.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-video-editors.html",
+   "webpage_id": "https://worthitstack.com/best-ai-video-editors.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "webpage_id": "https://worthitstack.com/best-ai-meeting-assistants.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/copy-ai-review.html",
+   "webpage_id": "https://worthitstack.com/copy-ai-review.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "webpage_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "webpage_id": "https://worthitstack.com/best-ai-social-media-tools.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/heygen-vs-synthesia.html",
+   "webpage_id": "https://worthitstack.com/heygen-vs-synthesia.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+   "webpage_id": "https://worthitstack.com/fireflies-vs-otter-ai.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-buffer.html",
+   "webpage_id": "https://worthitstack.com/metricool-vs-buffer.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-kit.html",
+   "webpage_id": "https://worthitstack.com/systeme-io-vs-kit.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+   "webpage_id": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "webpage_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#webpage",
+   "date_modified": "2026-10-19",
+   "last_reviewed": "2026-10-19",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-19",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/cheat-sheet.html",
+   "webpage_id": "https://worthitstack.com/cheat-sheet.html#webpage",
+   "date_modified": "2026-10-10",
+   "last_reviewed": "2026-10-10",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-10",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "webpage_id": "https://worthitstack.com/best-fireflies-alternatives.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/metricool-review.html",
+   "webpage_id": "https://worthitstack.com/metricool-review.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "webpage_id": "https://worthitstack.com/best-systeme-io-alternatives.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-review.html",
+   "webpage_id": "https://worthitstack.com/systeme-io-review.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/methodology.html",
+   "webpage_id": "https://worthitstack.com/methodology.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/about.html",
+   "webpage_id": "https://worthitstack.com/about.html#webpage",
+   "date_modified": "2026-10-10",
+   "last_reviewed": "2026-10-10",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-10",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/affiliate-disclosure.html",
+   "webpage_id": "https://worthitstack.com/affiliate-disclosure.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/heygen-review.html",
+   "webpage_id": "https://worthitstack.com/heygen-review.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-review.html",
+   "webpage_id": "https://worthitstack.com/gohighlevel-review.html#webpage",
+   "date_modified": "2026-10-10",
+   "last_reviewed": "2026-10-10",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-10",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "webpage_id": "https://worthitstack.com/best-synthesia-alternatives.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-heygen-alternatives.html",
+   "webpage_id": "https://worthitstack.com/best-heygen-alternatives.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-metricool-alternatives.html",
+   "webpage_id": "https://worthitstack.com/best-metricool-alternatives.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "webpage_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-hootsuite.html",
+   "webpage_id": "https://worthitstack.com/metricool-vs-hootsuite.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-review.html",
+   "webpage_id": "https://worthitstack.com/fireflies-review.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/synthesia-review.html",
+   "webpage_id": "https://worthitstack.com/synthesia-review.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-later.html",
+   "webpage_id": "https://worthitstack.com/metricool-vs-later.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-sendible.html",
+   "webpage_id": "https://worthitstack.com/metricool-vs-sendible.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-keap.html",
+   "webpage_id": "https://worthitstack.com/gohighlevel-vs-keap.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": null,
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  },
+  {
+   "page": "https://worthitstack.com/all-answers.html",
+   "webpage_id": "https://worthitstack.com/all-answers.html#webpage",
+   "date_modified": "2026-10-11",
+   "last_reviewed": "2026-10-11",
+   "reviewed_by": "https://worthitstack.com/#org",
+   "date_published": "2026-10-10",
+   "sitemap_lastmod": "2026-10-11",
+   "sitemap_matches_modified": true
+  }
+ ]
+}

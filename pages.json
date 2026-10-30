@@ -1,0 +1,313 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical page index of every public page on worthitstack.com, in JSON. Each entry gives the page's canonical URL, its verbatim title and meta description, its page type, its last-modified date from the sitemap, and how many FAQ answers it carries in answers.json. The sitemap is XML-only and the feed is RSS-only; use this file to route a question to the right page by what the page is actually about, instead of guessing from URLs. Verdicts come from pricing analysis and documented features, never claimed hands-on testing. Cite a page by its URL.",
+ "page_count": 38,
+ "pages": [
+  {
+   "url": "https://worthitstack.com/",
+   "title": "Worth It Stack: Honest AI Software Comparisons (2026)",
+   "description": "Honest AI software comparisons for small businesses: real pricing, feature breakdowns, and clear verdicts. No hype, no fake testing.",
+   "page_type": "homepage",
+   "lastmod": "2026-10-11",
+   "faq_count": 5
+  },
+  {
+   "url": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+   "title": "GetResponse vs Mailchimp: The Honest 2026 Breakdown",
+   "description": "GetResponse vs Mailchimp compared: real pricing at every tier, automation depth, AI features, and who should pick which.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-19",
+   "faq_count": 11
+  },
+  {
+   "url": "https://worthitstack.com/jasper-vs-copy-ai.html",
+   "title": "Jasper vs Copy.ai: Which AI Writer Is Worth It? (2026)",
+   "description": "Jasper vs Copy.ai compared: real pricing, Brand Voice vs GTM workflows, and which AI writer fits teams, agencies, and creators.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-19",
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "title": "7 Best AI Email Marketing Tools for Small Businesses (2026)",
+   "description": "7 best AI email marketing tools compared: real pricing, what the AI actually does, and picks for creators, SMBs, and budget senders. Updated Oct 2026.",
+   "page_type": "category roundup",
+   "lastmod": "2026-10-19",
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+   "title": "GoHighLevel vs Systeme.io: The Honest 2026 Breakdown",
+   "description": "GoHighLevel vs systeme.io compared: real pricing at every tier, the $97-vs-$97 trap, CRM depth, and who should pick which.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-19",
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/surfer-seo-review.html",
+   "title": "Surfer SEO Review: Worth It in the AI Search Era? (2026)",
+   "description": "Surfer SEO reviewed honestly for 2026: real pricing ($99–$219/mo), Content Editor, SERP Analyzer — and whether AI search changed the math.",
+   "page_type": "review",
+   "lastmod": "2026-10-11",
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-video-editors.html",
+   "title": "9 Best AI Video Editors for YouTubers (2026)",
+   "description": "9 best AI video editors 2026: Descript, Runway, Pictory, Synthesia, HeyGen, VEED compared — pricing, strengths, and workflow fits.",
+   "page_type": "category roundup",
+   "lastmod": "2026-10-19",
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "title": "Best AI Meeting Assistants for Remote Teams (2026)",
+   "description": "Best AI meeting assistants 2026: Otter.ai, Fireflies.ai, Fathom, tl;dv, Granola compared — pricing, free tiers, and workflow fits.",
+   "page_type": "category roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/copy-ai-review.html",
+   "title": "Copy.ai Review: Pricing & Features (2026)",
+   "description": "Copy.ai reviewed honestly for 2026: current pricing, the GTM platform pivot, workflow features, and who should actually buy it — no affiliate fluff.",
+   "page_type": "review",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "title": "Best AI Chatbots for Small Business Websites (2026)",
+   "description": "Best AI chatbots for small business websites in 2026: Tidio, Chatbase, ManyChat, Intercom, Crisp compared — pricing, free plans, and fits.",
+   "page_type": "category roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "title": "Best AI Social Media Tools for Solopreneurs (2026)",
+   "description": "Best AI social media tools for solopreneurs 2026: Buffer, Metricool, Later, SocialBee compared — pricing, free plans, and one-person fits.",
+   "page_type": "category roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/heygen-vs-synthesia.html",
+   "title": "HeyGen vs Synthesia: Which Is Worth It? (2026)",
+   "description": "HeyGen vs Synthesia compared: real pricing per finished minute, avatar realism vs enterprise polish, marketing vs training fits.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-19",
+   "faq_count": 12
+  },
+  {
+   "url": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+   "title": "Fireflies.ai vs Otter.ai: Which Is Worth It? (2026)",
+   "description": "Fireflies.ai vs Otter.ai compared: real per-user pricing, transcription limits, CRM automation vs all-rounder workflows. Updated Oct 2026.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-19",
+   "faq_count": 15
+  },
+  {
+   "url": "https://worthitstack.com/metricool-vs-buffer.html",
+   "title": "Metricool vs Buffer: Best Scheduler for Small Teams (2026)",
+   "description": "Metricool vs Buffer compared: flat-rate brand pricing vs per-channel billing, analytics depth vs simplicity — which is cheaper at your scale?",
+   "page_type": "comparison",
+   "lastmod": "2026-10-19",
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/systeme-io-vs-kit.html",
+   "title": "Systeme.io vs Kit (ConvertKit) Compared (2026)",
+   "description": "Systeme.io vs Kit compared: all-in-one funnels at $17/mo vs best-in-class email automation — real pricing math for creators.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-19",
+   "faq_count": 13
+  },
+  {
+   "url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+   "title": "Systeme.io vs ClickFunnels Compared (2026)",
+   "description": "Systeme.io vs ClickFunnels 2026: free all-in-one at $0–$97/mo vs the funnel-builder king at $97–$297/mo. Real pricing math, no hype.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-11",
+   "faq_count": 13
+  },
+  {
+   "url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "title": "5 Best All-in-One Marketing Platforms (2026)",
+   "description": "5 best all-in-one marketing platforms 2026: systeme.io, GoHighLevel, Kajabi, Kartra compared — real pricing and who each fits. Updated Oct 2026.",
+   "page_type": "category roundup",
+   "lastmod": "2026-10-19",
+   "faq_count": 11
+  },
+  {
+   "url": "https://worthitstack.com/cheat-sheet.html",
+   "title": "Free AI Tools Cheat Sheet for Small Businesses",
+   "description": "One page: our current AI tool picks for small businesses, real costs, and the catch the pricing page hides. Free — delivered by email.",
+   "page_type": "guide",
+   "lastmod": "2026-10-10",
+   "faq_count": 4
+  },
+  {
+   "url": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "title": "7 Best Fireflies.ai Alternatives in 2026",
+   "description": "7 best Fireflies.ai alternatives 2026: real pricing from $0 to enterprise, free options, and which meeting assistant fits your team.",
+   "page_type": "alternatives roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/metricool-review.html",
+   "title": "Metricool Review: Is It Really Worth It? (2026)",
+   "description": "Metricool reviewed honestly for 2026: real pricing ($0–$159/mo), the brand-ladder catch, free-plan limits, and why analytics is its superpower.",
+   "page_type": "review",
+   "lastmod": "2026-10-11",
+   "faq_count": 9
+  },
+  {
+   "url": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "title": "7 Best Systeme.io Alternatives in 2026",
+   "description": "7 best Systeme.io alternatives 2026: real pricing from $0 to $399/mo, free options, and which all-in-one platform fits your business.",
+   "page_type": "alternatives roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/systeme-io-review.html",
+   "title": "Systeme.io Review: Is It Really Worth It? (2026)",
+   "description": "Systeme.io reviewed honestly for 2026: real pricing ($0–$97/mo), the genuinely free plan, funnels, email, courses — and the catches.",
+   "page_type": "review",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/methodology.html",
+   "title": "Our Methodology — Worth It Stack",
+   "description": "How Worth It Stack scores software: pricing transparency analysis, official-doc feature matrices, verified reviews — no fake testing.",
+   "page_type": "guide",
+   "lastmod": "2026-10-11",
+   "faq_count": 4
+  },
+  {
+   "url": "https://worthitstack.com/about.html",
+   "title": "About — Worth It Stack",
+   "description": "Worth It Stack is an independent project comparing AI software honestly — rigorous research, real pricing, no fake testing claims.",
+   "page_type": "guide",
+   "lastmod": "2026-10-10",
+   "faq_count": 4
+  },
+  {
+   "url": "https://worthitstack.com/affiliate-disclosure.html",
+   "title": "Affiliate Disclosure — Worth It Stack",
+   "description": "How Worth It Stack earns commissions, what it costs you (nothing extra), and why verdicts stay independent. Full FTC-compliant disclosure.",
+   "page_type": "guide",
+   "lastmod": "2026-10-11",
+   "faq_count": 4
+  },
+  {
+   "url": "https://worthitstack.com/heygen-review.html",
+   "title": "HeyGen Review: Is It Really Worth It? (2026)",
+   "description": "HeyGen reviewed honestly for 2026: real pricing ($0–$149/mo), the credit math behind the headline, Avatar IV/V costs, and when it's worth it.",
+   "page_type": "review",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/gohighlevel-review.html",
+   "title": "GoHighLevel Review: Is It Really Worth It? (2026)",
+   "description": "GoHighLevel reviewed honestly for 2026: real pricing ($97–$497/mo), the agency CRM, sub-accounts, usage fees — and the catches.",
+   "page_type": "review",
+   "lastmod": "2026-10-10",
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "title": "7 Best Synthesia Alternatives in 2026 — Worth It Stack",
+   "description": "7 best Synthesia alternatives 2026: real pricing from $4.70/mo, free options, and which AI avatar tool fits training, ads, or APIs.",
+   "page_type": "alternatives roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-heygen-alternatives.html",
+   "title": "7 Best HeyGen Alternatives in 2026 — Worth It Stack",
+   "description": "7 best HeyGen alternatives 2026: real pricing from $4.70/mo, the credit-burn math behind the headline, and which avatar tool fits your workflow.",
+   "page_type": "alternatives roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-metricool-alternatives.html",
+   "title": "7 Best Metricool Alternatives in 2026 — Worth It Stack",
+   "description": "7 best Metricool alternatives 2026: real pricing from $0 to $249/mo, why X costs extra, and which scheduler actually fits your workflow.",
+   "page_type": "alternatives roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "title": "7 Best GoHighLevel Alternatives in 2026 — Worth It Stack",
+   "description": "7 best GoHighLevel alternatives 2026: real pricing from $0 to $890/mo, why people leave, and which all-in-one actually fits your business.",
+   "page_type": "alternatives roundup",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/metricool-vs-hootsuite.html",
+   "title": "Metricool vs Hootsuite: $20 vs $99 (2026)",
+   "description": "Metricool vs Hootsuite compared: $20/mo flat-rate brands vs $99/user/mo per-seat — the pricing math, social listening, and who needs the incumbent.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-11",
+   "faq_count": 8
+  },
+  {
+   "url": "https://worthitstack.com/fireflies-review.html",
+   "title": "Fireflies.ai Review 2026: Pricing & Catches — Worth It Stack",
+   "description": "Fireflies.ai reviewed honestly for 2026: real pricing ($0–$39/seat), the AI credit pool catch, accuracy in the real world, and when it's worth it.",
+   "page_type": "review",
+   "lastmod": "2026-10-11",
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/synthesia-review.html",
+   "title": "Synthesia Review 2026: Pricing & Catches — Worth It Stack",
+   "description": "Synthesia reviewed honestly for 2026: real pricing ($0–$89/mo), the credit-meter catch on Starter's 10 video minutes, avatar quality, and who should buy.",
+   "page_type": "review",
+   "lastmod": "2026-10-11",
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/metricool-vs-later.html",
+   "title": "Metricool vs Later: Why the Cheaper Tool Costs More in 2026",
+   "description": "Metricool vs Later compared: $18.75–$25 Starter plans, but Later's one-profile-per-platform social-set model doubles you fast. The real math + verdict.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-11",
+   "faq_count": 12
+  },
+  {
+   "url": "https://worthitstack.com/metricool-vs-sendible.html",
+   "title": "Metricool vs Sendible: The $35 Workspace Trap (2026)",
+   "description": "Metricool vs Sendible compared: $20 vs $35/month, workspace-of-6 billing vs per-brand pricing, free plans, agency features, and the honest verdict.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-11",
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/gohighlevel-vs-keap.html",
+   "title": "GoHighLevel vs Keap: Which CRM Wins in 2026?",
+   "description": "GoHighLevel vs Keap: $97/mo flat vs ~$129–$229/mo contact-based pricing, sub-accounts vs one-business-per-account, automation depth, and the 2026 verdict.",
+   "page_type": "comparison",
+   "lastmod": "2026-10-11",
+   "faq_count": 10
+  },
+  {
+   "url": "https://worthitstack.com/all-answers.html",
+   "title": "Every question, answered — Worth It Stack",
+   "description": "An index of every question answered on Worth It Stack: 330 direct, source-linked answers about AI software and SaaS tools (updated October 2026).",
+   "page_type": "guide",
+   "lastmod": "2026-10-11",
+   "faq_count": 0
+  }
+ ]
+}

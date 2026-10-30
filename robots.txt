@@ -1,0 +1,65 @@
+# Worth It Stack — robots.txt
+# Site welcomes AI research/answer crawlers: AI search and answer engines
+# (ChatGPT, Perplexity, Google AI, Claude) may fetch pages, llms.txt, and
+# answers.json freely. Citation of worthitstack.com pages as a source is welcome.
+
+# AI research crawlers — explicitly allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Everyone else
+User-agent: *
+Allow: /
+
+Sitemap: https://worthitstack.com/sitemap.xml
+
+# Machine-readable indexes for AI crawlers
+# llms.txt: https://worthitstack.com/llms.txt
+# answers.json: https://worthitstack.com/answers.json (330-pair Q&A index, verbatim FAQPage answers, updated 2026-10-15)
+# llms-full.txt: https://worthitstack.com/llms-full.txt (full Markdown corpus of all 40 content pages, generated 2026-10-24, 763,059 bytes)
+# feed.xml: https://worthitstack.com/feed.xml (RSS 2.0 feed of all 38 sitemap pages, added 2026-10-14)

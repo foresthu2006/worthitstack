@@ -1,0 +1,454 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical structured-data offers index of worthitstack.com, in JSON: every unique SoftwareApplication node published in the site's JSON-LD, deduped by tool @id, with its verbatim description and its verbatim Offer — price, currency, availability, vendor pricing URL and price-valid-until date — plus every sitemap page that carries the node. Every prior index is keyed by question, price row, page, tool, cited source, internal link, section heading, table or verdict; pricing-data records the visible pricing tables, while this file records the structured-data offer layer itself, so a machine reader can get a tool's stated offer without parsing JSON-LD out of 38 pages. Cite a price by its source page, not by this index. Verdicts come from pricing analysis and documented features, never claimed hands-on testing.",
+ "tool_count": 19,
+ "offer_count": 19,
+ "source_page_links": 32,
+ "tools": [
+  {
+   "tool": "GetResponse",
+   "tool_id": "https://worthitstack.com/#tool-getresponse",
+   "description": "Email marketing platform with automation workflows, landing pages, and built-in webinars, priced in per-contact billing blocks.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.getresponse.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-getresponse",
+    "price": 19,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.getresponse.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ]
+  },
+  {
+   "tool": "Mailchimp",
+   "tool_id": "https://worthitstack.com/#tool-mailchimp",
+   "description": "Email marketing platform known for templates and a large integration ecosystem, priced in per-contact tiers.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://mailchimp.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-mailchimp",
+    "price": 13,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://mailchimp.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/getresponse-vs-mailchimp.html"
+   ]
+  },
+  {
+   "tool": "Jasper",
+   "tool_id": "https://worthitstack.com/#tool-jasper",
+   "description": "AI writing platform for marketing teams, focused on on-brand copy, campaigns, and team workflows.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.jasper.ai/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-jasper",
+    "price": 49,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.jasper.ai/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/jasper-vs-copy-ai.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/jasper-vs-copy-ai.html"
+   ]
+  },
+  {
+   "tool": "Copy.ai",
+   "tool_id": "https://worthitstack.com/#tool-copy-ai",
+   "description": "AI go-to-market workflow platform that automates sales and marketing tasks such as prospecting, content, and outbound sequences.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.copy.ai/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-copy-ai",
+    "price": 29,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.copy.ai/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/jasper-vs-copy-ai.html",
+    "https://worthitstack.com/copy-ai-review.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/copy-ai-review.html"
+   ]
+  },
+  {
+   "tool": "GoHighLevel",
+   "tool_id": "https://worthitstack.com/#tool-gohighlevel",
+   "description": "All-in-one CRM and marketing platform for agencies, with pipelines, funnels, sub-accounts, and white-label resale.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.gohighlevel.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-gohighlevel",
+    "price": 97,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.gohighlevel.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/gohighlevel-review.html",
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/gohighlevel-review.html",
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ]
+  },
+  {
+   "tool": "Systeme.io",
+   "tool_id": "https://worthitstack.com/#tool-systeme-io",
+   "description": "All-in-one marketing platform combining funnels, email, online courses, and checkout, with a free plan and capped paid tiers.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://systeme.io/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-systeme-io",
+    "price": 17,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://systeme.io/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/systeme-io-vs-kit.html",
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+    "https://worthitstack.com/systeme-io-review.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+    "https://worthitstack.com/systeme-io-vs-kit.html",
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+    "https://worthitstack.com/systeme-io-review.html"
+   ]
+  },
+  {
+   "tool": "Surfer SEO",
+   "tool_id": "https://worthitstack.com/#tool-surfer-seo",
+   "description": "On-page SEO tool with a content editor and SERP analysis, used to plan and optimize articles against ranking pages.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.surferseo.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-surfer-seo",
+    "price": 99,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.surferseo.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/surfer-seo-review.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/surfer-seo-review.html"
+   ]
+  },
+  {
+   "tool": "HeyGen",
+   "tool_id": "https://worthitstack.com/#tool-heygen",
+   "description": "AI avatar video generator that turns scripts into presenter-led videos, metered by credits tied to finished video minutes.",
+   "application_category": "MultimediaApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.heygen.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-heygen",
+    "price": 29,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.heygen.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/heygen-review.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/heygen-review.html"
+   ]
+  },
+  {
+   "tool": "Synthesia",
+   "tool_id": "https://worthitstack.com/#tool-synthesia",
+   "description": "AI avatar video platform for corporate training and business video, with SCORM export and enterprise controls.",
+   "application_category": "MultimediaApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.synthesia.io/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-synthesia",
+    "price": 29,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.synthesia.io/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/synthesia-review.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/heygen-vs-synthesia.html",
+    "https://worthitstack.com/synthesia-review.html"
+   ]
+  },
+  {
+   "tool": "Fireflies.ai",
+   "tool_id": "https://worthitstack.com/#tool-fireflies-ai",
+   "description": "AI meeting assistant that records, transcribes, and summarizes calls, with search and CRM integrations across meeting platforms.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://fireflies.ai/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-fireflies-ai",
+    "price": 10,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://fireflies.ai/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/fireflies-vs-otter-ai.html",
+    "https://worthitstack.com/fireflies-review.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/fireflies-vs-otter-ai.html",
+    "https://worthitstack.com/fireflies-review.html"
+   ]
+  },
+  {
+   "tool": "Otter.ai",
+   "tool_id": "https://worthitstack.com/#tool-otter-ai",
+   "description": "AI meeting transcription tool that records calls, generates live notes and summaries, and organizes conversations by workspace.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://otter.ai/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-otter-ai",
+    "price": 8.33,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://otter.ai/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/fireflies-vs-otter-ai.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/fireflies-vs-otter-ai.html"
+   ]
+  },
+  {
+   "tool": "Metricool",
+   "tool_id": "https://worthitstack.com/#tool-metricool",
+   "description": "Social media scheduling and analytics platform priced flat per brand, covering planning, reporting, and competitor tracking.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://metricool.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-metricool",
+    "price": 25,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://metricool.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/metricool-vs-buffer.html",
+    "https://worthitstack.com/metricool-review.html",
+    "https://worthitstack.com/metricool-vs-hootsuite.html",
+    "https://worthitstack.com/metricool-vs-later.html",
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/metricool-vs-buffer.html",
+    "https://worthitstack.com/metricool-review.html",
+    "https://worthitstack.com/metricool-vs-hootsuite.html",
+    "https://worthitstack.com/metricool-vs-later.html",
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ]
+  },
+  {
+   "tool": "Buffer",
+   "tool_id": "https://worthitstack.com/#tool-buffer",
+   "description": "Social media scheduling tool that queues and publishes posts across channels, billed per channel rather than per user.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://buffer.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-buffer",
+    "price": 6,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://buffer.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/metricool-vs-buffer.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/metricool-vs-buffer.html"
+   ]
+  },
+  {
+   "tool": "Kit (ConvertKit)",
+   "tool_id": "https://worthitstack.com/#tool-kit-convertkit",
+   "description": "Email marketing platform built for creators and publishers, with sequences, tags, and paid newsletter features.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://kit.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-kit-convertkit",
+    "price": 39,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://kit.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/systeme-io-vs-kit.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/systeme-io-vs-kit.html"
+   ]
+  },
+  {
+   "tool": "ClickFunnels",
+   "tool_id": "https://worthitstack.com/#tool-clickfunnels",
+   "description": "Funnel-building platform for selling products and services online, combining landing pages, checkout, and follow-up in one hosted tool.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.clickfunnels.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-clickfunnels",
+    "price": 97,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.clickfunnels.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/systeme-io-vs-clickfunnels.html"
+   ]
+  },
+  {
+   "tool": "Hootsuite",
+   "tool_id": "https://worthitstack.com/#tool-hootsuite",
+   "description": "Social media management platform for scheduling, engagement, and social listening, priced per user.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.hootsuite.com/plans",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-hootsuite",
+    "price": 99,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.hootsuite.com/plans",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/metricool-vs-hootsuite.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/metricool-vs-hootsuite.html"
+   ]
+  },
+  {
+   "tool": "Later",
+   "tool_id": "https://worthitstack.com/#tool-later",
+   "description": "Social media scheduling tool organized around social sets — one profile per platform per set — with visual planning.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://later.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-later",
+    "price": 25,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://later.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/metricool-vs-later.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/metricool-vs-later.html"
+   ]
+  },
+  {
+   "tool": "Sendible",
+   "tool_id": "https://worthitstack.com/#tool-sendible",
+   "description": "Social media management platform for agencies, organized around workspaces of profiles with client reporting and approvals.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://www.sendible.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-sendible",
+    "price": 35,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.sendible.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/metricool-vs-sendible.html"
+   ]
+  },
+  {
+   "tool": "Keap",
+   "tool_id": "https://worthitstack.com/#tool-keap",
+   "description": "CRM and marketing automation tool for small businesses, priced in contact tiers with pipeline and invoicing features.",
+   "application_category": "BusinessApplication",
+   "operating_system": "Web",
+   "vendor_url": "https://keap.com/pricing",
+   "offer": {
+    "offer_id": "https://worthitstack.com/#offer-keap",
+    "price": 129,
+    "price_currency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://keap.com/pricing",
+    "price_valid_until": "2026-12-31"
+   },
+   "source_pages": [
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ],
+   "pages_with_offer": [
+    "https://worthitstack.com/gohighlevel-vs-keap.html"
+   ]
+  }
+ ]
+}

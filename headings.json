@@ -1,0 +1,3203 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical section-headings index of worthitstack.com, in JSON: every H2 heading on the site's 38 public sitemap pages, in document order, with its verbatim text, its id, its anchor URL, and whether it is a question-style heading. Every prior index is keyed by question/answer pair, price, page, tool, cited source or internal link; use this file to route a question to the exact SECTION of a page that addresses it — a pricing section, a verdict section, a question-style heading — without parsing 38 pages of HTML. Cite content by its page and section anchor, not by this index.",
+ "page_count": 38,
+ "heading_count": 494,
+ "question_heading_count": 35,
+ "pages": [
+  {
+   "page": "https://worthitstack.com/",
+   "heading_count": 6,
+   "headings": [
+    {
+     "heading": "Featured comparisons",
+     "id": "comparisons",
+     "anchor_url": "https://worthitstack.com/#comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Short answers to the questions buyers ask first",
+     "id": "short-answers",
+     "anchor_url": "https://worthitstack.com/#short-answers",
+     "is_question": false
+    },
+    {
+     "heading": "How we're different",
+     "id": "difference",
+     "anchor_url": "https://worthitstack.com/#difference",
+     "is_question": false
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Free: The AI Tools Cheat Sheet",
+     "id": "cheat-sheet",
+     "anchor_url": "https://worthitstack.com/#cheat-sheet",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+   "heading_count": 17,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "GetResponse vs Mailchimp at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Ease of use",
+     "id": "ease",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#ease",
+     "is_question": false
+    },
+    {
+     "heading": "Automation depth",
+     "id": "automation",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#automation",
+     "is_question": false
+    },
+    {
+     "heading": "AI features",
+     "id": "ai",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#ai",
+     "is_question": false
+    },
+    {
+     "heading": "Webinars, landing pages & extras",
+     "id": "extras",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#extras",
+     "is_question": false
+    },
+    {
+     "heading": "Deliverability & analytics",
+     "id": "deliverability",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#deliverability",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick GetResponse, and who should pick Mailchimp?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Quick answers",
+     "id": "quick-answers",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/getresponse-vs-mailchimp.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/jasper-vs-copy-ai.html",
+   "heading_count": 15,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Jasper vs Copy.ai at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Where Jasper wins",
+     "id": "jasper-strengths",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#jasper-strengths",
+     "is_question": false
+    },
+    {
+     "heading": "Where Copy.ai wins",
+     "id": "copyai-strengths",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#copyai-strengths",
+     "is_question": false
+    },
+    {
+     "heading": "What about just using free AI tools?",
+     "id": "free-alternatives",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#free-alternatives",
+     "is_question": true
+    },
+    {
+     "heading": "Who should pick which",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#who",
+     "is_question": false
+    },
+    {
+     "heading": "Quick answers",
+     "id": "quick-answers",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/jasper-vs-copy-ai.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "heading_count": 10,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Our picks at a glance",
+     "id": "our-picks-at-a-glance",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#our-picks-at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Side-by-side comparison",
+     "id": "compare",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#compare",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 tools, reviewed",
+     "id": "reviews",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#reviews",
+     "is_question": false
+    },
+    {
+     "heading": "How should you choose the right email marketing tool?",
+     "id": "choose",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#choose",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-ai-email-marketing-tools.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+   "heading_count": 15,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "GoHighLevel vs systeme.io at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Ease of use",
+     "id": "ease",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#ease",
+     "is_question": false
+    },
+    {
+     "heading": "CRM & automation depth",
+     "id": "crm",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#crm",
+     "is_question": false
+    },
+    {
+     "heading": "The solo-business math",
+     "id": "math",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#math",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick GoHighLevel, and who should pick Systeme.io?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Quick answers",
+     "id": "quick-answers",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/surfer-seo-review.html",
+   "heading_count": 13,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Surfer SEO at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing: what Surfer costs in 2026",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "What it actually does",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "The AI search question",
+     "id": "ai-search",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#ai-search",
+     "is_question": false
+    },
+    {
+     "heading": "How it compares to alternatives",
+     "id": "alternatives",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#alternatives",
+     "is_question": false
+    },
+    {
+     "heading": "Who should buy it",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#who",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "What's the final verdict on Surfer SEO?",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#final",
+     "is_question": true
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/surfer-seo-review.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-video-editors.html",
+   "heading_count": 10,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "The 9 editors at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Deep dive: each editor",
+     "id": "deep-dive",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#deep-dive",
+     "is_question": false
+    },
+    {
+     "heading": "Which one should you choose?",
+     "id": "choose",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#choose",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-ai-video-editors.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "heading_count": 11,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "The 6 assistants at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Deep dive: each assistant",
+     "id": "deep-dive",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#deep-dive",
+     "is_question": false
+    },
+    {
+     "heading": "Privacy and consent",
+     "id": "privacy",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#privacy",
+     "is_question": false
+    },
+    {
+     "heading": "Which one should your team choose?",
+     "id": "choose",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#choose",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-ai-meeting-assistants.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/copy-ai-review.html",
+   "heading_count": 13,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Copy.ai at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "The pivot: what Copy.ai is now",
+     "id": "pivot",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#pivot",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing: what we can (and can't) confirm",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "Features that matter",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Copy.ai vs the alternatives",
+     "id": "vs",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#vs",
+     "is_question": false
+    },
+    {
+     "heading": "Who should buy it",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#who",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "What's the final verdict on Copy.ai?",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#final",
+     "is_question": true
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/copy-ai-review.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "heading_count": 11,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 chatbots at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Deep dive: each chatbot",
+     "id": "deep-dive",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#deep-dive",
+     "is_question": false
+    },
+    {
+     "heading": "Which one should you choose?",
+     "id": "choose",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#choose",
+     "is_question": true
+    },
+    {
+     "heading": "Setup advice that actually matters",
+     "id": "setup",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#setup",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-ai-chatbots-small-business.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "heading_count": 11,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 tools at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Deep dive: each tool",
+     "id": "deep-dive",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#deep-dive",
+     "is_question": false
+    },
+    {
+     "heading": "Which one should you choose?",
+     "id": "choose",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#choose",
+     "is_question": true
+    },
+    {
+     "heading": "The solopreneur workflow that works",
+     "id": "workflow",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#workflow",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-ai-social-media-tools.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/heygen-vs-synthesia.html",
+   "heading_count": 14,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "HeyGen vs Synthesia at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The per-minute math that decides it",
+     "id": "math",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#math",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Avatar realism vs corporate polish",
+     "id": "realism",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#realism",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick HeyGen, and who should pick Synthesia?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Quick answers",
+     "id": "quick-answers",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/heygen-vs-synthesia.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+   "heading_count": 14,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Fireflies vs Otter at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "Fireflies' credit system, explained",
+     "id": "credits",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#credits",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Meeting intelligence vs transcription",
+     "id": "intelligence",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#intelligence",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick Fireflies.ai, and who should pick Otter.ai?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Quick answers",
+     "id": "quick-answers",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/fireflies-vs-otter-ai.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-buffer.html",
+   "heading_count": 13,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool vs Buffer at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The channel math that decides it",
+     "id": "math",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#math",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Analytics depth vs simplicity",
+     "id": "analytics",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#analytics",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick Metricool, and who should pick Buffer?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/metricool-vs-buffer.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-kit.html",
+   "heading_count": 14,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "systeme.io vs Kit at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The creator math at three list sizes",
+     "id": "math",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#math",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Email quality vs stack breadth",
+     "id": "email",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#email",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick Systeme.io, and who should pick Kit?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Quick answers",
+     "id": "quick-answers",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-kit.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+   "heading_count": 13,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "systeme.io vs ClickFunnels at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "What a year actually costs",
+     "id": "math",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#math",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "The builder experience",
+     "id": "builder",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#builder",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick Systeme.io, and who should pick ClickFunnels?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "heading_count": 11,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "The 5 platforms at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Deep dive: each platform",
+     "id": "deep-dive",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#deep-dive",
+     "is_question": false
+    },
+    {
+     "heading": "The stack math: what \"all-in-one\" actually saves",
+     "id": "stack-math",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#stack-math",
+     "is_question": false
+    },
+    {
+     "heading": "Which one should you choose?",
+     "id": "choose",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#choose",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/cheat-sheet.html",
+   "heading_count": 6,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/cheat-sheet.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "What's on the cheat sheet",
+     "id": "what-s-on-the-cheat-sheet",
+     "anchor_url": "https://worthitstack.com/cheat-sheet.html#what-s-on-the-cheat-sheet",
+     "is_question": false
+    },
+    {
+     "heading": "Get the free cheat sheet",
+     "id": "get-the-free-cheat-sheet",
+     "anchor_url": "https://worthitstack.com/cheat-sheet.html#get-the-free-cheat-sheet",
+     "is_question": false
+    },
+    {
+     "heading": "Not ready for the list?",
+     "id": "not-ready-for-the-list",
+     "anchor_url": "https://worthitstack.com/cheat-sheet.html#not-ready-for-the-list",
+     "is_question": true
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/cheat-sheet.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/cheat-sheet.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "heading_count": 9,
+   "headings": [
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Why people switch from Fireflies.ai",
+     "id": "why-switch",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#why-switch",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing at a glance",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 alternatives, reviewed",
+     "id": "tools",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#tools",
+     "is_question": false
+    },
+    {
+     "heading": "Which Fireflies.ai alternative should you pick?",
+     "id": "verdict",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#verdict",
+     "is_question": true
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-fireflies-alternatives.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-review.html",
+   "heading_count": 14,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing: the brand ladder, honestly",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The free plan's real limits",
+     "id": "free-plan",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#free-plan",
+     "is_question": false
+    },
+    {
+     "heading": "What it actually does",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Analytics: the strongest link",
+     "id": "analytics",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#analytics",
+     "is_question": false
+    },
+    {
+     "heading": "Who should buy Metricool?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "How it compares to alternatives",
+     "id": "alternatives",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#alternatives",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/metricool-review.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "heading_count": 9,
+   "headings": [
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Why do people switch from Systeme.io?",
+     "id": "why-switch",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#why-switch",
+     "is_question": true
+    },
+    {
+     "heading": "Pricing at a glance",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 alternatives, reviewed",
+     "id": "tools",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#tools",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick what",
+     "id": "verdict",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#verdict",
+     "is_question": false
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-systeme-io-alternatives.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-review.html",
+   "heading_count": 14,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "systeme.io at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing: the four tiers, honestly",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The free plan's real limits",
+     "id": "free-plan",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#free-plan",
+     "is_question": false
+    },
+    {
+     "heading": "What it actually does",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Email: the weakest link",
+     "id": "email",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#email",
+     "is_question": false
+    },
+    {
+     "heading": "Who should buy Systeme.io?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "How it compares to alternatives",
+     "id": "alternatives",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#alternatives",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/systeme-io-review.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/methodology.html",
+   "heading_count": 6,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/methodology.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The five things we score",
+     "id": "the-five-things-we-score",
+     "anchor_url": "https://worthitstack.com/methodology.html#the-five-things-we-score",
+     "is_question": false
+    },
+    {
+     "heading": "What we don't do",
+     "id": "what-we-don-t-do",
+     "anchor_url": "https://worthitstack.com/methodology.html#what-we-don-t-do",
+     "is_question": false
+    },
+    {
+     "heading": "Corrections",
+     "id": "corrections",
+     "anchor_url": "https://worthitstack.com/methodology.html#corrections",
+     "is_question": false
+    },
+    {
+     "heading": "Glossary — pricing and comparison terms we use",
+     "id": "glossary",
+     "anchor_url": "https://worthitstack.com/methodology.html#glossary",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/methodology.html#faq",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/about.html",
+   "heading_count": 7,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/about.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Why this site exists",
+     "id": "why-this-site-exists",
+     "anchor_url": "https://worthitstack.com/about.html#why-this-site-exists",
+     "is_question": false
+    },
+    {
+     "heading": "What we won't do",
+     "id": "what-we-won-t-do",
+     "anchor_url": "https://worthitstack.com/about.html#what-we-won-t-do",
+     "is_question": false
+    },
+    {
+     "heading": "How the verdicts are made",
+     "id": "how-the-verdicts-are-made",
+     "anchor_url": "https://worthitstack.com/about.html#how-the-verdicts-are-made",
+     "is_question": false
+    },
+    {
+     "heading": "How we make money",
+     "id": "how-we-make-money",
+     "anchor_url": "https://worthitstack.com/about.html#how-we-make-money",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/about.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Contact",
+     "id": "contact",
+     "anchor_url": "https://worthitstack.com/about.html#contact",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/affiliate-disclosure.html",
+   "heading_count": 8,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/affiliate-disclosure.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "What this means in practice",
+     "id": "what-this-means-in-practice",
+     "anchor_url": "https://worthitstack.com/affiliate-disclosure.html#what-this-means-in-practice",
+     "is_question": false
+    },
+    {
+     "heading": "What it doesn't mean",
+     "id": "what-it-doesn-t-mean",
+     "anchor_url": "https://worthitstack.com/affiliate-disclosure.html#what-it-doesn-t-mean",
+     "is_question": false
+    },
+    {
+     "heading": "Where you'll see disclosure",
+     "id": "where-you-ll-see-disclosure",
+     "anchor_url": "https://worthitstack.com/affiliate-disclosure.html#where-you-ll-see-disclosure",
+     "is_question": false
+    },
+    {
+     "heading": "Programs we participate in",
+     "id": "programs-we-participate-in",
+     "anchor_url": "https://worthitstack.com/affiliate-disclosure.html#programs-we-participate-in",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/affiliate-disclosure.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Questions?",
+     "id": "questions",
+     "anchor_url": "https://worthitstack.com/affiliate-disclosure.html#questions",
+     "is_question": true
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/affiliate-disclosure.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/heygen-review.html",
+   "heading_count": 15,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "HeyGen at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing: the tier list, honestly",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The credit math that changes everything",
+     "id": "credits",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#credits",
+     "is_question": false
+    },
+    {
+     "heading": "The free plan's real limits",
+     "id": "free-plan",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#free-plan",
+     "is_question": false
+    },
+    {
+     "heading": "What it actually does",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "The three catches",
+     "id": "catches",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#catches",
+     "is_question": false
+    },
+    {
+     "heading": "Who should buy HeyGen?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "How it compares to alternatives",
+     "id": "alternatives",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#alternatives",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/heygen-review.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-review.html",
+   "heading_count": 14,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "GoHighLevel at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "What's the quick verdict on GoHighLevel?",
+     "id": "what-s-the-quick-verdict-on-gohighlevel",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#what-s-the-quick-verdict-on-gohighlevel",
+     "is_question": true
+    },
+    {
+     "heading": "Pricing: the three tiers, honestly",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The real bill: usage fees",
+     "id": "real-bill",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#real-bill",
+     "is_question": false
+    },
+    {
+     "heading": "What it actually does",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "The three catches",
+     "id": "catches",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#catches",
+     "is_question": false
+    },
+    {
+     "heading": "Who should buy it",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#who",
+     "is_question": false
+    },
+    {
+     "heading": "How it compares to alternatives",
+     "id": "alternatives",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#alternatives",
+     "is_question": false
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/gohighlevel-review.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "heading_count": 9,
+   "headings": [
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "Why do people switch from Synthesia?",
+     "id": "why-switch",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#why-switch",
+     "is_question": true
+    },
+    {
+     "heading": "Pricing at a glance",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 alternatives, reviewed",
+     "id": "tools",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#tools",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick what",
+     "id": "verdict",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#verdict",
+     "is_question": false
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-synthesia-alternatives.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-heygen-alternatives.html",
+   "heading_count": 9,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Why do people switch from HeyGen?",
+     "id": "why-switch",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#why-switch",
+     "is_question": true
+    },
+    {
+     "heading": "Pricing at a glance",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 alternatives, reviewed",
+     "id": "tools",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#tools",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick what",
+     "id": "verdict",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#verdict",
+     "is_question": false
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-heygen-alternatives.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-metricool-alternatives.html",
+   "heading_count": 9,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Why people switch from Metricool",
+     "id": "why-switch",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#why-switch",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing at a glance",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 alternatives, reviewed",
+     "id": "tools",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#tools",
+     "is_question": false
+    },
+    {
+     "heading": "Which Metricool alternative should you pick?",
+     "id": "verdict",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#verdict",
+     "is_question": true
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-metricool-alternatives.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "heading_count": 9,
+   "headings": [
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "quick-verdict",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Why people switch from GoHighLevel",
+     "id": "why-switch",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#why-switch",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing at a glance",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The 7 alternatives, reviewed",
+     "id": "tools",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#tools",
+     "is_question": false
+    },
+    {
+     "heading": "Which GoHighLevel alternative should you pick?",
+     "id": "verdict",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#verdict",
+     "is_question": true
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/best-gohighlevel-alternatives.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-hootsuite.html",
+   "heading_count": 13,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool vs Hootsuite at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The seat math that decides it",
+     "id": "math",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#math",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Listening and the engagement inbox",
+     "id": "listening",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#listening",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick Metricool, and who should pick Hootsuite?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/metricool-vs-hootsuite.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-review.html",
+   "heading_count": 15,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Fireflies.ai at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing: the tier list, honestly",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The AI credit pool that changes the bill",
+     "id": "credits",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#credits",
+     "is_question": false
+    },
+    {
+     "heading": "The free plan's real limits",
+     "id": "free-plan",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#free-plan",
+     "is_question": false
+    },
+    {
+     "heading": "What it actually does",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "The three catches",
+     "id": "catches",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#catches",
+     "is_question": false
+    },
+    {
+     "heading": "Who should buy Fireflies.ai?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "How it compares to alternatives",
+     "id": "alternatives",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#alternatives",
+     "is_question": false
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/fireflies-review.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/synthesia-review.html",
+   "heading_count": 15,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Synthesia at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing: the tier list, honestly",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The credit meter that defines your bill",
+     "id": "credits",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#credits",
+     "is_question": false
+    },
+    {
+     "heading": "The free plan's real limits",
+     "id": "free-plan",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#free-plan",
+     "is_question": false
+    },
+    {
+     "heading": "What it actually does",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "The three catches",
+     "id": "catches",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#catches",
+     "is_question": false
+    },
+    {
+     "heading": "Who should buy Synthesia?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "How it compares to alternatives",
+     "id": "alternatives",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#alternatives",
+     "is_question": false
+    },
+    {
+     "heading": "FAQ",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/synthesia-review.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-later.html",
+   "heading_count": 13,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool vs Later at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The social-set math that decides it",
+     "id": "sets",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#sets",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Later's visual moat",
+     "id": "visual",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#visual",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick Metricool, and who should pick Later?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/metricool-vs-later.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-sendible.html",
+   "heading_count": 14,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool vs Sendible at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "the-quick-verdict",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#the-quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The workspace math that decides it",
+     "id": "workspaces",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#workspaces",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Sendible's agency moat",
+     "id": "agency",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#agency",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool's counterpunch",
+     "id": "metricool-edge",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#metricool-edge",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick Metricool, and who should pick Sendible?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/metricool-vs-sendible.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-keap.html",
+   "heading_count": 14,
+   "headings": [
+    {
+     "heading": "Stats worth citing",
+     "id": "stats-worth-citing",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#stats-worth-citing",
+     "is_question": false
+    },
+    {
+     "heading": "GoHighLevel vs Keap at a glance",
+     "id": "at-a-glance",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#at-a-glance",
+     "is_question": false
+    },
+    {
+     "heading": "Quick questions, quick answers",
+     "id": "quick-questions-quick-answers",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#quick-questions-quick-answers",
+     "is_question": false
+    },
+    {
+     "heading": "The quick verdict",
+     "id": "quick-verdict",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#quick-verdict",
+     "is_question": false
+    },
+    {
+     "heading": "Pricing compared, tier by tier",
+     "id": "pricing",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#pricing",
+     "is_question": false
+    },
+    {
+     "heading": "The contact-tax math that decides it",
+     "id": "contact-tax",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#contact-tax",
+     "is_question": false
+    },
+    {
+     "heading": "Feature comparison",
+     "id": "features",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#features",
+     "is_question": false
+    },
+    {
+     "heading": "Keap's automation moat",
+     "id": "keap-moat",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#keap-moat",
+     "is_question": false
+    },
+    {
+     "heading": "GoHighLevel's counterpunch",
+     "id": "ghl-edge",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#ghl-edge",
+     "is_question": false
+    },
+    {
+     "heading": "Who should pick GoHighLevel, and who should pick Keap?",
+     "id": "who",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#who",
+     "is_question": true
+    },
+    {
+     "heading": "Frequently asked questions",
+     "id": "faq",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#faq",
+     "is_question": false
+    },
+    {
+     "heading": "Final verdict",
+     "id": "final",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#final",
+     "is_question": false
+    },
+    {
+     "heading": "Related comparisons",
+     "id": "related-comparisons",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#related-comparisons",
+     "is_question": false
+    },
+    {
+     "heading": "Sources",
+     "id": "sources",
+     "anchor_url": "https://worthitstack.com/gohighlevel-vs-keap.html#sources",
+     "is_question": false
+    }
+   ]
+  },
+  {
+   "page": "https://worthitstack.com/all-answers.html",
+   "heading_count": 61,
+   "headings": [
+    {
+     "heading": "Download the answer dataset",
+     "id": "download-the-answer-dataset",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-answer-dataset",
+     "is_question": false
+    },
+    {
+     "heading": "Download the pricing dataset",
+     "id": "download-the-pricing-dataset",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-pricing-dataset",
+     "is_question": false
+    },
+    {
+     "heading": "Download the comparison index",
+     "id": "download-the-comparison-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-comparison-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the alternatives index",
+     "id": "download-the-alternatives-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-alternatives-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the reviews index",
+     "id": "download-the-reviews-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-reviews-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the roundups index",
+     "id": "download-the-roundups-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-roundups-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the tools index",
+     "id": "download-the-tools-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-tools-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the dataset catalog",
+     "id": "download-the-dataset-catalog",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-dataset-catalog",
+     "is_question": false
+    },
+    {
+     "heading": "Download the page index",
+     "id": "download-the-page-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-page-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the sources index",
+     "id": "download-the-sources-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-sources-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the vendors index",
+     "id": "download-the-vendors-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-vendors-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the links index",
+     "id": "download-the-links-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-links-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the headings index",
+     "id": "download-the-headings-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-headings-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the tables index",
+     "id": "download-the-tables-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-tables-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the verdicts index",
+     "id": "download-the-verdicts-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-verdicts-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the offers index",
+     "id": "download-the-offers-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-offers-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the breadcrumbs index",
+     "id": "download-the-breadcrumbs-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-breadcrumbs-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the ranked-lists index",
+     "id": "download-the-itemlists-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-itemlists-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the guides and glossary index",
+     "id": "download-the-guides-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-guides-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the speakable summaries index",
+     "id": "download-the-speakable-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-speakable-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the page freshness index",
+     "id": "download-the-freshness-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-freshness-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the software applications index",
+     "id": "download-the-apps-index",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-apps-index",
+     "is_question": false
+    },
+    {
+     "heading": "Download the answer dataset in CSV",
+     "id": "download-the-answer-dataset-csv",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-answer-dataset-csv",
+     "is_question": false
+    },
+    {
+     "heading": "Download the headings index in CSV",
+     "id": "download-the-headings-index-csv",
+     "anchor_url": "https://worthitstack.com/all-answers.html#download-the-headings-index-csv",
+     "is_question": false
+    },
+    {
+     "heading": "About — Worth It Stack",
+     "id": "about-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#about-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "Affiliate Disclosure — Worth It Stack",
+     "id": "affiliate-disclosure-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#affiliate-disclosure-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "Best AI Chatbots for Small Business Websites (2026)",
+     "id": "best-ai-chatbots-for-small-business-websites-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#best-ai-chatbots-for-small-business-websites-2026",
+     "is_question": false
+    },
+    {
+     "heading": "7 Best AI Email Marketing Tools for Small Businesses (2026)",
+     "id": "7-best-ai-email-marketing-tools-for-small-business-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#7-best-ai-email-marketing-tools-for-small-business-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Best AI Meeting Assistants for Remote Teams (2026)",
+     "id": "best-ai-meeting-assistants-for-remote-teams-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#best-ai-meeting-assistants-for-remote-teams-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Best AI Social Media Tools for Solopreneurs (2026)",
+     "id": "best-ai-social-media-tools-for-solopreneurs-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#best-ai-social-media-tools-for-solopreneurs-2026",
+     "is_question": false
+    },
+    {
+     "heading": "9 Best AI Video Editors for YouTubers (2026)",
+     "id": "9-best-ai-video-editors-for-youtubers-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#9-best-ai-video-editors-for-youtubers-2026",
+     "is_question": false
+    },
+    {
+     "heading": "5 Best All-in-One Marketing Platforms (2026)",
+     "id": "5-best-all-in-one-marketing-platforms-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#5-best-all-in-one-marketing-platforms-2026",
+     "is_question": false
+    },
+    {
+     "heading": "7 Best Fireflies.ai Alternatives in 2026",
+     "id": "7-best-fireflies-ai-alternatives-in-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#7-best-fireflies-ai-alternatives-in-2026",
+     "is_question": false
+    },
+    {
+     "heading": "7 Best GoHighLevel Alternatives in 2026 — Worth It Stack",
+     "id": "7-best-gohighlevel-alternatives-in-2026-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#7-best-gohighlevel-alternatives-in-2026-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "7 Best HeyGen Alternatives in 2026 — Worth It Stack",
+     "id": "7-best-heygen-alternatives-in-2026-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#7-best-heygen-alternatives-in-2026-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "7 Best Metricool Alternatives in 2026 — Worth It Stack",
+     "id": "7-best-metricool-alternatives-in-2026-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#7-best-metricool-alternatives-in-2026-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "7 Best Synthesia Alternatives in 2026 — Worth It Stack",
+     "id": "7-best-synthesia-alternatives-in-2026-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#7-best-synthesia-alternatives-in-2026-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "7 Best Systeme.io Alternatives in 2026",
+     "id": "7-best-systeme-io-alternatives-in-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#7-best-systeme-io-alternatives-in-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Free AI Tools Cheat Sheet for Small Businesses",
+     "id": "free-ai-tools-cheat-sheet-for-small-businesses",
+     "anchor_url": "https://worthitstack.com/all-answers.html#free-ai-tools-cheat-sheet-for-small-businesses",
+     "is_question": false
+    },
+    {
+     "heading": "Copy.ai Review: Pricing & Features (2026)",
+     "id": "copy-ai-review-pricing-features-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#copy-ai-review-pricing-features-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Fireflies.ai Review 2026: Pricing & Catches — Worth It Stack",
+     "id": "fireflies-ai-review-2026-pricing-catches-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#fireflies-ai-review-2026-pricing-catches-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "Fireflies.ai vs Otter.ai: Which Is Worth It? (2026)",
+     "id": "fireflies-ai-vs-otter-ai-which-is-worth-it-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#fireflies-ai-vs-otter-ai-which-is-worth-it-2026",
+     "is_question": false
+    },
+    {
+     "heading": "GetResponse vs Mailchimp: The Honest 2026 Breakdown",
+     "id": "getresponse-vs-mailchimp-the-honest-2026-breakdown",
+     "anchor_url": "https://worthitstack.com/all-answers.html#getresponse-vs-mailchimp-the-honest-2026-breakdown",
+     "is_question": false
+    },
+    {
+     "heading": "GoHighLevel Review: Is It Really Worth It? (2026)",
+     "id": "gohighlevel-review-is-it-really-worth-it-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#gohighlevel-review-is-it-really-worth-it-2026",
+     "is_question": false
+    },
+    {
+     "heading": "GoHighLevel vs Keap: Which CRM Wins in 2026?",
+     "id": "gohighlevel-vs-keap-which-crm-wins-in-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#gohighlevel-vs-keap-which-crm-wins-in-2026",
+     "is_question": true
+    },
+    {
+     "heading": "GoHighLevel vs Systeme.io: The Honest 2026 Breakdown",
+     "id": "gohighlevel-vs-systeme-io-the-honest-2026-breakdown",
+     "anchor_url": "https://worthitstack.com/all-answers.html#gohighlevel-vs-systeme-io-the-honest-2026-breakdown",
+     "is_question": false
+    },
+    {
+     "heading": "HeyGen Review: Is It Really Worth It? (2026)",
+     "id": "heygen-review-is-it-really-worth-it-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#heygen-review-is-it-really-worth-it-2026",
+     "is_question": false
+    },
+    {
+     "heading": "HeyGen vs Synthesia: Which Is Worth It? (2026)",
+     "id": "heygen-vs-synthesia-which-is-worth-it-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#heygen-vs-synthesia-which-is-worth-it-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Worth It Stack: Honest AI Software Comparisons (2026)",
+     "id": "worth-it-stack-honest-ai-software-comparisons-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#worth-it-stack-honest-ai-software-comparisons-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Jasper vs Copy.ai: Which AI Writer Is Worth It? (2026)",
+     "id": "jasper-vs-copy-ai-which-ai-writer-is-worth-it-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#jasper-vs-copy-ai-which-ai-writer-is-worth-it-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Our Methodology — Worth It Stack",
+     "id": "our-methodology-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#our-methodology-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool Review: Is It Really Worth It? (2026)",
+     "id": "metricool-review-is-it-really-worth-it-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#metricool-review-is-it-really-worth-it-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool vs Buffer: Best Scheduler for Small Teams (2026)",
+     "id": "metricool-vs-buffer-best-scheduler-for-small-teams-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#metricool-vs-buffer-best-scheduler-for-small-teams-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool vs Hootsuite: $20 vs $99 (2026)",
+     "id": "metricool-vs-hootsuite-20-vs-99-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#metricool-vs-hootsuite-20-vs-99-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool vs Later: Why the Cheaper Tool Costs More in 2026",
+     "id": "metricool-vs-later-why-the-cheaper-tool-costs-more-in-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#metricool-vs-later-why-the-cheaper-tool-costs-more-in-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Metricool vs Sendible: The $35 Workspace Trap (2026)",
+     "id": "metricool-vs-sendible-the-35-workspace-trap-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#metricool-vs-sendible-the-35-workspace-trap-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Surfer SEO Review: Worth It in the AI Search Era? (2026)",
+     "id": "surfer-seo-review-worth-it-in-the-ai-search-era-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#surfer-seo-review-worth-it-in-the-ai-search-era-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Synthesia Review 2026: Pricing & Catches — Worth It Stack",
+     "id": "synthesia-review-2026-pricing-catches-worth-it-stack",
+     "anchor_url": "https://worthitstack.com/all-answers.html#synthesia-review-2026-pricing-catches-worth-it-stack",
+     "is_question": false
+    },
+    {
+     "heading": "Systeme.io Review: Is It Really Worth It? (2026)",
+     "id": "systeme-io-review-is-it-really-worth-it-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#systeme-io-review-is-it-really-worth-it-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Systeme.io vs ClickFunnels Compared (2026)",
+     "id": "systeme-io-vs-clickfunnels-compared-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#systeme-io-vs-clickfunnels-compared-2026",
+     "is_question": false
+    },
+    {
+     "heading": "Systeme.io vs Kit (ConvertKit) Compared (2026)",
+     "id": "systeme-io-vs-kit-convertkit-compared-2026",
+     "anchor_url": "https://worthitstack.com/all-answers.html#systeme-io-vs-kit-convertkit-compared-2026",
+     "is_question": false
+    }
+   ]
+  }
+ ]
+}

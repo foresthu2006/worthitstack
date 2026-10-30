@@ -1,0 +1,392 @@
+{
+ "site": "Worth It Stack",
+ "site_url": "https://worthitstack.com",
+ "generated": "2026-10-18",
+ "note": "Canonical speakable-summaries index of worthitstack.com, in JSON: every sitemap page's SpeakableSpecification exactly as published in its JSON-LD — its @id, language and CSS selectors — together with the verbatim visible text of the summary element those selectors target, each page's 'In short' quick-answer paragraph. Every prior index is keyed by question, price, page, tool, cited source, internal link, heading, table, verdict, structured-data offer, breadcrumb trail, ranked list, guide step or glossary term; none exposed the one paragraph each page designates to be read aloud, so a voice assistant or AI reader can now take a page's spoken summary — the shortest faithful answer the page gives — from this file instead of parsing each page's HTML and structured data. Cite content by its page, not by this index.",
+ "page_count": 38,
+ "selector_count": 38,
+ "word_count": 1970,
+ "record_count": 38,
+ "pages": [
+  {
+   "page": "https://worthitstack.com/",
+   "speakable_id": "https://worthitstack.com/#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Worth It Stack is an independent comparison site for AI software and SaaS tools, built for small businesses and creators. Every page shows real pricing, feature breakdowns, and a clear verdict — no hype, no fake hands-on testing claims. Reader-supported through affiliate commissions; all research free, no paywall.",
+   "summary_word_count": 50
+  },
+  {
+   "page": "https://worthitstack.com/getresponse-vs-mailchimp.html",
+   "speakable_id": "https://worthitstack.com/getresponse-vs-mailchimp.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick GetResponse if your list is going to grow — deeper automation per dollar, gentler per-contact pricing as contacts increase, and webinars bundled into the same tool. Pick Mailchimp if you want the easiest possible start, the prettiest templates, and the Intuit ecosystem. Growing lists should lean GetResponse; beginners should lean Mailchimp. Confirm current pricing before buying.",
+   "summary_word_count": 59
+  },
+  {
+   "page": "https://worthitstack.com/jasper-vs-copy-ai.html",
+   "speakable_id": "https://worthitstack.com/jasper-vs-copy-ai.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick Jasper if you're a marketing team or agency needing on-brand content at volume — Brand Voice, collaboration, and campaign workflows are its strengths. Pick Copy.ai for AI sales workflows like prospecting, enrichment, and outreach sequences — or the most generous free tier. Don't buy either just to write blog posts; free tools cover that now.",
+   "summary_word_count": 58
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-email-marketing-tools.html",
+   "speakable_id": "https://worthitstack.com/best-ai-email-marketing-tools.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: GetResponse is the best overall pick — the deepest automation per dollar. Kit (formerly ConvertKit) is the creator pick with a generous free plan; MailerLite has the best free tier (1,000 subscribers). Brevo’s pay-per-email pricing suits light senders; Mailchimp is the easiest to start.",
+   "summary_word_count": 46
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-systeme-io.html",
+   "speakable_id": "https://worthitstack.com/gohighlevel-vs-systeme-io.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick systeme.io if you're one person selling courses, coaching, or digital products — start free and pay $0–$17/month while you grow. Pick GoHighLevel if you manage clients, need a real CRM with pipelines and SMS, or want white-label SaaS resale. Solo operators buy systeme.io; agencies buy GoHighLevel. At $97/month each, you're buying opposite things.",
+   "summary_word_count": 56
+  },
+  {
+   "page": "https://worthitstack.com/surfer-seo-review.html",
+   "speakable_id": "https://worthitstack.com/surfer-seo-review.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Surfer SEO is worth it if you publish SEO content regularly and want data-backed briefs plus the best-in-class Content Editor, from $99/month ($79 annual). Skip it if you publish occasionally, need backlink or technical audits (that's Ahrefs/Semrush territory), or your strategy has moved off organic search — it's an on-page specialist.",
+   "summary_word_count": 53
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-video-editors.html",
+   "speakable_id": "https://worthitstack.com/best-ai-video-editors.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Descript is the best overall creator pick — transcript editing is the single biggest time-saver for anyone who records themselves. Opus Clip has the highest ROI for repurposing long-form into clips; CapCut is the best free option. HeyGen wins avatar realism, Synthesia corporate training polish.",
+   "summary_word_count": 47
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-meeting-assistants.html",
+   "speakable_id": "https://worthitstack.com/best-ai-meeting-assistants.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Fathom has the best free tier — unlimited recording and transcription free. Otter.ai is the best all-rounder, with mobile and in-person recording. Fireflies.ai fits sales and CRM workflows with the deepest integrations; Granola records from your device with no meeting bot joining the call.",
+   "summary_word_count": 46
+  },
+  {
+   "page": "https://worthitstack.com/copy-ai-review.html",
+   "speakable_id": "https://worthitstack.com/copy-ai-review.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Copy.ai is no longer an AI writing tool — it's a go-to-market workflow platform for sales and marketing teams, automating prospecting, enrichment, and outreach. Pricing is volatile: the Chat plan runs ~$29/mo and enterprise tiers ~$1,000+/mo. Worth it for GTM automation at scale; overkill for blog writing — Jasper or ChatGPT fit better.",
+   "summary_word_count": 55
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-chatbots-small-business.html",
+   "speakable_id": "https://worthitstack.com/best-ai-chatbots-small-business.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Tidio is the best pick for most small businesses — easiest setup, a useful free tier, and Lyro AI for FAQs. Chatbase wins on budget (~$19/month, trained on your docs), ManyChat owns social DM automation, and Intercom's Fin leads on resolution quality, priced per resolution.",
+   "summary_word_count": 47
+  },
+  {
+   "page": "https://worthitstack.com/best-ai-social-media-tools.html",
+   "speakable_id": "https://worthitstack.com/best-ai-social-media-tools.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Buffer is the simplest scheduler with a real free plan and per-channel pricing that stays cheap at small scale. Metricool adds deep analytics and competitor tracking from $25/month ($20/month annual). Later is best for Instagram-first creators; SocialBee for evergreen content recycling.",
+   "summary_word_count": 43
+  },
+  {
+   "page": "https://worthitstack.com/heygen-vs-synthesia.html",
+   "speakable_id": "https://worthitstack.com/heygen-vs-synthesia.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick HeyGen for marketing content — UGC-style ads, product demos, social videos — where avatar realism matters most. Pick Synthesia for training, onboarding, and compliance at scale, with SCORM export, multilingual dubbing, and enterprise security. Both start at $29/month, but that $29 buys very different amounts of finished video — do the per-minute math before choosing.",
+   "summary_word_count": 58
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-vs-otter-ai.html",
+   "speakable_id": "https://worthitstack.com/fireflies-vs-otter-ai.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick Otter.ai for team meetings — reliable transcription, 300 free minutes a month, a mobile app, and in-person recording. Pick Fireflies.ai for sales calls — unlimited transcription, talk ratios, sentiment tracking, and notes pushed into HubSpot or Salesforce. Fireflies Pro starts at $10/user/month on annual billing ($18 month-to-month); model the AI credit pool first.",
+   "summary_word_count": 56
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-buffer.html",
+   "speakable_id": "https://worthitstack.com/metricool-vs-buffer.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick Buffer if you're a solo creator with 1–3 channels — the free plan or $5/channel (annual) Essentials is the cheapest credible scheduler. Pick Metricool for multiple brands or real analytics: the flat ~$20/month (annual billing) Starter covers 5 brands with ad tracking, competitor monitoring, and reports Buffer can't match at any channel count.",
+   "summary_word_count": 56
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-kit.html",
+   "speakable_id": "https://worthitstack.com/systeme-io-vs-kit.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick systeme.io if you sell courses, coaching, or digital products and want funnels, email, checkout, and hosting in one dashboard — starting free and capping at $17–$47/month. Pick Kit if email is your primary channel: the best automation builder in the creator space, with a free plan covering 10,000 subscribers. Sellers buy systeme.io; publishers buy Kit.",
+   "summary_word_count": 58
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-vs-clickfunnels.html",
+   "speakable_id": "https://worthitstack.com/systeme-io-vs-clickfunnels.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick systeme.io if you're pre-revenue or selling your first products — start free with 2,000 contacts and 3 funnels, then $17–$47/month as you grow on one bill. Pick ClickFunnels if funnels are the business: the deepest builder, biggest template library, affiliate management, training — $97–$297/month. $97 buys ClickFunnels' entry plan or systeme.io's unlimited plan.",
+   "summary_word_count": 56
+  },
+  {
+   "page": "https://worthitstack.com/best-all-in-one-marketing-platforms.html",
+   "speakable_id": "https://worthitstack.com/best-all-in-one-marketing-platforms.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: systeme.io is best for solo creators on a budget — free to start, $97/month max for unlimited everything. GoHighLevel ($97–$297/month) is the agency pick with sub-accounts and white-labeling. Kajabi ($179–$499/month) suits premium course brands; Kartra (from $59/month) suits automation-heavy marketers.",
+   "summary_word_count": 42
+  },
+  {
+   "page": "https://worthitstack.com/cheat-sheet.html",
+   "speakable_id": "https://worthitstack.com/cheat-sheet.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: A free 1-page cheat sheet of AI tools for small businesses — our current pick in 9 categories, what each actually costs, and the catch the pricing page doesn’t mention. Researched from 25+ tools, scannable in 3 minutes, sent to your inbox.",
+   "summary_word_count": 44
+  },
+  {
+   "page": "https://worthitstack.com/best-fireflies-alternatives.html",
+   "speakable_id": "https://worthitstack.com/best-fireflies-alternatives.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Stick with Fireflies if your meetings are sales calls — unlimited transcription plus talk-time analytics and CRM automation at ~$10/seat/month. Switch to Fathom for great meeting notes free, Otter for mobile and in-person recording, or Gong/Avoma for sales call intelligence tied to pipeline.",
+   "summary_word_count": 45
+  },
+  {
+   "page": "https://worthitstack.com/metricool-review.html",
+   "speakable_id": "https://worthitstack.com/metricool-review.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Metricool is worth it for multi-brand managers and agencies: agency-grade social analytics — ad tracking, competitor benchmarks, downloadable reports — with no per-seat pricing. Free for 1 brand; paid plans start at $25/month. Skip it if X/Twitter is a core channel (an extra add-on) or you need a full engagement inbox — that's Hootsuite territory.",
+   "summary_word_count": 57
+  },
+  {
+   "page": "https://worthitstack.com/best-systeme-io-alternatives.html",
+   "speakable_id": "https://worthitstack.com/best-systeme-io-alternatives.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Stick with systeme.io for the most business for the least money — a real free plan and full all-in-one at $17/month, the best value for solopreneurs and course sellers. Switch to Kit for email-first creators (free to 10,000 subscribers), GoHighLevel for agencies, Kajabi for premium courses.",
+   "summary_word_count": 48
+  },
+  {
+   "page": "https://worthitstack.com/systeme-io-review.html",
+   "speakable_id": "https://worthitstack.com/systeme-io-review.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Systeme.io is the cheapest credible way to run a digital-product business: funnels, email, checkout, course hosting, and affiliate management in one dashboard — starting free (2,000 contacts) and capping at $97/month. Skip it if email is your main revenue channel (Kit's automation justifies its price) or you run an agency needing white-label pipelines.",
+   "summary_word_count": 55
+  },
+  {
+   "page": "https://worthitstack.com/methodology.html",
+   "speakable_id": "https://worthitstack.com/methodology.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Every comparison follows the same documented five-part process — real pricing pulled from vendor pages and mapped at realistic usage, per-seat vs per-contact vs flat math, annual/monthly differences, feature matrices from official docs, and aggregated verified reviews. Published so you can spot corner-cutting.",
+   "summary_word_count": 45
+  },
+  {
+   "page": "https://worthitstack.com/about.html",
+   "speakable_id": "https://worthitstack.com/about.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Worth It Stack is an independent editorial project answering “is it worth it?” for AI software and SaaS tools. Our comparisons are built on real pricing breakdowns, documented features, and aggregated verified user reviews — never invented testing, never stock-photo experts.",
+   "summary_word_count": 43
+  },
+  {
+   "page": "https://worthitstack.com/affiliate-disclosure.html",
+   "speakable_id": "https://worthitstack.com/affiliate-disclosure.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Many links on Worth It Stack are affiliate links — if you buy through them, the vendor pays us a commission at no extra cost to you. You pay exactly the vendor’s price; the commission comes from their margin. Commissions never decide our verdicts.",
+   "summary_word_count": 46
+  },
+  {
+   "page": "https://worthitstack.com/heygen-review.html",
+   "speakable_id": "https://worthitstack.com/heygen-review.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: HeyGen is the best AI avatar video tool for realism: paste a script, pick a presenter, and get a lip-synced video in 175+ languages, from $29/month. The catch is credit billing — premium avatars burn credits 3–7x faster than the headline implies. Worth it when you need a human on screen without filming.",
+   "summary_word_count": 55
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-review.html",
+   "speakable_id": "https://worthitstack.com/gohighlevel-review.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: GoHighLevel is worth it for agencies and client-services businesses: the $297/month Unlimited plan replaces a $400–$600/month stack — CRM, funnels, email, SMS, calendar, courses, review management. Skip it solo with no clients, if you need a free plan (there isn't one), or want setup this week — the learning curve runs 2–4 weeks.",
+   "summary_word_count": 55
+  },
+  {
+   "page": "https://worthitstack.com/best-synthesia-alternatives.html",
+   "speakable_id": "https://worthitstack.com/best-synthesia-alternatives.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Stick with Synthesia for enterprise training and enablement — compliance, multilingual output, governance — with Starter fairly priced at $29/month. Switch to HeyGen for the most realistic avatars, Colossyan for SCORM export and branching quizzes, or D-ID if budget is the deciding factor.",
+   "summary_word_count": 45
+  },
+  {
+   "page": "https://worthitstack.com/best-heygen-alternatives.html",
+   "speakable_id": "https://worthitstack.com/best-heygen-alternatives.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Stick with HeyGen if avatar realism is the point — marketing content and UGC-style ads, budgeted by finished premium minutes. Switch to Synthesia for predictable minute-based billing and corporate compliance (SOC 2, GDPR), Colossyan for SCORM export, or D-ID for the cheapest credible entry point.",
+   "summary_word_count": 47
+  },
+  {
+   "page": "https://worthitstack.com/best-metricool-alternatives.html",
+   "speakable_id": "https://worthitstack.com/best-metricool-alternatives.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Stick with Metricool for several brands or clients — ad-spend tracking, competitor monitoring, downloadable reports — without per-seat pricing. Switch to Buffer if you're a solo creator wanting the simplest scheduler at free or $5/channel annual, to Later if Instagram is your main channel, or to Hootsuite if social is a customer-service channel.",
+   "summary_word_count": 55
+  },
+  {
+   "page": "https://worthitstack.com/best-gohighlevel-alternatives.html",
+   "speakable_id": "https://worthitstack.com/best-gohighlevel-alternatives.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Stick with GoHighLevel if you're an agency — sub-accounts, white-labeling, and SaaS mode have no real equivalent. Switch to systeme.io if you're solo with one offer at free or $17/month, to ActiveCampaign if automation is the job, or to Kajabi if you sell high-ticket coaching at $179/month and up.",
+   "summary_word_count": 51
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-hootsuite.html",
+   "speakable_id": "https://worthitstack.com/metricool-vs-hootsuite.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick Hootsuite if social is a customer-service channel — you need an engagement inbox, listening beyond your profiles, or enterprise approval workflows. Pick Metricool for scheduling plus analytics: $20/month for 5 brands covers ~90% of what small teams use Hootsuite for at ~20% of the single-seat price; per-seat math worsens with every hire.",
+   "summary_word_count": 55
+  },
+  {
+   "page": "https://worthitstack.com/fireflies-review.html",
+   "speakable_id": "https://worthitstack.com/fireflies-review.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Fireflies is worth it for sales, recruiting, or client-services teams — searchable transcripts, AskFred across your meeting history, and CRM automation at $10–$18/user/month. Skip it if you need live captions during calls, have HIPAA requirements without an Enterprise budget, or are a solo user wanting simple free transcripts — Fathom's free tier is the simpler play.",
+   "summary_word_count": 58
+  },
+  {
+   "page": "https://worthitstack.com/synthesia-review.html",
+   "speakable_id": "https://worthitstack.com/synthesia-review.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Synthesia is worth it for training video at scale — avatar range and multi-language output beat filming's cost by an order of magnitude. Skip it if you need more than ~10 minutes monthly but can't justify Pro at $89/month, need best-in-class realism, or are solo — D-ID's $4.70/month tier exists for that.",
+   "summary_word_count": 54
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-later.html",
+   "speakable_id": "https://worthitstack.com/metricool-vs-later.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick Later if Instagram is your business — the visual feed planner with drag-and-drop preview is best-in-class at $18.75/month annual for one social set. Pick Metricool for complex setups: multiple accounts per platform, ad spend to track, or team members. At $20/month for 5 brands with unlimited users, it's the safer scaling bet.",
+   "summary_word_count": 55
+  },
+  {
+   "page": "https://worthitstack.com/metricool-vs-sendible.html",
+   "speakable_id": "https://worthitstack.com/metricool-vs-sendible.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick Metricool if you're a business, creator, or small agency doing your own publishing — $20/month annual for 5 brands, deep analytics, ad tracking, and competitor data. Pick Sendible for agencies with actual clients to isolate: client dashboards, approval workflows, profile bundling — starting at $35/month for 6 profiles in one workspace, unlimited users included.",
+   "summary_word_count": 57
+  },
+  {
+   "page": "https://worthitstack.com/gohighlevel-vs-keap.html",
+   "speakable_id": "https://worthitstack.com/gohighlevel-vs-keap.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "In short: Pick GoHighLevel if you run an agency — its sub-account and SaaS model has no rival — or want flat unlimited-contact billing starting at $97/month. Pick Keap if you're a small business with a modest list where the contact tax doesn't bite, $129–$229/month. Agencies shouldn't compare these — Keap has no agency model.",
+   "summary_word_count": 55
+  },
+  {
+   "page": "https://worthitstack.com/all-answers.html",
+   "speakable_id": "https://worthitstack.com/all-answers.html#speakable",
+   "in_language": "en",
+   "css_selector": [
+    "#quick-answer-summary"
+   ],
+   "summary_text": "Worth It Stack has answered 330 questions across 37 comparisons and reviews — every one indexed below, quoted verbatim with a deep link to the FAQ unit it came from. Readers and AI assistants can verify and cite the original. Pricing reflects the verification month on each source page; verdicts come from pricing analysis and features, never hands-on-testing claims.",
+   "summary_word_count": 59
+  }
+ ]
+}
